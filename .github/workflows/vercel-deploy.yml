@@ -1,69 +1,52 @@
-name: Vercel Auto Deploy (ULTRA+)
+name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    branches: [ "main" ]
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
-  Install-Build-Deploy:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      # 1. CHECKOUT CODE
-      - name: 🧩 Checkout Repository
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      # 2. SETUP NODE
-      - name: 🟦 Setup Node.js
-        uses: actions/setup-node@v3
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: 18
-          cache: "npm"
+          cache: npm
 
-      # 3. INSTALL DEPENDENCIES
-      - name: 📦 Install Dependencies
-        run: npm install --legacy-peer-deps
+      - name: Install dependencies
+        run: npm install
 
-      # 4. LINT (QUALITY CHECK)
-      - name: 🔍 Run Lint Check
-        run: npm run lint || echo "Skipping lint errors"
-
-      # 5. BUILD APP
-      - name: 🛠️ Build App
+      - name: Build project
         run: npm run build
 
-      # 6. DEPLOY TO VERCEL (AUTO MODE)
-      - name: ▲ Deploy to Vercel (ULTRA Mode)
-        uses: amondnet/vercel-action@v25
+      - name: Upload production artifacts
+        uses: actions/upload-pages-artifact@v2
         with:
-          vercel-token: ${{ secrets.VERCEL_TOKEN }}
-          vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
-          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
-          working-directory: ./
-          vercel-args: "--prod"
+          path: ./dist
 
-      # 7. PREVIEW DEPLOY FOR PRs
-      - name: 🧪 Deploy Preview (Pull Requests)
-        if: github.event_name == 'pull_request'
-        uses: amondnet/vercel-action@v25
-        with:
-          vercel-token: ${{ secrets.VERCEL_TOKEN }}
-          vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
-          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
-          working-directory: ./
-          vercel-args: "--prebuilt"
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v2
 
-      # 8. CACHE INVALIDATION
-      - name: ♻️ Clear Vercel Cache
-        run: |
-          echo "Clearing cache… (Vercel auto-handles)"
-          echo "Done"
-
-      # 9. SUCCESS MESSAGE
-      - name: 🎉 Success
-        run: echo "🚀 Deployment Complete!"
 
 
