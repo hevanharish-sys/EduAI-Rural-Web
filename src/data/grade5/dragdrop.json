@@ -1,0 +1,35 @@
+[
+  {
+    "id": "g5-dd-1",
+    "title": "Match Food Chain",
+    "desc": "Drag predator to its prey in the food chain.",
+    "pairs": [
+      { "drag": "Snake", "target": "frog-box" }
+    ]
+  },
+  {
+    "id": "g5-dd-2",
+    "title": "Match Instrument to Sound",
+    "desc": "Drag the instrument to the correct sound group.",
+    "pairs": [
+      { "drag": "Guitar", "target": "string-sound" }
+    ]
+  },
+  {
+    "id": "g5-dd-3",
+    "title": "Match Measurement",
+    "desc": "Match the measurement unit to the correct tool.",
+    "pairs": [
+      { "drag": "cm", "target": "ruler" }
+    ]
+  },
+  {
+    "id": "g5-dd-4",
+    "title": "Match Landforms",
+    "desc": "Match landforms to the correct map location.",
+    "pairs": [
+      { "drag": "Mountain", "target": "mountain-area" }
+    ]
+  }
+]
+

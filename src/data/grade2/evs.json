@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Family",
+    "chapter": "Types of Families",
+    "question": "A big family is called a __.",
+    "options": ["Small family", "Joint family", "Pet family", "Single family"],
+    "answer": "Joint family",
+    "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Family",
+    "chapter": "Relations",
+    "question": "Your father's brother is your __.",
+    "options": ["Uncle", "Aunt", "Grandfather", "Cousin"],
+    "answer": "Uncle",
+    "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Plants",
+    "chapter": "Uses of Plants",
+    "question": "Plants give us __.",
+    "options": ["Food", "Cars", "Clothes", "Machines"],
+    "answer": "Food",
+    "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Plants",
+    "chapter": "Parts of Plants",
+    "question": "Which part of the plant makes food?",
+    "options": ["Stem", "Leaf", "Root", "Flower"],
+    "answer": "Leaf",
+    "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "Animal Groups",
+    "question": "A group of lions is called a __.",
+    "options": ["Herd", "Pride", "School", "Pack"],
+    "answer": "Pride",
+       "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "Domestic Animals",
+    "question": "Which animal gives us milk?",
+    "options": ["Dog", "Cow", "Lion", "Horse"],
+    "answer": "Cow",
+    "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Food",
+    "chapter": "Healthy Food",
+    "question": "Which is junk food?",
+    "options": ["Salad", "Chips", "Rice", "Dal"],
+    "answer": "Chips",
+    "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Food",
+    "chapter": "Sources of Food",
+    "question": "Eggs come from __.",
+    "options": ["Hen", "Cow", "Goat", "Sheep"],
+    "answer": "Hen",
+    "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Water",
+    "chapter": "Sources",
+    "question": "Which of these is a source of water?",
+    "options": ["River", "Bus", "Building", "Market"],
+    "answer": "River",
+    "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Water",
+    "chapter": "Uses",
+    "question": "We use water to __.",
+    "options": ["Write", "Cook", "Sleep", "Read"],
+    "answer": "Cook",
+    "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Shelter",
+    "chapter": "Homes",
+    "question": "Birds live in __.",
+    "options": ["Nests", "Holes", "Kennels", "Stables"],
+    "answer": "Nests",
+    "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Shelter",
+    "chapter": "Homes",
+    "question": "Horses live in a __.",
+    "options": ["Stable", "Burrow", "Den", "Nest"],
+    "answer": "Stable",
+    "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Transport",
+    "chapter": "Vehicles",
+    "question": "Which vehicle has two wheels?",
+    "options": ["Car", "Bicycle", "Train", "Aeroplane"],
+    "answer": "Bicycle",
+    "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Transport",
+    "chapter": "Vehicles",
+    "question": "Which vehicle moves on rails?",
+    "options": ["Bus", "Car", "Train", "Truck"],
+    "answer": "Train",
+    "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Weather",
+    "chapter": "Seasons",
+    "question": "Which season is the hottest?",
+    "options": ["Winter", "Summer", "Rainy", "Autumn"],
+    "answer": "Summer",
+    "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Weather",
+    "chapter": "Seasons",
+    "question": "In which season do we carry umbrellas?",
+    "options": ["Winter", "Summer", "Rainy", "Spring"],
+    "answer": "Rainy",
+    "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Good Habits",
+    "chapter": "Cleanliness",
+    "question": "We should brush our teeth __.",
+    "options": ["Once a week", "Twice a day", "Once a month", "Never"],
+    "answer": "Twice a day",
+    "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Good Habits",
+    "chapter": "Hygiene",
+    "question": "We should wash hands before __.",
+    "options": ["Sleeping", "Playing", "Eating", "Running"],
+    "answer": "Eating",
+    "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Community Helpers",
+    "chapter": "Helpers",
+    "question": "Who keeps our surroundings clean?",
+    "options": ["Doctor", "Farmer", "Sweeper", "Pilot"],
+    "answer": "Sweeper",
+    "grade": 2,
+    "subject": "evs"
+  },
+  {
+    "topic": "Community Helpers",
+    "chapter": "Helpers",
+    "question": "Who teaches us at school?",
+    "options": ["Doctor", "Teacher", "Farmer", "Driver"],
+    "answer": "Teacher",
+    "grade": 2,
+    "subject": "evs"
+  }
+]

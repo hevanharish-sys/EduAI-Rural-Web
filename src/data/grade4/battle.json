@@ -1,0 +1,39 @@
+[
+  {
+    "id": "g4-bt-1",
+    "title": "Multiplication Quick",
+    "desc": "Multiply small numbers",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "6 x 3 = ?", "options": ["18", "16", "20"], "answer": "18" },
+      { "q": "4 x 5 = ?", "options": ["20", "18", "22"], "answer": "20" }
+    ]
+  },
+  {
+    "id": "g4-bt-2",
+    "title": "Grammar - Tenses",
+    "desc": "Pick the correct tense",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "She ___ (go) to school yesterday.", "options": ["goes", "went", "going"], "answer": "went" }
+    ]
+  },
+  {
+    "id": "g4-bt-3",
+    "title": "States & Capitals",
+    "desc": "Choose the capital",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Capital of Karnataka?", "options": ["Bengaluru", "Chennai", "Kolkata"], "answer": "Bengaluru" }
+    ]
+  },
+  {
+    "id": "g4-bt-4",
+    "title": "Science — Matter",
+    "desc": "Basic properties of matter",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "State of water at 100°C (sea level)?", "options": ["Solid", "Liquid", "Gas"], "answer": "Gas" }
+    ]
+  }
+]

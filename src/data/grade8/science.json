@@ -1,0 +1,22 @@
+[
+  {"topic":"Crop Production","chapter":"Agriculture","question":"Loosening soil is called __.","options":["ploughing","sowing","manuring","harvesting"],"answer":"ploughing","grade":8,"subject":"science"},
+  {"topic":"Microorganisms","chapter":"Types","question":"Yeast is a type of __.","options":["virus","fungus","bacteria","algae"],"answer":"fungus","grade":8,"subject":"science"},
+  {"topic":"Synthetic Fibres","chapter":"Types","question":"Nylon is a __ fibre.","options":["natural","synthetic","mixed","cotton"],"answer":"synthetic","grade":8,"subject":"science"},
+  {"topic":"Metals & Non-metals","chapter":"Properties","question":"Which is a non-metal?","options":["iron","copper","sulphur","aluminium"],"answer":"sulphur","grade":8,"subject":"science"},
+  {"topic":"Coal & Petroleum","chapter":"Type","question":"Petroleum is formed from __.","options":["trees","dead organisms","rocks","plastic"],"answer":"dead organisms","grade":8,"subject":"science"},
+  {"topic":"Combustion","chapter":"Basics","question":"Burning fuel is called __.","options":["photosynthesis","respiration","combustion","oxidation"],"answer":"combustion","grade":8,"subject":"science"},
+  {"topic":"Cell","chapter":"Components","question":"Control center of cell is __.","options":["cytoplasm","cell wall","nucleus","vacuole"],"answer":"nucleus","grade":8,"subject":"science"},
+  {"topic":"Reproduction","chapter":"Asexual","question":"Cutting of plants is an example of __ reproduction.","options":["sexual","asexual","binary fission","none"],"answer":"asexual","grade":8,"subject":"science"},
+  {"topic":"Friction","chapter":"Basics","question":"Friction is a __ force.","options":["helping","opposing","gravity","magnetic"],"answer":"opposing","grade":8,"subject":"science"},
+  {"topic":"Sound","chapter":"Speed","question":"Sound travels fastest in __.","options":["gas","liquid","solid","vacuum"],"answer":"solid","grade":8,"subject":"science"},
+  {"topic":"Force & Pressure","chapter":"Pressure","question":"Pressure = Force/ __.","options":["Area","Mass","Speed","Gravity"],"answer":"Area","grade":8,"subject":"science"},
+  {"topic":"Light","chapter":"Reflection","question":"Angle of incidence equals angle of __.","options":["reflection","refraction","diffusion","dispersion"],"answer":"reflection","grade":8,"subject":"science"},
+  {"topic":"Stars","chapter":"Solar System","question":"Sun is a __.","options":["planet","star","comet","rock"],"answer":"star","grade":8,"subject":"science"},
+  {"topic":"Pollution","chapter":"Air","question":"Excess CO₂ leads to __.","options":["cooling","global warming","snowfall","earthquake"],"answer":"global warming","grade":8,"subject":"science"},
+  {"topic":"Pollution","chapter":"Water","question":"Boiling water kills __.","options":["dust","microbes","salt","minerals"],"answer":"microbes","grade":8,"subject":"science"},
+  {"topic":"Conservation","chapter":"Plants","question":"Chipko movement is related to __.","options":["water","wildlife","forests","energy"],"answer":"forests","grade":8,"subject":"science"},
+  {"topic":"Electricity","chapter":"Circuits","question":"Fuse protects appliances from __.","options":["heat","overload","dust","cooling"],"answer":"overload","grade":8,"subject":"science"},
+  {"topic":"Human Body","chapter":"Adolescence","question":"Adolescence begins around age __.","options":["5","10–12","20","25"],"answer":"10–12","grade":8,"subject":"science"},
+  {"topic":"Human Body","chapter":"Hormones","question":"Insulin is secreted by __.","options":["liver","pancreas","stomach","heart"],"answer":"pancreas","grade":8,"subject":"science"},
+  {"topic":"Friction","chapter":"Uses","question":"Friction helps us to __.","options":["sleep","walk","eat","float"],"answer":"walk","grade":8,"subject":"science"}
+]

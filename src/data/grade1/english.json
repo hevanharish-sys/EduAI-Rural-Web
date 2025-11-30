@@ -1,0 +1,183 @@
+[
+  {
+    "topic": "Alphabet",
+    "chapter": "Letters A–Z",
+    "question": "Which letter comes after C?",
+    "options": ["B", "D", "E", "A"],
+    "answer": "D",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Alphabet",
+    "chapter": "Letters A–Z",
+    "question": "Which one is a vowel?",
+    "options": ["B", "C", "A", "D"],
+    "answer": "A",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Words",
+    "chapter": "Naming Words",
+    "question": "Which of these is a name of an animal?",
+    "options": ["Cat", "Table", "Hat", "Cup"],
+    "answer": "Cat",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Words",
+    "chapter": "Action Words",
+    "question": "Which word shows an action?",
+    "options": ["Run", "Ball", "Chair", "Box"],
+    "answer": "Run",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Opposites",
+    "chapter": "Opposites",
+    "question": "What is the opposite of ‘big’?",
+    "options": ["Tall", "Small", "Wide", "Long"],
+    "answer": "Small",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Opposites",
+    "chapter": "Opposites",
+    "question": "What is the opposite of ‘happy’?",
+    "options": ["Sad", "Fast", "Good", "New"],
+    "answer": "Sad",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Rhyming Words",
+    "chapter": "Rhymes",
+    "question": "Which word rhymes with ‘cat’?",
+    "options": ["Dog", "Hat", "Car", "Cup"],
+    "answer": "Hat",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Rhyming Words",
+    "chapter": "Rhymes",
+    "question": "Which word rhymes with ‘sun’?",
+    "options": ["Run", "Top", "Pen", "Ball"],
+    "answer": "Run",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Picture Reading",
+    "chapter": "Pictures",
+    "question": "What is the boy holding in the picture? (Assume picture of a ball)",
+    "options": ["Book", "Ball", "Cup", "Bag"],
+    "answer": "Ball",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Picture Reading",
+    "chapter": "Pictures",
+    "question": "What is the girl doing in the picture? (Assume picture of a girl running)",
+    "options": ["Sleeping", "Running", "Sitting", "Eating"],
+    "answer": "Running",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Story",
+    "chapter": "Short Stories",
+    "question": "Who ate the porridge in the story ‘Goldilocks’?",
+    "options": ["Baby Bear", "Papa Bear", "Mama Bear", "The dog"],
+    "answer": "Baby Bear",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Story",
+    "chapter": "Short Stories",
+    "question": "What did the ant carry in the story?",
+    "options": ["Leaf", "Seed", "Stone", "Stick"],
+    "answer": "Seed",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Sentence",
+    "chapter": "Simple Sentences",
+    "question": "Which one is a correct sentence?",
+    "options": ["cat big is", "The cat is big.", "Big cat the is", "Cat is the big"],
+    "answer": "The cat is big.",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Sentence",
+    "chapter": "Naming Words",
+    "question": "Which word is a naming word?",
+    "options": ["Jump", "Red", "Dog", "Under"],
+    "answer": "Dog",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Action Words",
+    "chapter": "Verbs",
+    "question": "Which word shows an action?",
+    "options": ["Eat", "Blue", "Tall", "Happy"],
+    "answer": "Eat",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Action Words",
+    "chapter": "Verbs",
+    "question": "Which action is shown by the boy? (Assume picture: boy jumping)",
+    "options": ["Jumping", "Reading", "Sleeping", "Talking"],
+    "answer": "Jumping",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Vocabulary",
+    "chapter": "Animals",
+    "question": "Which animal gives us milk?",
+    "options": ["Cat", "Cow", "Dog", "Monkey"],
+    "answer": "Cow",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Vocabulary",
+    "chapter": "Fruits",
+    "question": "Which of these is a fruit?",
+    "options": ["Carrot", "Potato", "Apple", "Onion"],
+    "answer": "Apple",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Vocabulary",
+    "chapter": "Colors",
+    "question": "What is the color of the sky?",
+    "options": ["Green", "Blue", "Yellow", "Red"],
+    "answer": "Blue",
+    "grade": 1,
+    "subject": "english"
+  },
+  {
+    "topic": "Vocabulary",
+    "chapter": "Body Parts",
+    "question": "Which body part helps us see?",
+    "options": ["Ears", "Eyes", "Nose", "Hands"],
+    "answer": "Eyes",
+    "grade": 1,
+    "subject": "english"
+  }
+]
+

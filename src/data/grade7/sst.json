@@ -1,0 +1,22 @@
+[
+  {"topic":"History","chapter":"Delhi Sultans","question":"Who founded the Delhi Sultanate?","options":["Akbar","Qutb-ud-din Aibak","Aurangzeb","Ashoka"],"answer":"Qutb-ud-din Aibak","grade":7,"subject":"social_science"},
+  {"topic":"History","chapter":"Mughal Empire","question":"The founder of Mughal Empire was __.","options":["Akbar","Babur","Shah Jahan","Humayun"],"answer":"Babur","grade":7,"subject":"social_science"},
+  {"topic":"Geography","chapter":"Environment","question":"Biotic components include __.","options":["air","water","soil","animals"],"answer":"animals","grade":7,"subject":"social_science"},
+  {"topic":"Geography","chapter":"Weather & Climate","question":"Climate is based on data taken for __.","options":["1 year","minimum 30 years","2 months","10 days"],"answer":"minimum 30 years","grade":7,"subject":"social_science"},
+  {"topic":"Civics","chapter":"Equality","question":"Equality means __.","options":["fair treatment","bias","favoritism","inequality"],"answer":"fair treatment","grade":7,"subject":"social_science"},
+  {"topic":"Civics","chapter":"State Government","question":"Head of a state is called __.","options":["Prime Minister","Chief Minister","President","Governor"],"answer":"Chief Minister","grade":7,"subject":"social_science"},
+  {"topic":"Economics","chapter":"Production","question":"Tools and machines are __.","options":["land","labour","capital","entrepreneurship"],"answer":"capital","grade":7,"subject":"social_science"},
+  {"topic":"Economics","chapter":"Markets","question":"Weekly markets are __.","options":["fixed shops","temporary markets","online markets","permanent stalls"],"answer":"temporary markets","grade":7,"subject":"social_science"},
+  {"topic":"History","chapter":"Architecture","question":"Taj Mahal was built by __.","options":["Humayun","Akbar","Shah Jahan","Aurangzeb"],"answer":"Shah Jahan","grade":7,"subject":"social_science"},
+  {"topic":"History","chapter":"Tribes","question":"People living simple lives in forests are __.","options":["farmers","tribals","businessmen","kings"],"answer":"tribals","grade":7,"subject":"social_science"},
+  {"topic":"Geography","chapter":"Water","question":"The upper layer of ocean water is __.","options":["warm","cold","dark","frozen"],"answer":"warm","grade":7,"subject":"social_science"},
+  {"topic":"Geography","chapter":"Air","question":"CO₂ is __% of air.","options":["78","1","21","0.03"],"answer":"0.03","grade":7,"subject":"social_science"},
+  {"topic":"Civics","chapter":"Media","question":"Media must be __.","options":["biased","independent","controlled","partial"],"answer":"independent","grade":7,"subject":"social_science"},
+  {"topic":"Civics","chapter":"Market","question":"Shops in malls are __.","options":["temporary","permanent","online","weekly"],"answer":"permanent","grade":7,"subject":"social_science"},
+  {"topic":"Economics","chapter":"Employment","question":"Daily wage workers are __.","options":["regular employees","self-employed","casual workers","shopkeepers"],"answer":"casual workers","grade":7,"subject":"social_science"},
+  {"topic":"History","chapter":"Religions","question":"Sikhism was founded by __.","options":["Guru Nanak","Kabir","Akbar","Tulsidas"],"answer":"Guru Nanak","grade":7,"subject":"social_science"},
+  {"topic":"History","chapter":"Revolt","question":"The revolt of 1857 began in __.","options":["Delhi","Jhansi","Meerut","Lucknow"],"answer":"Meerut","grade":7,"subject":"social_science"},
+  {"topic":"Geography","chapter":"Natural Resources","question":"Coal is a __ resource.","options":["renewable","non-renewable","inexhaustible","infinite"],"answer":"non-renewable","grade":7,"subject":"social_science"},
+  {"topic":"Civics","chapter":"Advertising","question":"Advertisements influence __.","options":["choices","weather","pollution","history"],"answer":"choices","grade":7,"subject":"social_science"},
+  {"topic":"Economics","chapter":"Poverty","question":"A person lacking basic needs is in __.","options":["wealth","poverty","luxury","comfort"],"answer":"poverty","grade":7,"subject":"social_science"}
+]

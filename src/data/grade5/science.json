@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Living Things",
+    "chapter": "Plants",
+    "question": "Plants prepare food using __.",
+    "options": ["Air", "Photosynthesis", "Water", "Soil"],
+    "answer": "Photosynthesis",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Living Things",
+    "chapter": "Animals",
+    "question": "Frogs breathe through __ when underwater.",
+    "options": ["Nose", "Skin", "Gills", "Lungs"],
+    "answer": "Skin",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Human Body",
+    "chapter": "Respiration",
+    "question": "We breathe in __.",
+    "options": ["Carbon dioxide", "Oxygen", "Helium", "Nitrogen"],
+    "answer": "Oxygen",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Human Body",
+    "chapter": "Circulation",
+    "question": "The pumping organ of the body is the __.",
+    "options": ["Kidney", "Stomach", "Heart", "Liver"],
+    "answer": "Heart",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Matter",
+    "chapter": "Changes",
+    "question": "Melting of ice is a __ change.",
+    "options": ["Physical", "Chemical", "Permanent", "Burning"],
+    "answer": "Physical",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Matter",
+    "chapter": "Changes",
+    "question": "Rusting is a __ change.",
+    "options": ["Physical", "Chemical", "Temporary", "Reversible"],
+    "answer": "Chemical",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Force",
+    "chapter": "Motion",
+    "question": "Friction always __ motion.",
+    "options": ["Helps", "Opposes", "Stops", "Creates"],
+    "answer": "Opposes",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Force",
+    "chapter": "Types",
+    "question": "Magnetic force acts on __.",
+    "options": ["Wood", "Plastic", "Iron", "Glass"],
+    "answer": "Iron",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Energy",
+    "chapter": "Sources",
+    "question": "The main source of energy on Earth is the __.",
+    "options": ["Moon", "Sun", "Wind", "Water"],
+    "answer": "Sun",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Energy",
+    "chapter": "Forms",
+    "question": "Electric bulbs give off __.",
+    "options": ["Water", "Light and heat", "Food", "Gas"],
+    "answer": "Light and heat",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Light",
+    "chapter": "Reflection",
+    "question": "Mirrors reflect __.",
+    "options": ["Heat", "Light", "Water", "Sound"],
+    "answer": "Light",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Light",
+    "chapter": "Shadow",
+    "question": "Shadows are formed when light is __.",
+    "options": ["Reflected", "Blocked", "Bent", "Absorbed"],
+    "answer": "Blocked",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Sound",
+    "chapter": "Vibrations",
+    "question": "Sound travels in the form of __.",
+    "options": ["Light rays", "Vibrations", "Heat", "Air"],
+    "answer": "Vibrations",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Soil",
+    "chapter": "Types",
+    "question": "Clayey soil holds __ water.",
+    "options": ["More", "Less", "No", "Equal"],
+    "answer": "More",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Soil",
+    "chapter": "Erosion",
+    "question": "Planting trees helps prevent __.",
+    "options": ["Air pollution", "Soil erosion", "Earthquakes", "Rain"],
+    "answer": "Soil erosion",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Air",
+    "chapter": "Composition",
+    "question": "The major component of air is __.",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Helium"],
+    "answer": "Nitrogen",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Water",
+    "chapter": "Cycle",
+    "question": "Water vapor turns into water during __.",
+    "options": ["Evaporation", "Condensation", "Melting", "Freezing"],
+    "answer": "Condensation",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Natural Disasters",
+    "chapter": "Earthquake",
+    "question": "Earthquakes are caused by shaking of the __.",
+    "options": ["Ocean", "Ground", "Clouds", "Wind"],
+    "answer": "Ground",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Natural Disasters",
+    "chapter": "Flood",
+    "question": "Floods occur due to __.",
+    "options": ["Heavy rainfall", "Sunny day", "Wind", "Snowfall"],
+    "answer": "Heavy rainfall",
+    "grade": 5,
+    "subject": "science"
+  },
+  {
+    "topic": "Safety",
+    "chapter": "First Aid",
+    "question": "For a burn, apply __.",
+    "options": ["Ice", "Cold water", "Oil", "Sugar"],
+    "answer": "Cold water",
+    "grade": 5,
+    "subject": "science"
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "topic": "Numbers",
+    "chapter": "Place Value",
+    "question": "What is the place value of 7 in 3,748?",
+    "options": ["7", "70", "700", "7000"],
+    "answer": "700",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Numbers",
+    "chapter": "Expanded Form",
+    "question": "Write 523 in expanded form.",
+    "options": ["500 + 20 + 3", "50 + 20 + 3", "500 + 2 + 3", "5 + 20 + 300"],
+    "answer": "500 + 20 + 3",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Addition",
+    "chapter": "4-digit Addition",
+    "question": "What is 3456 + 1200?",
+    "options": ["4656", "4556", "5656", "3656"],
+    "answer": "4656",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Addition",
+    "chapter": "Carry",
+    "question": "What is 289 + 712?",
+    "options": ["1001", "999", "901", "1111"],
+    "answer": "1001",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Subtraction",
+    "chapter": "4-digit Subtraction",
+    "question": "What is 5000 - 2450?",
+    "options": ["2550", "2450", "255", "2050"],
+    "answer": "2550",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Subtraction",
+    "chapter": "Borrowing",
+    "question": "What is 900 - 475?",
+    "options": ["425", "455", "450", "480"],
+    "answer": "425",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Multiplication",
+    "chapter": "Basics",
+    "question": "What is 12 × 8?",
+    "options": ["80", "96", "102", "88"],
+    "answer": "96",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Multiplication",
+    "chapter": "Basics",
+    "question": "What is 15 × 6?",
+    "options": ["60", "75", "90", "96"],
+    "answer": "90",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Division",
+    "chapter": "Basics",
+    "question": "What is 48 ÷ 6?",
+    "options": ["8", "6", "7", "12"],
+    "answer": "8",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Division",
+    "chapter": "Basics",
+    "question": "What is 96 ÷ 8?",
+    "options": ["11", "12", "13", "14"],
+    "answer": "12",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Fractions",
+    "chapter": "Basics",
+    "question": "Which of these is one-half?",
+    "options": ["1/4", "1/2", "3/4", "2/2"],
+    "answer": "1/2",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Fractions",
+    "chapter": "Comparison",
+    "question": "Which is bigger: 1/3 or 1/4?",
+    "options": ["1/3", "1/4", "Both equal", "Can't tell"],
+    "answer": "1/3",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Geometry",
+    "chapter": "Angles",
+    "question": "A right angle is __ degrees.",
+    "options": ["45", "90", "180", "360"],
+    "answer": "90",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Geometry",
+    "chapter": "Shapes",
+    "question": "A cube has __ faces.",
+    "options": ["4", "6", "8", "10"],
+    "answer": "6",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Measurement",
+    "chapter": "Length",
+    "question": "1 kilometer = __ meters.",
+    "options": ["10", "100", "500", "1000"],
+    "answer": "1000",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Measurement",
+    "chapter": "Weight",
+    "question": "1000 grams = __ kilograms.",
+    "options": ["1", "10", "100", "0.1"],
+    "answer": "1",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Time",
+    "chapter": "Clock",
+    "question": "How many days are in a leap year?",
+    "options": ["365", "366", "367", "360"],
+    "answer": "366",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Time",
+    "chapter": "Calendar",
+    "question": "February usually has __ days.",
+    "options": ["28", "29", "30", "31"],
+    "answer": "28",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Data",
+    "chapter": "Graphs",
+    "question": "What does a bar graph use?",
+    "options": ["Bars", "Lines", "Pictures", "Dots"],
+    "answer": "Bars",
+    "grade": 4,
+    "subject": "maths"
+  },
+  {
+    "topic": "Data",
+    "chapter": "Graphs",
+    "question": "Which is largest?",
+    "options": ["2034", "2043", "2430", "2340"],
+    "answer": "2430",
+    "grade": 4,
+    "subject": "maths"
+  }
+]
+

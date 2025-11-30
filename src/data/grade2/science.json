@@ -1,0 +1,198 @@
+[
+  {
+    "topic": "Living Things",
+    "chapter": "Plants",
+    "question": "Plants need __ to make food.",
+    "options": ["Sand", "Light", "Plastic", "Stone"],
+    "answer": "Light",
+    "grade": 2,
+    "subject": "science"
+  },
+  {
+    "topic": "Living Things",
+    "chapter": "Animals",
+    "question": "Which animal lives in water?",
+    "options": ["Lion", "Dog", "Fish", "Cat"],
+    "answer": "Fish",
+    "grade": 2,
+    "subject": "science"
+  },
+  {
+    "topic": "Human Body",
+    "chapter": "Sense Organs",
+    "question": "We smell with our __.",
+    "options": ["Tongue", "Eyes", "Nose", "Ears"],
+    "answer": "Nose",
+    "grade": 2,
+    "subject": "science"
+  },
+  {
+    "topic": "Human Body",
+    "chapter": "Sense Organs",
+    "question": "We see with our __.",
+    "options": ["Legs", "Hands", "Eyes", "Nose"],
+    "answer": "Eyes",
+    "grade": 2,
+    "subject": "science"
+  },
+
+  {
+    "topic": "Food",
+    "chapter": "Health",
+    "question": "We must eat __ food.",
+    "options": ["Junk", "Healthy", "Old", "Spoiled"],
+    "answer": "Healthy",
+    "grade": 2,
+    "subject": "science"
+  },
+
+  {
+    "topic": "Food",
+    "chapter": "Sources",
+    "question": "Where do we get vegetables from?",
+    "options": ["Animals", "Plants", "Sea", "Sky"],
+    "answer": "Plants",
+    "grade": 2,
+    "subject": "science"
+  },
+
+  {
+    "topic": "Water",
+    "chapter": "Sources",
+    "question": "Which is a natural source of water?",
+    "options": ["Tap", "River", "Bottle", "Tank"],
+    "answer": "River",
+    "grade": 2,
+    "subject": "science"
+  },
+
+  {
+    "topic": "Water",
+    "chapter": "Uses",
+    "question": "We need water to __.",
+    "options": ["Eat food", "Cook food", "Sleep", "Write"],
+    "answer": "Cook food",
+    "grade": 2,
+    "subject": "science"
+  },
+
+  {
+    "topic": "Air",
+    "chapter": "Importance",
+    "question": "We need air to __.",
+    "options": ["Sing", "Live", "Sleep", "Eat"],
+    "answer": "Live",
+    "grade": 2,
+    "subject": "science"
+  },
+
+  {
+    "topic": "Air",
+    "chapter": "Properties",
+    "question": "Air is __.",
+    "options": ["Visible", "Invisible", "Red", "Green"],
+    "answer": "Invisible",
+    "grade": 2,
+    "subject": "science"
+  },
+
+  {
+    "topic": "Sunlight",
+    "chapter": "Importance",
+    "question": "Sunlight helps plants to __.",
+    "options": ["Run", "Make food", "Sing", "Sleep"],
+    "answer": "Make food",
+    "grade": 2,
+    "subject": "science"
+  },
+
+  {
+    "topic": "Sunlight",
+    "chapter": "Heat & Light",
+    "question": "The sun gives us __.",
+    "options": ["Light and heat", "Only light", "Only heat", "Food"],
+    "answer": "Light and heat",
+    "grade": 2,
+    "subject": "science"
+  },
+
+  {
+    "topic": "Weather",
+    "chapter": "Seasons",
+    "question": "In which season is it very cold?",
+    "options": ["Winter", "Summer", "Rainy", "Spring"],
+    "answer": "Winter",
+    "grade": 2,
+    "subject": "science"
+  },
+
+  {
+    "topic": "Weather",
+    "chapter": "Seasons",
+    "question": "In which season do we use umbrellas?",
+    "options": ["Winter", "Summer", "Rainy", "Spring"],
+    "answer": "Rainy",
+    "grade": 2,
+    "subject": "science"
+  },
+
+  {
+    "topic": "Materials",
+    "chapter": "Objects",
+    "question": "Which of these is made of wood?",
+    "options": ["Chair", "Bottle", "Spoon", "Plate"],
+    "answer": "Chair",
+    "grade": 2,
+    "subject": "science"
+  },
+
+  {
+    "topic": "Materials",
+    "chapter": "Objects",
+    "question": "Which of these is made of metal?",
+    "options": ["Flower", "Spoon", "Leaf", "Cotton"],
+    "answer": "Spoon",
+    "grade": 2,
+    "subject": "science"
+  },
+
+  {
+    "topic": "Cleanliness",
+    "chapter": "Hygiene",
+    "question": "We should wash our hands before __.",
+    "options": ["Sleeping", "Eating", "Playing", "Running"],
+    "answer": "Eating",
+    "grade": 2,
+    "subject": "science"
+  },
+
+  {
+    "topic": "Cleanliness",
+    "chapter": "Hygiene",
+    "question": "We should brush our teeth __.",
+    "options": ["Once a month", "Twice a day", "Once a week", "Never"],
+    "answer": "Twice a day",
+    "grade": 2,
+    "subject": "science"
+  },
+
+  {
+    "topic": "Machines",
+    "chapter": "Simple Machines",
+    "question": "A computer is a __.",
+    "options": ["Toy", "Machine", "Food", "Animal"],
+    "answer": "Machine",
+    "grade": 2,
+    "subject": "science"
+  },
+
+  {
+    "topic": "Machines",
+    "chapter": "Uses",
+    "question": "Machines make our work __.",
+    "options": ["Hard", "Easy", "Impossible", "Slow"],
+    "answer": "Easy",
+    "grade": 2,
+    "subject": "science"
+  }
+]

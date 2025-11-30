@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "India",
+    "chapter": "General",
+    "question": "Who is known as the Father of the Nation?",
+    "options": ["Nehru", "Gandhi", "Patel", "Ambedkar"],
+    "answer": "Gandhi",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "India",
+    "chapter": "Symbols",
+    "question": "The national anthem of India is __.",
+    "options": ["Vande Mataram", "Jana Gana Mana", "Saare Jahan Se Achha", "None"],
+    "answer": "Jana Gana Mana",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "World",
+    "chapter": "Continents",
+    "question": "How many continents are there?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "World",
+    "chapter": "Oceans",
+    "question": "Which is the largest ocean?",
+    "options": ["Indian", "Pacific", "Atlantic", "Arctic"],
+    "answer": "Pacific",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "History",
+    "chapter": "Freedom Fighters",
+    "question": "Who wrote 'Discovery of India'?",
+    "options": ["Gandhi", "Nehru", "Tagore", "Ambedkar"],
+    "answer": "Nehru",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "History",
+    "chapter": "Kings",
+    "question": "The Red Fort was built by __.",
+    "options": ["Akbar", "Aurangzeb", "Shah Jahan", "Babar"],
+    "answer": "Shah Jahan",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "Geography",
+    "chapter": "Rivers",
+    "question": "Which is the longest river in India?",
+    "options": ["Ganga", "Yamuna", "Narmada", "Brahmaputra"],
+    "answer": "Ganga",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "Geography",
+    "chapter": "Mountains",
+    "question": "Mount Everest is located in __.",
+    "options": ["India", "Nepal", "China", "Bhutan"],
+    "answer": "Nepal",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "Sports",
+    "chapter": "Olympics",
+    "question": "How many rings are there in the Olympic logo?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "Sports",
+    "chapter": "India",
+    "question": "Sachin Tendulkar is associated with __.",
+    "options": ["Football", "Cricket", "Hockey", "Tennis"],
+    "answer": "Cricket",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "Science",
+    "chapter": "Inventors",
+    "question": "Who invented the telephone?",
+    "options": ["Edison", "Einstein", "Graham Bell", "Newton"],
+    "answer": "Graham Bell",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "Science",
+    "chapter": "Space",
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Venus", "Mars", "Saturn"],
+    "answer": "Mars",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "Nature",
+    "chapter": "Environment",
+    "question": "Which gas do plants absorb?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "answer": "Carbon dioxide",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "Nature",
+    "chapter": "Animals",
+    "question": "The largest mammal is __.",
+    "options": ["Elephant", "Giraffe", "Blue Whale", "Tiger"],
+    "answer": "Blue Whale",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "Transport",
+    "chapter": "General",
+    "question": "Which vehicle runs on rails?",
+    "options": ["Car", "Train", "Bus", "Bike"],
+    "answer": "Train",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "Transport",
+    "chapter": "Air",
+    "question": "Helicopters land on __.",
+    "options": ["Helipad", "Garage", "Road", "Runway"],
+    "answer": "Helipad",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "People",
+    "chapter": "Profession",
+    "question": "A person who studies stars and space is called __.",
+    "options": ["Scientist", "Astronomer", "Pilot", "Geologist"],
+    "answer": "Astronomer",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "People",
+    "chapter": "Profession",
+    "question": "A person who writes books is called __.",
+    "options": ["Driver", "Author", "Nurse", "Artist"],
+    "answer": "Author",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "Culture",
+    "chapter": "India",
+    "question": "Kathak is a famous dance of __.",
+    "options": ["Kerala", "UP", "Punjab", "Maharashtra"],
+    "answer": "UP",
+    "grade": 5,
+    "subject": "gk"
+  },
+  {
+    "topic": "Culture",
+    "chapter": "India",
+    "question": "Which festival is known as the festival of colors?",
+    "options": ["Diwali", "Holi", "Eid", "Christmas"],
+    "answer": "Holi",
+    "grade": 5,
+    "subject": "gk"
+  }
+]

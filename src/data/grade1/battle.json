@@ -1,0 +1,27 @@
+[
+  {
+    "id": "g1-bt-1",
+    "title": "Quick Math Battle",
+    "type": "battle",
+    "question": "5 + 3 = ?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "id": "g1-bt-2",
+    "title": "Science Battle",
+    "type": "battle",
+    "question": "Which one is a planet?",
+    "options": ["Sun", "Moon", "Earth", "Star"],
+    "answer": "Earth"
+  },
+  {
+    "id": "g1-bt-3",
+    "title": "GK Battle",
+    "type": "battle",
+    "question": "Who is known as the Father of India?",
+    "options": ["Gandhi", "Nehru", "Bose", "Ambedkar"],
+    "answer": "Gandhi"
+  }
+]
+

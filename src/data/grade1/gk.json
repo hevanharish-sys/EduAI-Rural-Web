@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Fruits",
+    "chapter": "Food",
+    "question": "Which of these is a fruit?",
+    "options": ["Potato", "Apple", "Carrot", "Onion"],
+    "answer": "Apple",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "Fruits",
+    "chapter": "Food",
+    "question": "Which fruit is yellow and long?",
+    "options": ["Grapes", "Banana", "Apple", "Orange"],
+    "answer": "Banana",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "General Awareness",
+    "question": "Which of these is a pet animal?",
+    "options": ["Dog", "Lion", "Tiger", "Wolf"],
+    "answer": "Dog",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "General Awareness",
+    "question": "Which animal gives us wool?",
+    "options": ["Cow", "Sheep", "Goat", "Cat"],
+    "answer": "Sheep",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "National Symbols",
+    "chapter": "India",
+    "question": "Which is the national animal of India?",
+    "options": ["Tiger", "Lion", "Elephant", "Cow"],
+    "answer": "Tiger",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "National Symbols",
+    "chapter": "India",
+    "question": "Which flower is the national flower of India?",
+    "options": ["Rose", "Lotus", "Tulip", "Sunflower"],
+    "answer": "Lotus",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "Colors",
+    "chapter": "General Awareness",
+    "question": "What is the color of the sky on a clear day?",
+    "options": ["Red", "Blue", "Green", "Yellow"],
+    "answer": "Blue",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "Colors",
+    "chapter": "General Awareness",
+    "question": "What is the color of grass?",
+    "options": ["Red", "Green", "Blue", "Pink"],
+    "answer": "Green",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "Places",
+    "chapter": "General Knowledge",
+    "question": "Where do we go to study?",
+    "options": ["School", "Hospital", "Airport", "Post office"],
+    "answer": "School",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "Places",
+    "chapter": "General Knowledge",
+    "question": "Where do sick people go?",
+    "options": ["School", "Hospital", "Park", "Mall"],
+    "answer": "Hospital",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "Festivals",
+    "chapter": "India",
+    "question": "Which festival is known as the festival of lights?",
+    "options": ["Diwali", "Holi", "Eid", "Christmas"],
+    "answer": "Diwali",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "Festivals",
+    "chapter": "India",
+    "question": "Christmas is celebrated on?",
+    "options": ["December 25", "January 1", "August 15", "October 2"],
+    "answer": "December 25",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "Sports",
+    "chapter": "General Knowledge",
+    "question": "Which sport is played with a bat and ball?",
+    "options": ["Football", "Cricket", "Hockey", "Tennis"],
+    "answer": "Cricket",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "Sports",
+    "chapter": "General Knowledge",
+    "question": "Which of these is played with feet?",
+    "options": ["Tennis", "Football", "Cricket", "Badminton"],
+    "answer": "Football",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "World",
+    "chapter": "General Knowledge",
+    "question": "Which one is a planet?",
+    "options": ["Mars", "Car", "Tree", "House"],
+    "answer": "Mars",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "World",
+    "chapter": "General Knowledge",
+    "question": "Which is the largest animal on land?",
+    "options": ["Elephant", "Lion", "Dog", "Cow"],
+    "answer": "Elephant",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "Body Parts",
+    "chapter": "General Awareness",
+    "question": "How many eyes do we have?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "Body Parts",
+    "chapter": "General Awareness",
+    "question": "We use our ears to?",
+    "options": ["See", "Listen", "Eat", "Walk"],
+    "answer": "Listen",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "Transport",
+    "chapter": "Vehicles",
+    "question": "Which vehicle flies in the sky?",
+    "options": ["Car", "Bus", "Aeroplane", "Boat"],
+    "answer": "Aeroplane",
+    "grade": 1,
+    "subject": "gk"
+  },
+  {
+    "topic": "Transport",
+    "chapter": "Vehicles",
+    "question": "Which vehicle runs on rails?",
+    "options": ["Car", "Train", "Bicycle", "Helicopter"],
+    "answer": "Train",
+    "grade": 1,
+    "subject": "gk"
+  }
+]

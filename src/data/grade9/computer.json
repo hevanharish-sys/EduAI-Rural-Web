@@ -1,0 +1,22 @@
+[
+  {"topic":"Basics","chapter":"Components","question":"Which is NOT an input device?","options":["Keyboard","Mouse","Scanner","Monitor"],"answer":"Monitor","grade":9,"subject":"computer"},
+  {"topic":"Operating System","chapter":"Linux","question":"Linux is a __.","options":["software","open-source OS","virus","hardware"],"answer":"open-source OS","grade":9,"subject":"computer"},
+  {"topic":"Networking","chapter":"LAN","question":"LAN covers __.","options":["large area","small area","country","world"],"answer":"small area","grade":9,"subject":"computer"},
+  {"topic":"Networking","chapter":"Internet","question":"WWW stands for __.","options":["World Web Window","World Wide Web","Web Wide World","Wide World Web"],"answer":"World Wide Web","grade":9,"subject":"computer"},
+  {"topic":"MS Word","chapter":"Editing","question":"Ctrl + Z is used to __.","options":["redo","copy","undo","save"],"answer":"undo","grade":9,"subject":"computer"},
+  {"topic":"MS Excel","chapter":"Functions","question":"MAX() returns the __ value.","options":["sum","average","largest","smallest"],"answer":"largest","grade":9,"subject":"computer"},
+  {"topic":"MS PowerPoint","chapter":"Animations","question":"Animations add __.","options":["effects","charts","tables","spreadsheets"],"answer":"effects","grade":9,"subject":"computer"},
+  {"topic":"Cyber Safety","chapter":"Security","question":"A strong password has __.","options":["same letters","only numbers","mixed characters","birthdate"],"answer":"mixed characters","grade":9,"subject":"computer"},
+  {"topic":"Programming","chapter":"Python","question":"Python is a __ language.","options":["low-level","high-level","machine","binary"],"answer":"high-level","grade":9,"subject":"computer"},
+  {"topic":"Programming","chapter":"Algorithm","question":"Algorithm is __.","options":["a song","step-by-step process","a website","a program"],"answer":"step-by-step process","grade":9,"subject":"computer"},
+  {"topic":"Storage","chapter":"Memory","question":"SSD stands for __.","options":["Solid State Drive","Soft Storage Device","System Disk Drive","Small State Disk"],"answer":"Solid State Drive","grade":9,"subject":"computer"},
+  {"topic":"Hardware","chapter":"CPU","question":"CPU is also known as __.","options":["brain of computer","heart","memory","screen"],"answer":"brain of computer","grade":9,"subject":"computer"},
+  {"topic":"Networking","chapter":"IP","question":"IP address identifies __.","options":["person","device","game","keyboard"],"answer":"device","grade":9,"subject":"computer"},
+  {"topic":"Cyber Safety","chapter":"Viruses","question":"Malware includes __.","options":["viruses","worms","trojans","all"],"answer":"all","grade":9,"subject":"computer"},
+  {"topic":"Programming","chapter":"Loops","question":"A loop runs __.","options":["once","multiple times","never","random"],"answer":"multiple times","grade":9,"subject":"computer"},
+  {"topic":"Files","chapter":"Extensions","question":".exe is a __ file.","options":["image","video","executable","document"],"answer":"executable","grade":9,"subject":"computer"},
+  {"topic":"Internet","chapter":"Email","question":"Spam folder stores __.","options":["important mail","drafts","junk mail","sent mail"],"answer":"junk mail","grade":9,"subject":"computer"},
+  {"topic":"Apps","chapter":"Software","question":"WhatsApp is a __.","options":["hardware","application","OS","malware"],"answer":"application","grade":9,"subject":"computer"},
+  {"topic":"Security","chapter":"Firewall","question":"Firewall protects from __.","options":["heat","sunlight","unauthorized access","audio"],"answer":"unauthorized access","grade":9,"subject":"computer"},
+  {"topic":"Networking","chapter":"WAN","question":"WAN covers __ area.","options":["room","building","city","world"],"answer":"city","grade":9,"subject":"computer"}
+]

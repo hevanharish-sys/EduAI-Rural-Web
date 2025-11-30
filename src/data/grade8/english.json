@@ -1,0 +1,22 @@
+[
+  {"topic":"Grammar","chapter":"Nouns","question":"Choose the abstract noun.","options":["beauty","table","river","Delhi"],"answer":"beauty","grade":8,"subject":"english"},
+  {"topic":"Grammar","chapter":"Pronouns","question":"Choose the correct pronoun: Everyone should do __ best.","options":["his","their","our","its"],"answer":"their","grade":8,"subject":"english"},
+  {"topic":"Grammar","chapter":"Tenses","question":"She __ in the park every morning.","options":["walk","walks","walking","walked"],"answer":"walks","grade":8,"subject":"english"},
+  {"topic":"Grammar","chapter":"Voice","question":"Passive: They built the bridge.","options":["The bridge is built by them.","The bridge was built by them.","The bridge has been built.","The bridge will be built."],"answer":"The bridge was built by them.","grade":8,"subject":"english"},
+  {"topic":"Grammar","chapter":"Direct/Indirect","question":"Indirect: He said, 'I will call you tomorrow.'","options":["He said he will call me tomorrow.","He said he would call me the next day.","He said he calls me.","He said he called me."],"answer":"He said he would call me the next day.","grade":8,"subject":"english"},
+  {"topic":"Vocabulary","chapter":"Synonyms","question":"Synonym of 'brave'.","options":["coward","fearful","bold","weak"],"answer":"bold","grade":8,"subject":"english"},
+  {"topic":"Vocabulary","chapter":"Antonyms","question":"Antonym of 'arrival'.","options":["depart","leave","departure","start"],"answer":"departure","grade":8,"subject":"english"},
+  {"topic":"Writing","chapter":"Notice","question":"A notice must be __.","options":["long","short and clear","poetic","informal"],"answer":"short and clear","grade":8,"subject":"english"},
+  {"topic":"Writing","chapter":"Email","question":"Emails must have a __ line.","options":["title","subject","header","topic"],"answer":"subject","grade":8,"subject":"english"},
+  {"topic":"Reading","chapter":"Comprehension","question":"A comprehension passage tests __.","options":["memory","guessing","understanding","spelling"],"answer":"understanding","grade":8,"subject":"english"},
+  {"topic":"Literature","chapter":"Poetry","question":"A poem that mourns someone’s death is called __.","options":["ode","elegy","lyric","ballad"],"answer":"elegy","grade":8,"subject":"english"},
+  {"topic":"Literature","chapter":"Prose","question":"Characters and setting belong to __.","options":["poetry","prose","grammar","notices"],"answer":"prose","grade":8,"subject":"english"},
+  {"topic":"Grammar","chapter":"Adverbs","question":"Choose the adverb: She danced gracefully.","options":["danced","gracefully","she","dance"],"answer":"gracefully","grade":8,"subject":"english"},
+  {"topic":"Vocabulary","chapter":"Idioms","question":"Meaning of 'once in a blue moon'.","options":["very common","rarely","everyday","never"],"answer":"rarely","grade":8,"subject":"english"},
+  {"topic":"Grammar","chapter":"Clauses","question":"Identify the subordinate clause: I know that he is honest.","options":["I know","that he is honest","honest","he is"],"answer":"that he is honest","grade":8,"subject":"english"},
+  {"topic":"Grammar","chapter":"Prepositions","question":"Choose correct: The cat jumped __ the wall.","options":["in","on","over","between"],"answer":"over","grade":8,"subject":"english"},
+  {"topic":"Writing","chapter":"Story","question":"A story must have __.","options":["characters","setting","plot","all of these"],"answer":"all of these","grade":8,"subject":"english"},
+  {"topic":"Reading","chapter":"Inference","question":"If someone is shivering in snow, they are __.","options":["happy","cold","angry","sleeping"],"answer":"cold","grade":8,"subject":"english"},
+  {"topic":"Writing","chapter":"Report","question":"A report is usually written in __ tense.","options":["future","present","past","continuous"],"answer":"past","grade":8,"subject":"english"},
+  {"topic":"Grammar","chapter":"Modals","question":"You __ finish homework before playing.","options":["can","must","might","would"],"answer":"must","grade":8,"subject":"english"}
+]

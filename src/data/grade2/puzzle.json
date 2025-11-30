@@ -1,0 +1,46 @@
+[
+  {
+    "id": "g2-pz-1",
+    "title": "Identify the Animal",
+    "desc": "Which animal is shown?",
+    "type": "puzzle",
+    "question": "Which animal is shown?",
+    "image": "https://picsum.photos/id/1025/800/600",
+    "grid": 3,
+    "time": 15
+  },
+  {
+    "id": "g2-pz-2",
+    "title": "Identify the Fruit",
+    "desc": "Which fruit appears in the picture?",
+    "type": "puzzle",
+    "question": "Which fruit is shown?",
+    "image": "https://picsum.photos/id/1020/800/600",
+    "grid": 3,
+    "time": 12
+  },
+  {
+    "id": "g2-pz-3",
+    "title": "Toy Match",
+    "desc": "Name the toy in the image.",
+    "type": "puzzle",
+    "question": "What toy is shown?",
+    "image": "https://picsum.photos/id/1060/800/600",
+    "grid": 3,
+    "time": 14
+  },
+  {
+    "id": "g2-pz-4",
+    "title": "House Object",
+    "desc": "Which object from the home is pictured?",
+    "type": "puzzle",
+    "question": "Which household item is shown?",
+    "image": "https://picsum.photos/id/1011/800/600",
+    "grid": 3,
+    "time": 13
+  }
+]
+
+
+
+

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "g5-bt-1",
+    "title": "Decimals Quick",
+    "desc": "Compare small decimals",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Which is bigger: 0.5 or 0.45?", "options": ["0.5", "0.45"], "answer": "0.5" }
+    ]
+  },
+  {
+    "id": "g5-bt-2",
+    "title": "Geography Facts",
+    "desc": "Choose correct physical feature",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Which is a peninsula?", "options": ["India", "Iceland", "Greenland"], "answer": "India" }
+    ]
+  },
+  {
+    "id": "g5-bt-3",
+    "title": "Grammar - Sentence Parts",
+    "desc": "Identify subject",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Find subject: 'The cat chased the mouse.'", "options": ["cat", "chased", "mouse"], "answer": "cat" }
+    ]
+  },
+  {
+    "id": "g5-bt-4",
+    "title": "Science - Life Processes",
+    "desc": "Basic biology choices",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Which process do plants use to make food?", "options": ["Respiration", "Photosynthesis", "Digestion"], "answer": "Photosynthesis" }
+    ]
+  }
+]

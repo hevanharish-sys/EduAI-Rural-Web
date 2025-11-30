@@ -1,0 +1,192 @@
+[
+  {
+    "topic": "Grammar",
+    "chapter": "Nouns",
+    "question": "Which of the following is a collective noun?",
+    "options": ["Crowd", "Boy", "City", "River"],
+    "answer": "Crowd",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Grammar",
+    "chapter": "Nouns",
+    "question": "Which is an abstract noun?",
+    "options": ["Happiness", "Chair", "Dog", "Tree"],
+    "answer": "Happiness",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Pronouns",
+    "chapter": "Personal Pronouns",
+    "question": "Riya and I went to school. __ reached early.",
+    "options": ["She", "He", "We", "They"],
+    "answer": "We",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Pronouns",
+    "chapter": "Personal Pronouns",
+    "question": "The boys said __ were tired.",
+    "options": ["He", "She", "They", "It"],
+    "answer": "They",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Verbs",
+    "chapter": "Tenses",
+    "question": "Choose the past tense: She __ a song.",
+    "options": ["sing", "sings", "sang", "singing"],
+    "answer": "sang",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Verbs",
+    "chapter": "Tenses",
+    "question": "Choose the future tense: They __ tomorrow.",
+    "options": ["played", "play", "will play", "playing"],
+    "answer": "will play",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Adjectives",
+    "chapter": "Comparison",
+    "question": "Fill in the blank: This box is __ than that one.",
+    "options": ["heavy", "heavier", "heaviest", "heavyer"],
+    "answer": "heavier",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Adjectives",
+    "chapter": "Comparison",
+    "question": "Which is the superlative degree?",
+    "options": ["big", "bigger", "biggest", "most big"],
+    "answer": "biggest",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Articles",
+    "chapter": "A / An / The",
+    "question": "She adopted __ orphan puppy.",
+    "options": ["a", "an", "the", "no article"],
+    "answer": "an",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Articles",
+    "chapter": "A / An / The",
+    "question": "__ Himalayas are covered with snow.",
+    "options": ["A", "An", "The", "No article"],
+    "answer": "The",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Prepositions",
+    "chapter": "Place",
+    "question": "The cat is hiding __ the table.",
+    "options": ["in", "on", "under", "between"],
+    "answer": "under",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Prepositions",
+    "chapter": "Movement",
+    "question": "She walked __ the park.",
+    "options": ["through", "under", "on", "at"],
+    "answer": "through",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Vocabulary",
+    "chapter": "Synonyms",
+    "question": "Choose the synonym of 'brave'.",
+    "options": ["Coward", "Fearless", "Weak", "Small"],
+    "answer": "Fearless",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Vocabulary",
+    "chapter": "Antonyms",
+    "question": "Choose the antonym of 'easy'.",
+    "options": ["Small", "Hard", "Soft", "Tall"],
+    "answer": "Hard",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Comprehension",
+    "chapter": "Passage",
+    "question": "Ritu watered her plants daily. Why were her plants healthy?",
+    "options": ["Because she ignored them", "Because she watered them", "Because they were fake", "Because she cut them"],
+    "answer": "Because she watered them",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Comprehension",
+    "chapter": "Passage",
+    "question": "What did Ritu water?",
+    "options": ["Animals", "Plants", "Books", "Clothes"],
+    "answer": "Plants",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Punctuation",
+    "chapter": "Quotation Marks",
+    "question": "Choose the correct punctuation: She said __I am happy.__",
+    "options": [
+      "\"I am happy\"",
+      "'I am happy'",
+      "\"I am happy.\"",
+      "\"I am happy!\""
+    ],
+    "answer": "\"I am happy.\"",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Sentence",
+    "chapter": "Types",
+    "question": "Which of these is an exclamatory sentence?",
+    "options": ["What is your name?", "Close the door.", "Wow! That is amazing!", "She is reading."],
+    "answer": "Wow! That is amazing!",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Story",
+    "chapter": "Moral Stories",
+    "question": "In 'The Ant and The Grasshopper', who worked hard?",
+    "options": ["Grasshopper", "Ant", "Both", "Neither"],
+    "answer": "Ant",
+    "grade": 4,
+    "subject": "english"
+  },
+  {
+    "topic": "Story",
+    "chapter": "Moral Stories",
+    "question": "What is the moral of the story?",
+    "options": [
+      "Work hard today for tomorrow.",
+      "Always play.",
+      "Don't share.",
+      "Sleep all day."
+    ],
+    "answer": "Work hard today for tomorrow.",
+    "grade": 4,
+    "subject": "english"
+  }
+]

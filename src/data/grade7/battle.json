@@ -1,0 +1,38 @@
+[
+  {
+    "id": "g7-bt-1",
+    "title": "Algebra Basics",
+    "desc": "Simple algebra MCQs",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "If x=2, 3x + 1 = ?", "options": ["7", "6", "8"], "answer": "7" }
+    ]
+  },
+  {
+    "id": "g7-bt-2",
+    "title": "Science - Cells",
+    "desc": "Cell organelles quick",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Which organelle is for energy production?", "options": ["Nucleus", "Mitochondria", "Ribosome"], "answer": "Mitochondria" }
+    ]
+  },
+  {
+    "id": "g7-bt-3",
+    "title": "Civics Short",
+    "desc": "Basic civics",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Which organ is law making in India?", "options": ["Supreme Court", "Parliament", "President"], "answer": "Parliament" }
+    ]
+  },
+  {
+    "id": "g7-bt-4",
+    "title": "Geography Quick",
+    "desc": "Choose physical geography fact",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Which is a plateau?", "options": ["Deccan", "Ganges plain", "Thar"], "answer": "Deccan" }
+    ]
+  }
+]

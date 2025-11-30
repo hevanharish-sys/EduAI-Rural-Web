@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Living & Non-living",
+    "chapter": "Living Things",
+    "question": "Which of these is a living thing?",
+    "options": ["Rock", "Plant", "Table", "Spoon"],
+    "answer": "Plant",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "Living & Non-living",
+    "chapter": "Living Things",
+    "question": "Which of these can move on its own?",
+    "options": ["Chair", "Dog", "Bag", "Notebook"],
+    "answer": "Dog",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "My Body",
+    "chapter": "Sense Organs",
+    "question": "Which body part helps us taste?",
+    "options": ["Eyes", "Ears", "Tongue", "Hands"],
+    "answer": "Tongue",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "My Body",
+    "chapter": "Sense Organs",
+    "question": "Which body part helps us hear?",
+    "options": ["Eyes", "Ears", "Nose", "Mouth"],
+    "answer": "Ears",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "Plants",
+    "chapter": "Parts of Plants",
+    "question": "Which part of the plant grows under the soil?",
+    "options": ["Stem", "Leaf", "Root", "Flower"],
+    "answer": "Root",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "Plants",
+    "chapter": "Uses of Plants",
+    "question": "Which of these comes from plants?",
+    "options": ["Milk", "Clothes", "Fruits", "Plastic"],
+    "answer": "Fruits",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "Animal Homes",
+    "question": "Where does a bird live?",
+    "options": ["Nest", "Burrow", "House", "Stable"],
+    "answer": "Nest",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "Animal Foods",
+    "question": "What do cows eat?",
+    "options": ["Meat", "Grass", "Fish", "Seeds"],
+    "answer": "Grass",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "Food",
+    "chapter": "Healthy & Unhealthy Food",
+    "question": "Which is healthy food?",
+    "options": ["Chips", "Apple", "Chocolate", "Candy"],
+    "answer": "Apple",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "Food",
+    "chapter": "Sources of Food",
+    "question": "Milk comes from which animal?",
+    "options": ["Tiger", "Cow", "Dog", "Cat"],
+    "answer": "Cow",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "Water",
+    "chapter": "Uses of Water",
+    "question": "Which of these needs water?",
+    "options": ["Plants", "Stones", "Plastic", "Chairs"],
+    "answer": "Plants",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "Water",
+    "chapter": "Water Sources",
+    "question": "Which of these is a source of water?",
+    "options": ["River", "Car", "House", "Book"],
+    "answer": "River",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "Sun",
+    "chapter": "Sunlight",
+    "question": "The sun gives us __.",
+    "options": ["Rain", "Light", "Snow", "Food"],
+    "answer": "Light",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "Sun",
+    "chapter": "Sunlight",
+    "question": "We see the sun in the __.",
+    "options": ["Night", "Day", "Morning only", "Evening only"],
+    "answer": "Day",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "Weather",
+    "chapter": "Seasons",
+    "question": "In which season does it rain?",
+    "options": ["Winter", "Rainy", "Summer", "Autumn"],
+    "answer": "Rainy",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "Weather",
+    "chapter": "Seasons",
+    "question": "In which season do we wear woollen clothes?",
+    "options": ["Rainy", "Winter", "Summer", "Spring"],
+    "answer": "Winter",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "Objects",
+    "chapter": "Materials",
+    "question": "Which of these is made of wood?",
+    "options": ["Chair", "Bottle", "Plate", "Ball"],
+    "answer": "Chair",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "Objects",
+    "chapter": "Materials",
+    "question": "Which of these is made of metal?",
+    "options": ["Spoon", "Leaf", "Flower", "Shoe"],
+    "answer": "Spoon",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "Cleanliness",
+    "chapter": "Hygiene",
+    "question": "We should wash our hands before __.",
+    "options": ["Watching TV", "Eating food", "Sleeping", "Playing"],
+    "answer": "Eating food",
+    "grade": 1,
+    "subject": "science"
+  },
+  {
+    "topic": "Cleanliness",
+    "chapter": "Hygiene",
+    "question": "We should brush our teeth __.",
+    "options": ["Once a week", "Twice a day", "Once a month", "Never"],
+    "answer": "Twice a day",
+    "grade": 1,
+    "subject": "science"
+  }
+]

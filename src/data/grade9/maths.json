@@ -1,0 +1,22 @@
+[
+  {"topic":"Number System","chapter":"Irrational Numbers","question":"Which is irrational?","options":["4","9/3","√5","0.5"],"answer":"√5","grade":9,"subject":"maths"},
+  {"topic":"Polynomials","chapter":"Basics","question":"Degree of x² - 3x + 1 is __.","options":["1","2","3","0"],"answer":"2","grade":9,"subject":"maths"},
+  {"topic":"Polynomials","chapter":"Value","question":"Value of x² when x=3?","options":["6","9","12","3"],"answer":"9","grade":9,"subject":"maths"},
+  {"topic":"Coordinate Geometry","chapter":"Point","question":"Coordinates of origin are __.","options":["(1,1)","(0,0)","(1,0)","(0,1)"],"answer":"(0,0)","grade":9,"subject":"maths"},
+  {"topic":"Linear Equations","chapter":"Basics","question":"Solve: 2x - 4 = 10","options":["5","7","3","6"],"answer":"7","grade":9,"subject":"maths"},
+  {"topic":"Triangles","chapter":"Congruence","question":"Which condition is NOT for triangle congruency?","options":["SSS","ASA","SAS","AAA"],"answer":"AAA","grade":9,"subject":"maths"},
+  {"topic":"Triangles","chapter":"Rules","question":"Sum of angles in triangle = __.","options":["180°","90°","270°","360°"],"answer":"180°","grade":9,"subject":"maths"},
+  {"topic":"Quadrilaterals","chapter":"Properties","question":"A rectangle has __ right angles.","options":["1","2","3","4"],"answer":"4","grade":9,"subject":"maths"},
+  {"topic":"Mensuration","chapter":"Area","question":"Area of parallelogram = __.","options":["b×h","1/2×b×h","s²","2πr"],"answer":"b×h","grade":9,"subject":"maths"},
+  {"topic":"Circles","chapter":"Basics","question":"Distance around a circle is __.","options":["diameter","radius","circumference","arc"],"answer":"circumference","grade":9,"subject":"maths"},
+  {"topic":"Statistics","chapter":"Mean","question":"Mean of 10,20,30?","options":["20","30","15","25"],"answer":"20","grade":9,"subject":"maths"},
+  {"topic":"Statistics","chapter":"Median","question":"Median of 2,5,7?","options":["2","7","5","6"],"answer":"5","grade":9,"subject":"maths"},
+  {"topic":"Probability","chapter":"Basics","question":"Probability of getting tail = __.","options":["0","1","1/2","2"],"answer":"1/2","grade":9,"subject":"maths"},
+  {"topic":"Number System","chapter":"Decimals","question":"0.333… is __.","options":["terminating","non-terminating repeating","irrational","integer"],"answer":"non-terminating repeating","grade":9,"subject":"maths"},
+  {"topic":"Polynomials","chapter":"Zeros","question":"If x=2 is zero of x-2, value is __.","options":["0","2","4","-2"],"answer":"0","grade":9,"subject":"maths"},
+  {"topic":"Geometry","chapter":"Lines","question":"Parallel lines have __ intersection points.","options":["1","0","2","infinite"],"answer":"0","grade":9,"subject":"maths"},
+  {"topic":"Mensuration","chapter":"Volume","question":"Volume of cube = __.","options":["4a","a³","3a","a²"],"answer":"a³","grade":9,"subject":"maths"},
+  {"topic":"Coordinate Geometry","chapter":"Basics","question":"X-axis is __.","options":["horizontal","vertical","slanted","curved"],"answer":"horizontal","grade":9,"subject":"maths"},
+  {"topic":"Circles","chapter":"Segments","question":"A chord is a line __.","options":["touching circle","joining two points on circle","outside circle","inside only"],"answer":"joining two points on circle","grade":9,"subject":"maths"},
+  {"topic":"Algebra","chapter":"Simplification","question":"Value of 3(x+1) when x=4?","options":["7","12","15","9"],"answer":"15","grade":9,"subject":"maths"}
+]

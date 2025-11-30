@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "title": "Days of the Week",
+    "desc": "Learn all 7 days with music.",
+    "src": "/music/grade2/days.mp3",
+    "lyrics": [
+      "Monday, Tuesday",
+      "Wednesday, Thursday",
+      "Friday, Saturday",
+      "and Sunday!"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Months of Year",
+    "desc": "Sing the 12 months!",
+    "src": "/music/grade2/months.mp3",
+    "lyrics": [
+      "January, February, March, April",
+      "May, June, July",
+      "August, September",
+      "October, November, December"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Body Parts Song",
+    "desc": "Touch your head, shoulders, knees!",
+    "src": "/music/grade2/bodyparts.mp3",
+    "lyrics": [
+      "Head, shoulders, knees and toes",
+      "Eyes and ears and mouth and nose"
+    ]
+  }
+]

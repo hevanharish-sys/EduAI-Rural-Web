@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Numbers",
+    "chapter": "1–100",
+    "question": "Which number comes after 57?",
+    "options": ["56", "58", "59", "60"],
+    "answer": "58",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Numbers",
+    "chapter": "1–100",
+    "question": "What comes before 40?",
+    "options": ["39", "41", "38", "42"],
+    "answer": "39",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Place Value",
+    "chapter": "Tens & Ones",
+    "question": "In 42, how many tens are there?",
+    "options": ["2", "4", "1", "5"],
+    "answer": "4",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Place Value",
+    "chapter": "Tens & Ones",
+    "question": "In 59, how many ones are there?",
+    "options": ["5", "9", "4", "0"],
+    "answer": "9",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Addition",
+    "chapter": "Two-digit Addition",
+    "question": "What is 23 + 14?",
+    "options": ["37", "36", "38", "35"],
+    "answer": "37",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Addition",
+    "chapter": "Two-digit Addition",
+    "question": "What is 45 + 22?",
+    "options": ["77", "67", "55", "52"],
+    "answer": "67",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Subtraction",
+    "chapter": "Two-digit Subtraction",
+    "question": "What is 50 - 27?",
+    "options": ["22", "23", "24", "25"],
+    "answer": "23",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Subtraction",
+    "chapter": "Two-digit Subtraction",
+    "question": "What is 90 - 45?",
+    "options": ["45", "40", "35", "50"],
+    "answer": "45",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Shapes",
+    "chapter": "2D Shapes",
+    "question": "Which shape has 4 equal sides?",
+    "options": ["Triangle", "Square", "Circle", "Pentagon"],
+    "answer": "Square",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Shapes",
+    "chapter": "2D Shapes",
+    "question": "Which shape is round?",
+    "options": ["Circle", "Square", "Triangle", "Rectangle"],
+    "answer": "Circle",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Measurement",
+    "chapter": "Length",
+    "question": "We measure length using a __.",
+    "options": ["Scale", "Ball", "Plate", "Box"],
+    "answer": "Scale",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Measurement",
+    "chapter": "Weight",
+    "question": "Which is heavier—stone or cotton?",
+    "options": ["Cotton", "Stone", "Both same", "None"],
+    "answer": "Stone",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Money",
+    "chapter": "Indian Currency",
+    "question": "Which note has the highest value?",
+    "options": ["₹10", "₹20", "₹100", "₹50"],
+    "answer": "₹100",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Money",
+    "chapter": "Indian Currency",
+    "question": "How many ₹5 coins make ₹20?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Patterns",
+    "chapter": "Number Patterns",
+    "question": "What comes next? 5, 10, 15, __",
+    "options": ["18", "20", "25", "22"],
+    "answer": "20",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Patterns",
+    "chapter": "Shape Patterns",
+    "question": "● ▲ ● ▲ ● __",
+    "options": ["●", "▲", "■", "○"],
+    "answer": "▲",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Time",
+    "chapter": "Clock",
+    "question": "How many hours are in a day?",
+    "options": ["10", "12", "24", "20"],
+    "answer": "24",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Time",
+    "chapter": "Clock",
+    "question": "When do we eat breakfast?",
+    "options": ["Morning", "Afternoon", "Night", "Midnight"],
+    "answer": "Morning",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Data",
+    "chapter": "Counting",
+    "question": "If there are 10 red balls and 5 blue balls, which color is more?",
+    "options": ["Red", "Blue", "Same", "Can’t say"],
+    "answer": "Red",
+    "grade": 2,
+    "subject": "maths"
+  },
+  {
+    "topic": "Data",
+    "chapter": "Counting",
+    "question": "Which number is the smallest?",
+    "options": ["18", "12", "15", "20"],
+    "answer": "12",
+    "grade": 2,
+    "subject": "maths"
+  }
+]

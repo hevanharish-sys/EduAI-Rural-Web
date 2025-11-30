@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Computer Basics",
+    "chapter": "Introduction",
+    "question": "A computer is a __.",
+    "options": ["Toy", "Machine", "Fruit", "Animal"],
+    "answer": "Machine",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Parts of Computer",
+    "chapter": "Monitor",
+    "question": "Which part displays pictures?",
+    "options": ["CPU", "Keyboard", "Monitor", "Mouse"],
+    "answer": "Monitor",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Parts of Computer",
+    "chapter": "CPU",
+    "question": "Which part is called the brain of the computer?",
+    "options": ["CPU", "Mouse", "Monitor", "Speaker"],
+    "answer": "CPU",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Input Devices",
+    "chapter": "Mouse",
+    "question": "Which device is used to click?",
+    "options": ["Keyboard", "Mouse", "Monitor", "CPU"],
+    "answer": "Mouse",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Input Devices",
+    "chapter": "Keyboard",
+    "question": "Which device is used for typing?",
+    "options": ["Keyboard", "Speaker", "Monitor", "CPU"],
+    "answer": "Keyboard",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Output Devices",
+    "chapter": "Speakers",
+    "question": "Which device gives sound?",
+    "options": ["Keyboard", "Mouse", "Speaker", "CPU"],
+    "answer": "Speaker",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Output Devices",
+    "chapter": "Printer",
+    "question": "Which device prints?",  
+    "options": ["Monitor", "Printer", "Mouse", "CPU"],
+    "answer": "Printer",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Uses",
+    "chapter": "Daily Life",
+    "question": "Computers help us __.",
+    "options": ["Cook food", "Play games", "Fly", "Eat"],
+    "answer": "Play games",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Uses",
+    "chapter": "Daily Life",
+    "question": "Computers are used in __.",
+    "options": ["Kitchen", "School", "Garden", "Bedroom"],
+    "answer": "School",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Computer Lab",
+    "chapter": "Rules",
+    "question": "We should not __ in the computer lab.",
+    "options": ["Run", "Sit", "Read", "Listen"],
+    "answer": "Run",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Computer Lab",
+    "chapter": "Rules",
+    "question": "We should keep the computer area __.",
+    "options": ["Dirty", "Clean", "Wet", "Crowded"],
+    "answer": "Clean",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Basic Skills",
+    "chapter": "Turning On",
+    "question": "We press the __ button to start the computer.",
+    "options": ["Power", "Shift", "Space bar", "Mouse"],
+    "answer": "Power",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Basic Skills",
+    "chapter": "Typing",
+    "question": "We type using the __.",
+    "options": ["Monitor", "Keyboard", "Speaker", "Mouse"],
+    "answer": "Keyboard",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Icons",
+    "chapter": "Desktop",
+    "question": "Small pictures on the desktop are called __.",
+    "options": ["Icons", "Books", "Keys", "Tabs"],
+    "answer": "Icons",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Icons",
+    "chapter": "Desktop",
+    "question": "We double-click an icon to __.",
+    "options": ["Close it", "Open it", "Delete it", "Move it"],
+    "answer": "Open it",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Multimedia",
+    "chapter": "Paint",
+    "question": "We draw pictures on a computer using __.",
+    "options": ["Paint", "Notepad", "Calculator", "Clock"],
+    "answer": "Paint",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Internet",
+    "chapter": "Basics",
+    "question": "Internet helps us to __.",
+    "options": ["Wash clothes", "Find information", "Cook food", "Sleep"],
+    "answer": "Find information",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Internet",
+    "chapter": "Safety",
+    "question": "We should not share our __ online.",
+    "options": ["Favorite food", "Home address", "Favorite color", "Pet name"],
+    "answer": "Home address",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Hardware",
+    "chapter": "Devices",
+    "question": "Which of these is a hardware device?",
+    "options": ["Keyboard", "Google", "File", "Window"],
+    "answer": "Keyboard",
+    "grade": 2,
+    "subject": "computer"
+  },
+  {
+    "topic": "Hardware",
+    "chapter": "Devices",
+    "question": "Which device shows output?",
+    "options": ["Mouse", "Monitor", "Keyboard", "Scanner"],
+    "answer": "Monitor",
+    "grade": 2,
+    "subject": "computer"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "g9-pz-1",
+    "title": "Chemical Formula",
+    "desc": "Image relates to a chemical concept.",
+    "type": "puzzle",
+    "question": "Which chemical concept is pictured?",
+    "image": "https://picsum.photos/id/115/800/600",
+    "grid": 3,
+    "time": 24
+  },
+  {
+    "id": "g9-pz-2",
+    "title": "Historical Figure",
+    "desc": "A portrait or historical scene is pictured.",
+    "type": "puzzle",
+    "question": "Which historical figure or scene is shown?",
+    "image": "https://picsum.photos/id/116/800/600",
+    "grid": 3,
+    "time": 24
+  },
+  {
+    "id": "g9-pz-3",
+    "title": "Equation Graph",
+    "desc": "Graphical representation of math concept.",
+    "type": "puzzle",
+    "question": "Which mathematical graph is pictured?",
+    "image": "https://picsum.photos/id/117/800/600",
+    "grid": 3,
+    "time": 24
+  },
+  {
+    "id": "g9-pz-4",
+    "title": "Planet Fact",
+    "desc": "An astronomy image — match the fact.",
+    "type": "puzzle",
+    "question": "Which planetary fact/image is shown?",
+    "image": "https://picsum.photos/id/118/800/600",
+    "grid": 3,
+    "time": 22
+  }
+]
+
+
+

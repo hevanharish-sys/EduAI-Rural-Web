@@ -1,0 +1,38 @@
+[
+  {
+    "id": "g9-bt-1",
+    "title": "Algebra Quick",
+    "desc": "Quadratic & linear quick checks",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "If x^2 = 9, x = ?", "options": ["±3", "3", "-3"], "answer": "±3" }
+    ]
+  },
+  {
+    "id": "g9-bt-2",
+    "title": "Physics Basics",
+    "desc": "Speed, velocity basics",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Speed = distance/time. If distance=10m, time=2s, speed = ?", "options": ["5 m/s", "2 m/s", "20 m/s"], "answer": "5 m/s" }
+    ]
+  },
+  {
+    "id": "g9-bt-3",
+    "title": "Biology Quick",
+    "desc": "Cell biology basics",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Which organelle makes proteins?", "options": ["Ribosome", "Chloroplast", "Mitochondria"], "answer": "Ribosome" }
+    ]
+  },
+  {
+    "id": "g9-bt-4",
+    "title": "World History Quick",
+    "desc": "Basic 20th-century fact",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Which year did World War II end?", "options": ["1945", "1939", "1918"], "answer": "1945" }
+    ]
+  }
+]

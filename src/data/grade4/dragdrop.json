@@ -1,0 +1,35 @@
+[
+  {
+    "id": "g4-dd-1",
+    "title": "Match Rivers to Countries",
+    "desc": "Drag river name to the correct country.",
+    "pairs": [
+      { "drag": "Ganges", "target": "India" }
+    ]
+  },
+  {
+    "id": "g4-dd-2",
+    "title": "Match Invention to Inventor",
+    "desc": "Drag the invention to the inventor.",
+    "pairs": [
+      { "drag": "Telephone", "target": "Bell" }
+    ]
+  },
+  {
+    "id": "g4-dd-3",
+    "title": "Match Verb to Action",
+    "desc": "Drag the verb to the correct action picture.",
+    "pairs": [
+      { "drag": "run", "target": "running-image" }
+    ]
+  },
+  {
+    "id": "g4-dd-4",
+    "title": "Match Food Group",
+    "desc": "Drag the food item to the correct group.",
+    "pairs": [
+      { "drag": "Carrot", "target": "vegetables" }
+    ]
+  }
+]
+

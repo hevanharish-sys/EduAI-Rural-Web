@@ -1,0 +1,22 @@
+[
+  {"topic":"History","chapter":"Colonialism","question":"British traders came to India as __.","options":["farmers","soldiers","traders","teachers"],"answer":"traders","grade":8,"subject":"social_science"},
+  {"topic":"History","chapter":"Revolt 1857","question":"1857 revolt began in __.","options":["Delhi","Meerut","Lucknow","Jhansi"],"answer":"Meerut","grade":8,"subject":"social_science"},
+  {"topic":"Civics","chapter":"Constitution","question":"India's Constitution came into effect on __.","options":["1947","1950","1948","1962"],"answer":"1950","grade":8,"subject":"social_science"},
+  {"topic":"Civics","chapter":"Parliament","question":"Lok Sabha members are __.","options":["appointed","elected","nominated","none"],"answer":"elected","grade":8,"subject":"social_science"},
+  {"topic":"Geography","chapter":"Resources","question":"Natural resources come from __.","options":["nature","factories","shops","machines"],"answer":"nature","grade":8,"subject":"social_science"},
+  {"topic":"Geography","chapter":"Land","question":"Terrace farming is done on __.","options":["plains","mountains","rivers","deserts"],"answer":"mountains","grade":8,"subject":"social_science"},
+  {"topic":"History","chapter":"Tribal People","question":"Adivasis traditionally lived in __.","options":["cities","forests","deserts","poles"],"answer":"forests","grade":8,"subject":"social_science"},
+  {"topic":"Civics","chapter":"Judiciary","question":"Highest court of India is __.","options":["High Court","Supreme Court","District Court","Gram Sabha"],"answer":"Supreme Court","grade":8,"subject":"social_science"},
+  {"topic":"Geography","chapter":"Industries","question":"Cotton textile is a __ industry.","options":["heavy","light","small","cottage"],"answer":"light","grade":8,"subject":"social_science"},
+  {"topic":"Civics","chapter":"Social Justice","question":"Untouchability is __.","options":["legal","illegal","encouraged","rewarded"],"answer":"illegal","grade":8,"subject":"social_science"},
+  {"topic":"History","chapter":"Nationalism","question":"Mahatma Gandhi started __ movement.","options":["Swadeshi","Non-Cooperation","Quit India","All of these"],"answer":"All of these","grade":8,"subject":"social_science"},
+  {"topic":"Geography","chapter":"Minerals","question":"Iron ore is used to make __.","options":["rubber","steel","plastic","sugar"],"answer":"steel","grade":8,"subject":"social_science"},
+  {"topic":"Civics","chapter":"Media","question":"Media must be __.","options":["biased","independent","private","hidden"],"answer":"independent","grade":8,"subject":"social_science"},
+  {"topic":"History","chapter":"Urban Changes","question":"Bombay (Mumbai) grew due to __.","options":["farming","trade and ports","deserts","mountains"],"answer":"trade and ports","grade":8,"subject":"social_science"},
+  {"topic":"Geography","chapter":"Agriculture","question":"Rice requires __ climate.","options":["cold","hot and wet","dry","snowy"],"answer":"hot and wet","grade":8,"subject":"social_science"},
+  {"topic":"Civics","chapter":"Public Facilities","question":"Drinking water is a __.","options":["luxury","public facility","private good","business"],"answer":"public facility","grade":8,"subject":"social_science"},
+  {"topic":"History","chapter":"Education","question":"Rabindranath Tagore founded __.","options":["Nalanda","Shantiniketan","IIT","Banaras University"],"answer":"Shantiniketan","grade":8,"subject":"social_science"},
+  {"topic":"Geography","chapter":"Human Resources","question":"Healthy and educated people are __.","options":["unskilled","human resource","raw material","capital only"],"answer":"human resource","grade":8,"subject":"social_science"},
+  {"topic":"Economics","chapter":"Poverty","question":"Poverty means lack of __.","options":["luxury","basic needs","riches","knowledge"],"answer":"basic needs","grade":8,"subject":"social_science"},
+  {"topic":"Civics","chapter":"Laws","question":"Laws are made by the __.","options":["courts","legislature","police","public"],"answer":"legislature","grade":8,"subject":"social_science"}
+]

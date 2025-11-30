@@ -1,0 +1,47 @@
+[
+  {
+    "id": "g3-pz-1",
+    "title": "Plant Part",
+    "desc": "Which part of plant appears?",
+    "type": "puzzle",
+    "question": "Which plant part is shown?",
+    "image": "https://picsum.photos/id/1018/800/600",
+    "grid": 3,
+    "time": 16
+  },
+  {
+    "id": "g3-pz-2",
+    "title": "Farm Animal",
+    "desc": "Identify the farm animal.",
+    "type": "puzzle",
+    "question": "Which farm animal is this?",
+    "image": "https://picsum.photos/id/1003/800/600",
+    "grid": 3,
+    "time": 15
+  },
+  {
+    "id": "g3-pz-3",
+    "title": "Vehicle Type",
+    "desc": "Which vehicle is pictured?",
+    "type": "puzzle",
+    "question": "Name the vehicle shown.",
+    "image": "https://picsum.photos/id/1012/800/600",
+    "grid": 3,
+    "time": 14
+  },
+  {
+    "id": "g3-pz-4",
+    "title": "Bird Watch",
+    "desc": "Which bird is visible in the image?",
+    "type": "puzzle",
+    "question": "Which bird is shown?",
+    "image": "https://picsum.photos/id/1024/800/600",
+    "grid": 3,
+    "time": 16
+  }
+]
+
+
+
+
+

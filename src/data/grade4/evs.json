@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Family & Friends",
+    "chapter": "Relationships",
+    "question": "Your mother's mother is your __.",
+    "options": ["Aunt", "Grandmother", "Sister", "Cousin"],
+    "answer": "Grandmother",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Family & Friends",
+    "chapter": "Roles",
+    "question": "Our parents take care of __.",
+    "options": ["Plants", "Animals", "Us", "Houses"],
+    "answer": "Us",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Plants",
+    "chapter": "Parts & Functions",
+    "question": "Roots absorb __ from the soil.",
+    "options": ["Light", "Water", "Wind", "Sound"],
+    "answer": "Water",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Plants",
+    "chapter": "Types",
+    "question": "Which of these is a climber?",
+    "options": ["Rose", "Mango", "Money Plant", "Neem"],
+    "answer": "Money Plant",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "Food Habits",
+    "question": "Animals that eat both plants and animals are called __.",
+    "options": ["Herbivores", "Carnivores", "Omnivores", "Insectivores"],
+    "answer": "Omnivores",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "Homes",
+    "question": "A honeybee lives in a __.",
+    "options": ["Nest", "Hive", "Cave", "Burrow"],
+    "answer": "Hive",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Food",
+    "chapter": "Cooking",
+    "question": "Which method uses steam to cook food?",
+    "options": ["Boiling", "Steaming", "Frying", "Baking"],
+    "answer": "Steaming",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Food",
+    "chapter": "Preservation",
+    "question": "Drying food helps to __ it.",
+    "options": ["Spoil", "Preserve", "Color", "Freeze"],
+    "answer": "Preserve",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Water",
+    "chapter": "Sources",
+    "question": "Which is the largest source of water?",
+    "options": ["Rivers", "Lakes", "Ponds", "Oceans"],
+    "answer": "Oceans",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Water",
+    "chapter": "Purification",
+    "question": "Boiling water kills __.",
+    "options": ["Stones", "Germs", "Dust", "Ice"],
+    "answer": "Germs",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Shelter",
+    "chapter": "Types of Houses",
+    "question": "A house made of mud and straw is called a __.",
+    "options": ["Kutcha house", "Pucca house", "Apartment", "Tent"],
+    "answer": "Kutcha house",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Shelter",
+    "chapter": "Houses",
+    "question": "Which house is strong and long-lasting?",
+    "options": ["Kutcha house", "Pucca house", "Tent", "Igloo"],
+    "answer": "Pucca house",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Transport",
+    "chapter": "Land Transport",
+    "question": "Which of these is a land vehicle?",
+    "options": ["Ship", "Car", "Boat", "Submarine"],
+    "answer": "Car",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Transport",
+    "chapter": "Air Transport",
+    "question": "An aeroplane flies in the __.",
+    "options": ["Water", "Sky", "Ground", "Forest"],
+    "answer": "Sky",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Waste",
+    "chapter": "Segregation",
+    "question": "Vegetable peels should be thrown in __ bins.",
+    "options": ["Blue", "Red", "Green", "Yellow"],
+    "answer": "Green",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Waste",
+    "chapter": "Reduce Reuse Recycle",
+    "question": "Recycling helps to __ waste.",
+    "options": ["Increase", "Reduce", "Burn", "Hide"],
+    "answer": "Reduce",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Weather",
+    "chapter": "Climate",
+    "question": "The monsoon season brings __.",
+    "options": ["Snow", "Rain", "Fog", "Wind"],
+    "answer": "Rain",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Weather",
+    "chapter": "Seasons",
+    "question": "We wear woollen clothes in __.",
+    "options": ["Summer", "Winter", "Rainy", "Autumn"],
+    "answer": "Winter",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Community Helpers",
+    "chapter": "Community",
+    "question": "Who keeps our surroundings clean?",
+    "options": ["Teacher", "Sweeper", "Doctor", "Pilot"],
+    "answer": "Sweeper",
+    "grade": 4,
+    "subject": "evs"
+  },
+  {
+    "topic": "Community Helpers",
+    "chapter": "Community",
+    "question": "Who treats sick people?",
+    "options": ["Farmer", "Doctor", "Pilot", "Engineer"],
+    "answer": "Doctor",
+    "grade": 4,
+    "subject": "evs"
+  }
+]

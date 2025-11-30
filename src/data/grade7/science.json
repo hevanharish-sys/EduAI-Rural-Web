@@ -1,0 +1,22 @@
+[
+  {"topic":"Nutrition","chapter":"Plants","question":"Plants prepare food by __.","options":["breathing","photosynthesis","digestion","evaporation"],"answer":"photosynthesis","grade":7,"subject":"science"},
+  {"topic":"Nutrition","chapter":"Animals","question":"Animals that eat only plants are called __.","options":["omnivores","herbivores","carnivores","parasites"],"answer":"herbivores","grade":7,"subject":"science"},
+  {"topic":"Fibre","chapter":"Fabric","question":"Wool comes from __.","options":["camel","goat/sheep","cotton plant","silkworm"],"answer":"goat/sheep","grade":7,"subject":"science"},
+  {"topic":"Heat","chapter":"Thermometer","question":"Temperature is measured in __.","options":["cm","kg","°C","litre"],"answer":"°C","grade":7,"subject":"science"},
+  {"topic":"Acids & Bases","chapter":"Indicators","question":"Litmus turns red in __.","options":["base","acid","salt","water"],"answer":"acid","grade":7,"subject":"science"},
+  {"topic":"Weather","chapter":"Climate","question":"Climate is measured over __.","options":["days","weeks","months","years"],"answer":"years","grade":7,"subject":"science"},
+  {"topic":"Winds","chapter":"Pressure","question":"Wind is moving __.","options":["water","air","fire","gas"],"answer":"air","grade":7,"subject":"science"},
+  {"topic":"Soil","chapter":"Layers","question":"Topmost layer of soil is called __.","options":["subsoil","bedrock","humus","clay"],"answer":"humus","grade":7,"subject":"science"},
+  {"topic":"Respiration","chapter":"Humans","question":"Respiration releases __.","options":["oxygen","energy","food","water"],"answer":"energy","grade":7,"subject":"science"},
+  {"topic":"Transportation","chapter":"Animals","question":"Blood transports __.","options":["only oxygen","nutrients and gases","only water","only waste"],"answer":"nutrients and gases","grade":7,"subject":"science"},
+  {"topic":"Reproduction","chapter":"Plants","question":"Flowers help in __.","options":["respiration","photosynthesis","reproduction","digestion"],"answer":"reproduction","grade":7,"subject":"science"},
+  {"topic":"Motion","chapter":"Distance","question":"Motion means __.","options":["rest","movement","sleeping","heating"],"answer":"movement","grade":7,"subject":"science"},
+  {"topic":"Electricity","chapter":"Circuits","question":"A bulb glows when circuit is __.","options":["open","closed","broken","removed"],"answer":"closed","grade":7,"subject":"science"},
+  {"topic":"Light","chapter":"Reflection","question":"Plane mirrors produce __ images.","options":["real","inverted","virtual and erect","blurred"],"answer":"virtual and erect","grade":7,"subject":"science"},
+  {"topic":"Forest","chapter":"Ecosystem","question":"Forest is a __.","options":["desert","ecosystem","city","mountain"],"answer":"ecosystem","grade":7,"subject":"science"},
+  {"topic":"Wastewater","chapter":"Sewerage","question":"Water purification uses __.","options":["oil","sand and gravel","plastic","fire"],"answer":"sand and gravel","grade":7,"subject":"science"},
+  {"topic":"Human Body","chapter":"Glands","question":"Sweat glands help in __.","options":["hearing","digestion","cooling","breathing"],"answer":"cooling","grade":7,"subject":"science"},
+  {"topic":"Environment","chapter":"Pollution","question":"Excess CO₂ causes __.","options":["global warming","rain","snow","cooling"],"answer":"global warming","grade":7,"subject":"science"},
+  {"topic":"Heat","chapter":"Transfer","question":"Heat transfer by direct contact is __.","options":["radiation","conduction","convection","reflection"],"answer":"conduction","grade":7,"subject":"science"},
+  {"topic":"Electricity","chapter":"Safety","question":"Fuse prevents __.","options":["overload","cooling","heating","lighting"],"answer":"overload","grade":7,"subject":"science"}
+]

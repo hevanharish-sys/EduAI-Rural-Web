@@ -1,0 +1,22 @@
+[
+  {"topic":"Basics","chapter":"Computer System","question":"Which is hardware?","options":["Windows","Word","Mouse","Excel"],"answer":"Mouse","grade":6,"subject":"computer"},
+  {"topic":"Basics","chapter":"Input/Output","question":"Which device is used to input text?","options":["Speaker","Printer","Keyboard","Monitor"],"answer":"Keyboard","grade":6,"subject":"computer"},
+  {"topic":"Software","chapter":"Types","question":"Which is an operating system?","options":["MS Word","Windows","Chrome","Notepad"],"answer":"Windows","grade":6,"subject":"computer"},
+  {"topic":"File Management","chapter":"Files & Folders","question":"To create a new folder you usually use __ option.","options":["New","Open","Save","Exit"],"answer":"New","grade":6,"subject":"computer"},
+  {"topic":"Internet","chapter":"Basics","question":"Which device helps to connect to the internet wirelessly?","options":["Keyboard","Router","Printer","Scanner"],"answer":"Router","grade":6,"subject":"computer"},
+  {"topic":"Internet","chapter":"Safety","question":"Sharing passwords online is __.","options":["safe","not safe","recommended","required"],"answer":"not safe","grade":6,"subject":"computer"},
+  {"topic":"Word processing","chapter":"Basics","question":"To make text bold in most editors, use shortcut __.","options":["Ctrl+B","Ctrl+I","Ctrl+U","Ctrl+P"],"answer":"Ctrl+B","grade":6,"subject":"computer"},
+  {"topic":"Spreadsheets","chapter":"Basics","question":"A cell in a spreadsheet is intersection of __ and __.","options":["row and column","page and paragraph","file and folder","icon and menu"],"answer":"row and column","grade":6,"subject":"computer"},
+  {"topic":"Programming","chapter":"Concepts","question":"A sequence of instructions given to computer is called a __.","options":["game","program","movie","song"],"answer":"program","grade":6,"subject":"computer"},
+  {"topic":"Programming","chapter":"Scratch","question":"Scratch is used to teach __ to children.","options":["drawing","coding","cooking","reading"],"answer":"coding","grade":6,"subject":"computer"},
+  {"topic":"Cyber Safety","chapter":"Behavior","question":"If you receive abusive messages online you should __.","options":["reply angrily","ignore and tell an adult","post them publicly","share password"],"answer":"ignore and tell an adult","grade":6,"subject":"computer"},
+  {"topic":"Multimedia","chapter":"Audio/Video","question":"A webcam is used to __.","options":["print documents","record video","type text","scan photos"],"answer":"record video","grade":6,"subject":"computer"},
+  {"topic":"Storage","chapter":"Devices","question":"Which stores data permanently?","options":["RAM","Hard Disk","Cache","Register"],"answer":"Hard Disk","grade":6,"subject":"computer"},
+  {"topic":"Networks","chapter":"Basics","question":"LAN stands for __ Area Network.","options":["Local","Large","Long","Light"],"answer":"Local","grade":6,"subject":"computer"},
+  {"topic":"Email","chapter":"Usage","question":"In email, CC stands for __.","options":["Carbon Copy","Control Code","Central Copy","Copy Control"],"answer":"Carbon Copy","grade":6,"subject":"computer"},
+  {"topic":"Formatting","chapter":"Text","question":"To align text to center use alignment option __.","options":["Left","Right","Center","Justify"],"answer":"Center","grade":6,"subject":"computer"},
+  {"topic":"Security","chapter":"Antivirus","question":"Antivirus software helps to remove __.","options":["viruses","documents","folders","pictures"],"answer":"viruses","grade":6,"subject":"computer"},
+  {"topic":"Hardware","chapter":"Components","question":"CPU stands for __.","options":["Central Processing Unit","Computer Personal Unit","Central Program Unit","Control Processing Unit"],"answer":"Central Processing Unit","grade":6,"subject":"computer"},
+  {"topic":"Input Devices","chapter":"Scanner","question":"A scanner is used to __.","options":["type text","scan images to digital form","play music","print pages"],"answer":"scan images to digital form","grade":6,"subject":"computer"},
+  {"topic":"Ethics","chapter":"Netiquette","question":"Posting someone else's private photo without permission is __.","options":["respectful","wrong","helpful","fun"],"answer":"wrong","grade":6,"subject":"computer"}
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction Video",
+    "desc": "Basic concept explained visually.",
+    "src": "/videos/g1_lesson1.mp4",
+    "subtitles": "/subtitles/g1_lesson1.vtt"
+  },
+  {
+    "id": 2,
+    "title": "Topic Lesson 2",
+    "desc": "Interactive animated explanation.",
+    "src": "/videos/g1_lesson2.mp4",
+    "subtitles": "/subtitles/g1_lesson2.vtt"
+  }
+]

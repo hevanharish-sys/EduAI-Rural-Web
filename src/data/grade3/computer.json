@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Basics",
+    "chapter": "Computer Uses",
+    "question": "A computer can __.",
+    "options": ["Cook food", "Solve sums", "Grow plants", "Fly"],
+    "answer": "Solve sums",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Basics",
+    "chapter": "Types of Computers",
+    "question": "A laptop is a __ computer.",
+    "options": ["Small", "Large", "Heavy", "Fixed"],
+    "answer": "Small",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Parts",
+    "chapter": "Monitor",
+    "question": "The monitor looks like a __.",
+    "options": ["Fan", "TV", "Phone", "Book"],
+    "answer": "TV",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Parts",
+    "chapter": "CPU",
+    "question": "CPU is the __ of the computer.",
+    "options": ["Heart", "Brain", "Leg", "Eye"],
+    "answer": "Brain",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Input Devices",
+    "chapter": "Keyboard",
+    "question": "How many alphabet keys are on a keyboard?",
+    "options": ["26", "10", "5", "50"],
+    "answer": "26",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Input Devices",
+    "chapter": "Mouse",
+    "question": "A mouse is used to __.",
+    "options": ["Type", "Click", "Print", "Draw"],
+    "answer": "Click",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Output Devices",
+    "chapter": "Printer",
+    "question": "Which device prints documents?",
+    "options": ["Keyboard", "Monitor", "Printer", "CPU"],
+    "answer": "Printer",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Output Devices",
+    "chapter": "Speaker",
+    "question": "Speakers give __ output.",
+    "options": ["Picture", "Sound", "Text", "Video"],
+    "answer": "Sound",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Storage",
+    "chapter": "Devices",
+    "question": "Pen drive is a __ device.",
+    "options": ["Storage", "Printing", "Input", "Output"],
+    "answer": "Storage",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Software",
+    "chapter": "System Software",
+    "question": "Windows is an example of __.",
+    "options": ["Hardware", "System software", "Input", "Output"],
+    "answer": "System software",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Software",
+    "chapter": "Application Software",
+    "question": "MS Paint is used to __.",
+    "options": ["Listen to music", "Draw and color", "Print pages", "Type letters"],
+    "answer": "Draw and color",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Typing",
+    "chapter": "Keyboard",
+    "question": "Letters are typed using the __.",
+    "options": ["Mouse", "Keyboard", "Monitor", "Speaker"],
+    "answer": "Keyboard",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Internet",
+    "chapter": "Basics",
+    "question": "Internet helps us to __.",
+    "options": ["Find information", "Cook", "Sleep", "Walk"],
+    "answer": "Find information",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Internet",
+    "chapter": "Safety",
+    "question": "We should never share our __ online.",
+    "options": ["Favorite game", "Home address", "Favorite fruit", "Pet name"],
+    "answer": "Home address",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Laboratory",
+    "chapter": "Rules",
+    "question": "We should not __ in the computer lab.",
+    "options": ["Run", "Sit", "Read", "Listen"],
+    "answer": "Run",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Laboratory",
+    "chapter": "Rules",
+    "question": "We should keep our computer area __.",
+    "options": ["Dirty", "Clean", "Wet", "Crowded"],
+    "answer": "Clean",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Hardware",
+    "chapter": "Devices",
+    "question": "Which of these is a hardware device?",
+    "options": ["Printer", "MS Word", "Chrome", "Paint"],
+    "answer": "Printer",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Hardware",
+    "chapter": "Devices",
+    "question": "Which device displays output?",
+    "options": ["Mouse", "Monitor", "Keyboard", "Pen drive"],
+    "answer": "Monitor",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Files",
+    "chapter": "Saving",
+    "question": "We save our work in a __.",
+    "options": ["File", "Window", "House", "Bag"],
+    "answer": "File",
+    "grade": 3,
+    "subject": "computer"
+  },
+  {
+    "topic": "Files",
+    "chapter": "Opening",
+    "question": "We double-click to __ a file.",
+    "options": ["Close", "Open", "Delete", "Hide"],
+    "answer": "Open",
+    "grade": 3,
+    "subject": "computer"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {"topic":"History","chapter":"Early Humans","question":"Early humans lived in small groups called __.","options":["cities","tribes","kingdoms","empires"],"answer":"tribes","grade":6,"subject":"social_science"},
+  {"topic":"History","chapter":"Civilizations","question":"Which river valley had the Harappan civilization?","options":["Ganga","Indus","Brahmaputra","Narmada"],"answer":"Indus","grade":6,"subject":"social_science"},
+  {"topic":"History","chapter":"Sources","question":"Which is a primary source of history?","options":["Textbook","Map","Diary","Movie"],"answer":"Diary","grade":6,"subject":"social_science"},
+  {"topic":"Geography","chapter":"Earth","question":"The Earth rotates around its own __.","options":["moon","axis","sun","star"],"answer":"axis","grade":6,"subject":"social_science"},
+  {"topic":"Geography","chapter":"Maps","question":"Lines of latitude run __.","options":["north-south","east-west","diagonal","circular"],"answer":"east-west","grade":6,"subject":"social_science"},
+  {"topic":"Geography","chapter":"Latitude & Longitude","question":"The equator is at __ latitude.","options":["0°","90°N","90°S","45°N"],"answer":"0°","grade":6,"subject":"social_science"},
+  {"topic":"Civics","chapter":"Government","question":"A government that is elected by people is called a __.","options":["monarchy","democracy","dictatorship","tribe"],"answer":"democracy","grade":6,"subject":"social_science"},
+  {"topic":"Civics","chapter":"Rights","question":"Children have the right to __.","options":["work in mines","education","vote in elections","buy land"],"answer":"education","grade":6,"subject":"social_science"},
+  {"topic":"Economy","chapter":"Needs & Wants","question":"Basic requirements like food and shelter are __.","options":["wants","luxuries","needs","services"],"answer":"needs","grade":6,"subject":"social_science"},
+  {"topic":"Economy","chapter":"Goods & Services","question":"A teacher provides a __.","options":["good","service","product","machine"],"answer":"service","grade":6,"subject":"social_science"},
+  {"topic":"History","chapter":"Empires","question":"Ashoka was a ruler of the __ dynasty.","options":["Maurya","Gupta","Chola","Mughal"],"answer":"Maurya","grade":6,"subject":"social_science"},
+  {"topic":"Geography","chapter":"Climate","question":"Regions near the equator generally have __ climate.","options":["cold","temperate","tropical","arctic"],"answer":"tropical","grade":6,"subject":"social_science"},
+  {"topic":"Civics","chapter":"Local Government","question":"The local body that takes care of a town is called __.","options":["municipality","parliament","assembly","senate"],"answer":"municipality","grade":6,"subject":"social_science"},
+  {"topic":"Geography","chapter":"Natural Resources","question":"Minerals are part of __ resources.","options":["renewable","non-renewable","inexhaustible","infinite"],"answer":"non-renewable","grade":6,"subject":"social_science"},
+  {"topic":"History","chapter":"Trade","question":"Long-distance trade in ancient times was often carried by __.","options":["cars","ships and caravans","trains","aeroplanes"],"answer":"ships and caravans","grade":6,"subject":"social_science"},
+  {"topic":"Civics","chapter":"Rights & Duties","question":"Voting in elections is a __ of citizens in a democracy.","options":["right and duty","crime","privilege only for some","illegal act"],"answer":"right and duty","grade":6,"subject":"social_science"},
+  {"topic":"Economy","chapter":"Money","question":"Money helps in __.","options":["barter only","buying and selling","storing food","growing crops"],"answer":"buying and selling","grade":6,"subject":"social_science"},
+  {"topic":"Geography","chapter":"Natural Disasters","question":"An earthquake is caused by movement of __ plates.","options":["tectonic","frozen","plastic","metal"],"answer":"tectonic","grade":6,"subject":"social_science"},
+  {"topic":"History","chapter":"Architecture","question":"Large public buildings from Indus Valley show skill in __.","options":["weaving","brick-making and planning","painting","farming"],"answer":"brick-making and planning","grade":6,"subject":"social_science"},
+  {"topic":"Civics","chapter":"Law","question":"Laws are made by the __.","options":["courts","legislature","police","public"],"answer":"legislature","grade":6,"subject":"social_science"}
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "g2-bt-1",
+    "title": "Add & Subtract",
+    "desc": "Quick arithmetic",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "5 - 2 = ?", "options": ["2", "3", "4"], "answer": "3" },
+      { "q": "3 + 4 = ?", "options": ["6", "7", "8"], "answer": "7" }
+    ]
+  },
+  {
+    "id": "g2-bt-2",
+    "title": "Simple Grammar",
+    "desc": "Pick correct word",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "I ___ a pen.", "options": ["has", "have", "is"], "answer": "have" },
+      { "q": "They ___ playing.", "options": ["is", "are", "am"], "answer": "are" }
+    ]
+  },
+  {
+    "id": "g2-bt-3",
+    "title": "Animals & Habitats",
+    "desc": "Which animal lives in water?",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Lives in water?", "options": ["Fish", "Cow", "Tiger"], "answer": "Fish" }
+    ]
+  },
+  {
+    "id": "g2-bt-4",
+    "title": "Colors & Shapes",
+    "desc": "Quick shapes",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Which has 4 equal sides?", "options": ["Square", "Triangle", "Circle"], "answer": "Square" }
+    ]
+  }
+]

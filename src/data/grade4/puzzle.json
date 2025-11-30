@@ -1,0 +1,43 @@
+[
+  {
+    "id": "g4-pz-1",
+    "title": "Parts of Plant",
+    "desc": "Which part of the plant is shown?",
+    "type": "puzzle",
+    "question": "Which part of a plant appears in the image?",
+    "image": "https://picsum.photos/id/1021/800/600",
+    "grid": 3,
+    "time": 14
+  },
+  {
+    "id": "g4-pz-2",
+    "title": "Simple Machine",
+    "desc": "Identify the simple machine shown.",
+    "type": "puzzle",
+    "question": "Which simple machine is pictured?",
+    "image": "https://picsum.photos/id/1035/800/600",
+    "grid": 3,
+    "time": 18
+  },
+  {
+    "id": "g4-pz-3",
+    "title": "Local Landmark",
+    "desc": "Which landmark appears in the picture?",
+    "type": "puzzle",
+    "question": "Which landmark is shown?",
+    "image": "https://picsum.photos/id/1043/800/600",
+    "grid": 3,
+    "time": 20
+  },
+  {
+    "id": "g4-pz-4",
+    "title": "Tool Match",
+    "desc": "Identify the tool pictured.",
+    "type": "puzzle",
+    "question": "What tool is this?",
+    "image": "https://picsum.photos/id/1050/800/600",
+    "grid": 3,
+    "time": 15
+  }
+]
+

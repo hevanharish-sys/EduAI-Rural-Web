@@ -1,0 +1,183 @@
+[
+  {
+    "topic": "Numbers",
+    "chapter": "Numbers 1–50",
+    "question": "What number comes after 14?",
+    "options": ["13", "15", "16", "12"],
+    "answer": "15",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Numbers",
+    "chapter": "Numbers 1–50",
+    "question": "What number comes before 20?",
+    "options": ["19", "18", "21", "22"],
+    "answer": "19",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Counting",
+    "chapter": "Counting Objects",
+    "question": "How many apples are there? (Assume picture of 3 apples)",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Counting",
+    "chapter": "Counting Objects",
+    "question": "Count the stars: ★★★★★",
+    "options": ["4", "5", "6", "3"],
+    "answer": "5",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Addition",
+    "chapter": "Single-digit Addition",
+    "question": "What is 4 + 3?",
+    "options": ["6", "8", "7", "5"],
+    "answer": "7",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Addition",
+    "chapter": "Single-digit Addition",
+    "question": "What is 2 + 5?",
+    "options": ["8", "6", "5", "7"],
+    "answer": "7",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Subtraction",
+    "chapter": "Single-digit Subtraction",
+    "question": "What is 7 - 2?",
+    "options": ["6", "5", "4", "3"],
+    "answer": "5",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Subtraction",
+    "chapter": "Single-digit Subtraction",
+    "question": "What is 9 - 4?",
+    "options": ["6", "5", "4", "3"],
+    "answer": "5",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Shapes",
+    "chapter": "Basic Shapes",
+    "question": "Which shape has 3 sides?",
+    "options": ["Circle", "Triangle", "Square", "Rectangle"],
+    "answer": "Triangle",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Shapes",
+    "chapter": "Basic Shapes",
+    "question": "Which shape has no sides?",
+    "options": ["Circle", "Square", "Triangle", "Pentagon"],
+    "answer": "Circle",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Comparison",
+    "chapter": "More or Less",
+    "question": "Which is greater: 8 or 5?",
+    "options": ["5", "8", "Both equal", "None"],
+    "answer": "8",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Comparison",
+    "chapter": "More or Less",
+    "question": "Which is smaller: 3 or 7?",
+    "options": ["3", "7", "Both equal", "None"],
+    "answer": "3",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Patterns",
+    "chapter": "Number Patterns",
+    "question": "What comes next? 2, 4, 6, __",
+    "options": ["7", "8", "9", "10"],
+    "answer": "8",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Patterns",
+    "chapter": "Shape Patterns",
+    "question": "Circle, Square, Circle, Square, Circle, __?",
+    "options": ["Triangle", "Circle", "Square", "Rectangle"],
+    "answer": "Square",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Time",
+    "chapter": "Daily Routine",
+    "question": "What do we use to see time?",
+    "options": ["Clock", "Tree", "Fan", "Spoon"],
+    "answer": "Clock",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Time",
+    "chapter": "Day & Night",
+    "question": "When do we see the sun?",
+    "options": ["Night", "Day", "Evening", "Never"],
+    "answer": "Day",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Money",
+    "chapter": "Indian Currency",
+    "question": "Which coin do we use?",
+    "options": ["10 Rs Coin", "1 Rs Coin", "100 Rs Coin", "500 Rs Coin"],
+    "answer": "1 Rs Coin",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Money",
+    "chapter": "Indian Currency",
+    "question": "Which is greater?",
+    "options": ["2 Rs", "5 Rs", "1 Rs", "No idea"],
+    "answer": "5 Rs",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Measurement",
+    "chapter": "Long & Short",
+    "question": "A pencil is __ than a tree.",
+    "options": ["Longer", "Shorter", "Same", "None"],
+    "answer": "Shorter",
+    "grade": 1,
+    "subject": "maths"
+  },
+  {
+    "topic": "Measurement",
+    "chapter": "Heavy & Light",
+    "question": "Which is heavier?",
+    "options": ["Feather", "Stone", "Paper", "Rubber band"],
+    "answer": "Stone",
+    "grade": 1,
+    "subject": "maths"
+  }
+]
+

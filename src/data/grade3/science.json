@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Living Things",
+    "chapter": "Plants",
+    "question": "Plants prepare their food using __.",
+    "options": ["Moonlight", "Sunlight", "Stars", "Fire"],
+    "answer": "Sunlight",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Living Things",
+    "chapter": "Animals",
+    "question": "Animals that eat other animals are called __.",
+    "options": ["Herbivores", "Omnivores", "Carnivores", "Insectivores"],
+    "answer": "Carnivores",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Human Body",
+    "chapter": "Sense Organs",
+    "question": "We hear with our __.",
+    "options": ["Eyes", "Nose", "Ears", "Tongue"],
+    "answer": "Ears",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Human Body",
+    "chapter": "Organs",
+    "question": "Which organ pumps blood?",
+    "options": ["Liver", "Lungs", "Heart", "Stomach"],
+    "answer": "Heart",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Food",
+    "chapter": "Health",
+    "question": "Foods that give us energy are called __ foods.",
+    "options": ["Body-building", "Protective", "Energy-giving", "Weak"],
+    "answer": "Energy-giving",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Food",
+    "chapter": "Balanced Diet",
+    "question": "A balanced diet contains __.",
+    "options": ["Only fruits", "All nutrients", "Only proteins", "Only fats"],
+    "answer": "All nutrients",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Water",
+    "chapter": "Sources",
+    "question": "Which of these is a source of water?",
+    "options": ["River", "Car", "Ball", "Tree"],
+    "answer": "River",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Water",
+    "chapter": "Purification",
+    "question": "Boiling water helps to __.",
+    "options": ["Dirty it", "Purify it", "Freeze it", "Color it"],
+    "answer": "Purify it",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Air",
+    "chapter": "Properties",
+    "question": "Air has __.",
+    "options": ["No weight", "Weight", "No uses", "Color"],
+    "answer": "Weight",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Air",
+    "chapter": "Uses",
+    "question": "We need air to __.",
+    "options": ["Walk", "Breathe", "Sleep", "Eat"],
+    "answer": "Breathe",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Sun",
+    "chapter": "Energy",
+    "question": "The sun is a source of __ energy.",
+    "options": ["Electric", "Solar", "Wind", "Nuclear"],
+    "answer": "Solar",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Sun",
+    "chapter": "Heat & Light",
+    "question": "The sun gives us __.",
+    "options": ["Heat", "Light", "Both", "None"],
+    "answer": "Both",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Soil",
+    "chapter": "Types",
+    "question": "Clayey soil is __.",
+    "options": ["Sandy", "Sticky", "Rocky", "Loose"],
+    "answer": "Sticky",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Soil",
+    "chapter": "Uses",
+    "question": "Plants grow in __.",
+    "options": ["Soil", "Plastic", "Metal", "Glass"],
+    "answer": "Soil",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Light",
+    "chapter": "Sources",
+    "question": "Which of these is a natural source of light?",
+    "options": ["Bulb", "Candle", "Sun", "Torch"],
+    "answer": "Sun",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Light",
+    "chapter": "Darkness",
+    "question": "We cannot see in the dark because there is no __.",
+    "options": ["Heat", "Light", "Air", "Sound"],
+    "answer": "Light",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Force",
+    "chapter": "Push & Pull",
+    "question": "Pulling a rope is an example of __.",
+    "options": ["Force", "Light", "Air", "Sound"],
+    "answer": "Force",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Force",
+    "chapter": "Push & Pull",
+    "question": "We use force to __ things.",
+    "options": ["Move", "Look", "Hear", "Dream"],
+    "answer": "Move",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Safety",
+    "chapter": "Rules",
+    "question": "We should walk on the __.",
+    "options": ["Road", "Footpath", "Grass", "Bridge"],
+    "answer": "Footpath",
+    "grade": 3,
+    "subject": "science"
+  },
+  {
+    "topic": "Safety",
+    "chapter": "Rules",
+    "question": "Red light means __.",
+    "options": ["Go", "Stop", "Walk", "Run"],
+    "answer": "Stop",
+    "grade": 3,
+    "subject": "science"
+  }
+]

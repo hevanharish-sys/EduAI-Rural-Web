@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Basics",
+    "chapter": "Functions",
+    "question": "Computers work on __.",
+    "options": ["Electricity", "Water", "Air", "Fuel"],
+    "answer": "Electricity",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Basics",
+    "chapter": "Types",
+    "question": "A computer that can be carried anywhere is called a __.",
+    "options": ["Desktop", "Laptop", "Supercomputer", "Mainframe"],
+    "answer": "Laptop",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Parts",
+    "chapter": "Keyboard",
+    "question": "Which key is used to erase letters?",
+    "options": ["Enter", "Backspace", "Spacebar", "Shift"],
+    "answer": "Backspace",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Parts",
+    "chapter": "Mouse",
+    "question": "A mouse is an __ device.",
+    "options": ["Input", "Output", "Storage", "Display"],
+    "answer": "Input",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Software",
+    "chapter": "Types",
+    "question": "MS Word is an example of __.",
+    "options": ["Hardware", "Application Software", "Input Device", "Output Device"],
+    "answer": "Application Software",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Software",
+    "chapter": "Types",
+    "question": "Windows is a __.",
+    "options": ["Game", "Operating System", "Hardware", "Keyboard"],
+    "answer": "Operating System",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Storage",
+    "chapter": "Devices",
+    "question": "Which of these stores the most data?",
+    "options": ["CD", "DVD", "Hard disk", "Pendrive"],
+    "answer": "Hard disk",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Storage",
+    "chapter": "Units",
+    "question": "1 GB = __ MB.",
+    "options": ["100", "1000", "1024", "500"],
+    "answer": "1024",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Internet",
+    "chapter": "Uses",
+    "question": "Internet helps us to __.",
+    "options": ["Cook", "Find information", "Walk", "Drive"],
+    "answer": "Find information",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Internet",
+    "chapter": "Safety",
+    "question": "We should not share our __ online.",
+    "options": ["Hobbies", "Favorite games", "Personal details", "Favorite colors"],
+    "answer": "Personal details",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Tools",
+    "chapter": "Paint",
+    "question": "Which tool is used to draw in MS Paint?",
+    "options": ["Brush tool", "Eraser", "Fill tool", "Text tool"],
+    "answer": "Brush tool",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Tools",
+    "chapter": "Paint",
+    "question": "Which tool is used to color shapes?",
+    "options": ["Brush", "Fill tool", "Pencil", "Magnifier"],
+    "answer": "Fill tool",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Cyber Safety",
+    "chapter": "Rules",
+    "question": "If a stranger messages you online, you should __.",
+    "options": ["Reply", "Ignore and tell an adult", "Send pictures", "Share details"],
+    "answer": "Ignore and tell an adult",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Cyber Safety",
+    "chapter": "Passwords",
+    "question": "A password should be __.",
+    "options": ["Easy", "Hard to guess", "Shared", "Your name"],
+    "answer": "Hard to guess",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Hardware",
+    "chapter": "Devices",
+    "question": "A monitor is an __ device.",
+    "options": ["Input", "Output", "Storage", "Processing"],
+    "answer": "Output",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Hardware",
+    "chapter": "Devices",
+    "question": "Which device prints documents?",
+    "options": ["Scanner", "Printer", "Keyboard", "Mouse"],
+    "answer": "Printer",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Files",
+    "chapter": "Saving",
+    "question": "We save our work in a __.",
+    "options": ["Folder", "Window", "Cable", "Screen"],
+    "answer": "Folder",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Files",
+    "chapter": "Open",
+    "question": "To open a file, we usually __ it.",
+    "options": ["Right-click", "Double-click", "Drag", "Delete"],
+    "answer": "Double-click",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Multimedia",
+    "chapter": "Audio",
+    "question": "Speakers give __ output.",
+    "options": ["Text", "Audio", "Video", "Images"],
+    "answer": "Audio",
+    "grade": 4,
+    "subject": "computer"
+  },
+  {
+    "topic": "Multimedia",
+    "chapter": "Video",
+    "question": "A webcam is used for __.",
+    "options": ["Typing", "Video recording", "Drawing", "Storing data"],
+    "answer": "Video recording",
+    "grade": 4,
+    "subject": "computer"
+  }
+]

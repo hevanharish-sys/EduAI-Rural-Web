@@ -1,0 +1,38 @@
+[
+  {
+    "id": "g6-bt-1",
+    "title": "Ratio & Proportion Quick",
+    "desc": "Simple ratio questions",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "If 2 : 3 = ? and total is 10, bigger part is?", "options": ["4", "6"], "answer": "6" }
+    ]
+  },
+  {
+    "id": "g6-bt-2",
+    "title": "History Facts",
+    "desc": "Choose correct historical fact",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Who was a freedom fighter?", "options": ["Newton", "Rani of Jhansi", "Edison"], "answer": "Rani of Jhansi" }
+    ]
+  },
+  {
+    "id": "g6-bt-3",
+    "title": "Science - Elements",
+    "desc": "Simple identification",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Which is a gas at room temperature?", "options": ["Iron", "Oxygen", "Sodium"], "answer": "Oxygen" }
+    ]
+  },
+  {
+    "id": "g6-bt-4",
+    "title": "GK Quick",
+    "desc": "General knowledge short questions",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Which is a continent?", "options": ["Africa", "Atlantic", "Amazon"], "answer": "Africa" }
+    ]
+  }
+]

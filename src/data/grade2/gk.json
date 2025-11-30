@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "India",
+    "chapter": "National Symbols",
+    "question": "What is the national bird of India?",
+    "options": ["Peacock", "Crow", "Sparrow", "Pigeon"],
+    "answer": "Peacock",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "India",
+    "chapter": "National Symbols",
+    "question": "What is the national fruit of India?",
+    "options": ["Apple", "Banana", "Mango", "Orange"],
+    "answer": "Mango",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "Geography",
+    "chapter": "World",
+    "question": "Which is the largest ocean?",
+    "options": ["Pacific", "Indian", "Atlantic", "Arctic"],
+    "answer": "Pacific",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "Geography",
+    "chapter": "Earth",
+    "question": "What is the shape of Earth?",
+    "options": ["Flat", "Round", "Square", "Triangle"],
+    "answer": "Round",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "General",
+    "question": "Which is the fastest animal?",
+    "options": ["Cat", "Cheetah", "Lion", "Elephant"],
+    "answer": "Cheetah",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "General",
+    "question": "Which animal lives in water?",
+    "options": ["Lion", "Fish", "Goat", "Dog"],
+    "answer": "Fish",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "Sports",
+    "chapter": "India",
+    "question": "Which game is Sachin Tendulkar famous for?",
+    "options": ["Football", "Cricket", "Tennis", "Hockey"],
+    "answer": "Cricket",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "Sports",
+    "chapter": "General",
+    "question": "How many players are there in a cricket team?",
+    "options": ["5", "9", "11", "6"],
+    "answer": "11",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "Festivals",
+    "chapter": "India",
+    "question": "Which festival is known as the festival of colors?",
+    "options": ["Holi", "Diwali", "Eid", "Christmas"],
+    "answer": "Holi",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "Festivals",
+    "chapter": "India",
+    "question": "Which festival celebrates the birth of Jesus?",
+    "options": ["Diwali", "Christmas", "Holi", "Eid"],
+    "answer": "Christmas",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "Space",
+    "chapter": "General",
+    "question": "What is the name of our galaxy?",
+    "options": ["Milky Way", "Andromeda", "Mars", "Universe"],
+    "answer": "Milky Way",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "Space",
+    "chapter": "General",
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "answer": "Mars",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "General",
+    "chapter": "Daily Life",
+    "question": "We use a __ to call someone.",
+    "options": ["Phone", "Bag", "Chair", "Pencil"],
+    "answer": "Phone",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "General",
+    "chapter": "Daily Life",
+    "question": "What do we use to cut paper?",
+    "options": ["Spoon", "Scissors", "Cup", "Ball"],
+    "answer": "Scissors",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "Transport",
+    "chapter": "Vehicles",
+    "question": "Which vehicle flies?",
+    "options": ["Car", "Bus", "Aeroplane", "Bicycle"],
+    "answer": "Aeroplane",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "Transport",
+    "chapter": "Vehicles",
+    "question": "Which vehicle moves on water?",
+    "options": ["Car", "Boat", "Truck", "Bus"],
+    "answer": "Boat",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "Community Helpers",
+    "chapter": "People",
+    "question": "Who delivers letters?",
+    "options": ["Doctor", "Postman", "Farmer", "Pilot"],
+    "answer": "Postman",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "Community Helpers",
+    "chapter": "People",
+    "question": "Who grows crops?",
+    "options": ["Teacher", "Farmer", "Doctor", "Driver"],
+    "answer": "Farmer",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "Nature",
+    "chapter": "Environment",
+    "question": "Which one is needed for breathing?",
+    "options": ["Smoke", "Oxygen", "Water", "Light"],
+    "answer": "Oxygen",
+    "grade": 2,
+    "subject": "gk"
+  },
+  {
+    "topic": "Nature",
+    "chapter": "Environment",
+    "question": "Which one is a source of clean air?",
+    "options": ["Factories", "Plants", "Cars", "Fires"],
+    "answer": "Plants",
+    "grade": 2,
+    "subject": "gk"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {"topic":"Living World","chapter":"Classification","question":"Plants that make their own food are called __.","options":["consumers","producers","decomposers","parasites"],"answer":"producers","grade":6,"subject":"science"},
+  {"topic":"Living World","chapter":"Microorganisms","question":"Microorganisms invisible to naked eye are called __.","options":["macroscopic","microscopic","gigantic","visible"],"answer":"microscopic","grade":6,"subject":"science"},
+  {"topic":"Human Body","chapter":"Nutrition","question":"Which nutrient builds and repairs body tissues?","options":["Carbohydrates","Proteins","Fats","Vitamins"],"answer":"Proteins","grade":6,"subject":"science"},
+  {"topic":"Human Body","chapter":"Skeletal System","question":"The human adult skeleton has approximately how many bones?","options":["106","206","306","406"],"answer":"206","grade":6,"subject":"science"},
+  {"topic":"Matter","chapter":"Properties","question":"Which state of matter has definite volume but no definite shape?","options":["Solid","Liquid","Gas","Plasma"],"answer":"Liquid","grade":6,"subject":"science"},
+  {"topic":"Matter","chapter":"Changes","question":"Evaporation is change from __ to __.","options":["solid to liquid","liquid to gas","gas to liquid","solid to gas"],"answer":"liquid to gas","grade":6,"subject":"science"},
+  {"topic":"Foods","chapter":"Components","question":"Which vitamin is abundant in citrus fruits?","options":["Vitamin A","Vitamin B","Vitamin C","Vitamin D"],"answer":"Vitamin C","grade":6,"subject":"science"},
+  {"topic":"Force & Motion","chapter":"Basics","question":"A push or pull that can change motion is called __.","options":["energy","force","work","power"],"answer":"force","grade":6,"subject":"science"},
+  {"topic":"Light","chapter":"Reflection","question":"Smooth shiny surfaces cause __ of light.","options":["refraction","reflection","absorption","diffusion"],"answer":"reflection","grade":6,"subject":"science"},
+  {"topic":"Sound","chapter":"Characteristics","question":"Sound is produced by __.","options":["heat","vibration","light","pressure"],"answer":"vibration","grade":6,"subject":"science"},
+  {"topic":"Air & Water","chapter":"Importance","question":"Which gas is most abundant in air?","options":["Oxygen","Carbon dioxide","Nitrogen","Hydrogen"],"answer":"Nitrogen","grade":6,"subject":"science"},
+  {"topic":"Air & Water","chapter":"Pollution","question":"Smoke from vehicles causes __ pollution.","options":["noise","air","water","soil"],"answer":"air","grade":6,"subject":"science"},
+  {"topic":"Rocks & Soil","chapter":"Soil","question":"Soil that holds water well is often called __.","options":["sandy","clayey","rocky","loamy"],"answer":"clayey","grade":6,"subject":"science"},
+  {"topic":"Plants","chapter":"Reproduction","question":"Seeds are produced by the __ of a plant.","options":["root","leaf","flower","stem"],"answer":"flower","grade":6,"subject":"science"},
+  {"topic":"Waste","chapter":"Management","question":"Composting is a method to __ organic waste.","options":["burn","bury","recycle","decompose"],"answer":"decompose","grade":6,"subject":"science"},
+  {"topic":"Electricity","chapter":"Basics","question":"Electric current is measured in __.","options":["volts","ohms","amperes","watts"],"answer":"amperes","grade":6,"subject":"science"},
+  {"topic":"Magnetism","chapter":"Properties","question":"Magnets attract __ materials.","options":["wooden","plastic","magnetic","rubber"],"answer":"magnetic","grade":6,"subject":"science"},
+  {"topic":"Systems","chapter":"Respiratory","question":"The main organ of respiration is the __.","options":["heart","brain","lungs","stomach"],"answer":"lungs","grade":6,"subject":"science"},
+  {"topic":"Environment","chapter":"Ecosystem","question":"Plants and animals interacting with each other form an __.","options":["atom","molecule","ecosystem","planet"],"answer":"ecosystem","grade":6,"subject":"science"},
+  {"topic":"Health","chapter":"Hygiene","question":"To avoid bacterial infection, we should wash hands with __.","options":["water only","soap and water","oil","milk"],"answer":"soap and water","grade":6,"subject":"science"}
+]

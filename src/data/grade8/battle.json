@@ -1,0 +1,38 @@
+[
+  {
+    "id": "g8-bt-1",
+    "title": "Algebra Speed Round",
+    "desc": "Solve for x quick",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "If 2x + 3 = 11, x = ?", "options": ["3", "4", "5"], "answer": "4" }
+    ]
+  },
+  {
+    "id": "g8-bt-2",
+    "title": "Chemistry Facts",
+    "desc": "Basics of elements/compounds",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Which is a compound?", "options": ["O2", "H2O", "N2"], "answer": "H2O" }
+    ]
+  },
+  {
+    "id": "g8-bt-3",
+    "title": "History Quick",
+    "desc": "Short history facts",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Which explorer reached India by sea (1498)?", "options": ["Columbus", "Vasco da Gama", "Magellan"], "answer": "Vasco da Gama" }
+    ]
+  },
+  {
+    "id": "g8-bt-4",
+    "title": "Geography Quick",
+    "desc": "Short physical geography",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Which is formed by river deposition?", "options": ["Delta", "Mountain", "Plateau"], "answer": "Delta" }
+    ]
+  }
+]

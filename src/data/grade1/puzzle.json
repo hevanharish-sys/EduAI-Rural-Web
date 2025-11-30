@@ -1,0 +1,46 @@
+[
+  {
+    "id": "g1-pz-1",
+    "title": "Find the Animal",
+    "desc": "Which animal is shown in the picture?",
+    "type": "puzzle",
+    "question": "Which animal is shown?",
+    "image": "https://picsum.photos/id/237/800/600",
+    "grid": 3,
+    "time": 10
+  },
+  {
+    "id": "g1-pz-2",
+    "title": "Identify the Fruit",
+    "desc": "A fruit is shown in the image.",
+    "type": "puzzle",
+    "question": "Which fruit is this?",
+    "image": "https://picsum.photos/id/1074/800/600",
+    "grid": 3,
+    "time": 10
+  },
+  {
+    "id": "g1-pz-3",
+    "title": "Find the Toy",
+    "desc": "Which toy is shown?",
+    "type": "puzzle",
+    "question": "Which toy is shown?",
+    "image": "https://picsum.photos/id/870/800/600",
+    "grid": 3,
+    "time": 10
+  },
+  {
+    "id": "g1-pz-4",
+    "title": "Identify the Object",
+    "desc": "Which object appears in the picture?",
+    "type": "puzzle",
+    "question": "Which object is this?",
+    "image": "https://picsum.photos/id/1062/800/600",
+    "grid": 3,
+    "time": 10
+  }
+]
+
+
+
+

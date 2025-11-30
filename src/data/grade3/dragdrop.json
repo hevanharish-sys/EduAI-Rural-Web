@@ -1,0 +1,35 @@
+[
+  {
+    "id": "g3-dd-1",
+    "title": "Match Country to Capital",
+    "desc": "Drag capital to the country (India → New Delhi).",
+    "pairs": [
+      { "drag": "New Delhi", "target": "India" }
+    ]
+  },
+  {
+    "id": "g3-dd-2",
+    "title": "Match Plant to Part",
+    "desc": "Drag leaf to the correct label.",
+    "pairs": [
+      { "drag": "Leaf", "target": "leaf-label" }
+    ]
+  },
+  {
+    "id": "g3-dd-3",
+    "title": "Match Tools to Use",
+    "desc": "Match brush to painting.",
+    "pairs": [
+      { "drag": "Brush", "target": "painting" }
+    ]
+  },
+  {
+    "id": "g3-dd-4",
+    "title": "Match Time of Day",
+    "desc": "Sun icon to daytime box.",
+    "pairs": [
+      { "drag": "☀️", "target": "day-box" }
+    ]
+  }
+]
+

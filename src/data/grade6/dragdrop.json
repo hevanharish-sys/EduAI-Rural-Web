@@ -1,0 +1,35 @@
+[
+  {
+    "id": "g6-dd-1",
+    "title": "Match Mineral to Use",
+    "desc": "Drag the mineral to its correct usage.",
+    "pairs": [
+      { "drag": "Coal", "target": "fuel-box" }
+    ]
+  },
+  {
+    "id": "g6-dd-2",
+    "title": "Match Food Chain",
+    "desc": "Place animals in the correct category.",
+    "pairs": [
+      { "drag": "Rabbit", "target": "herbivore-slot" }
+    ]
+  },
+  {
+    "id": "g6-dd-3",
+    "title": "Match Map to State",
+    "desc": "Drag the map outline to the correct state name.",
+    "pairs": [
+      { "drag": "Map-outline", "target": "state-name" }
+    ]
+  },
+  {
+    "id": "g6-dd-4",
+    "title": "Match Force to Example",
+    "desc": "Match the force to the correct example.",
+    "pairs": [
+      { "drag": "Friction", "target": "shoe-example" }
+    ]
+  }
+]
+

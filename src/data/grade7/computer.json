@@ -1,0 +1,22 @@
+[
+  {"topic":"Basics","chapter":"Hardware","question":"Which unit processes all instructions?","options":["Monitor","CPU","Mouse","Keyboard"],"answer":"CPU","grade":7,"subject":"computer"},
+  {"topic":"Basics","chapter":"Software","question":"Linux is a type of __.","options":["hardware","operating system","application","virus"],"answer":"operating system","grade":7,"subject":"computer"},
+  {"topic":"Internet","chapter":"Browsers","question":"Chrome and Firefox are __.","options":["games","programming languages","browsers","antivirus"],"answer":"browsers","grade":7,"subject":"computer"},
+  {"topic":"Internet","chapter":"Safety","question":"Strong passwords should include __.","options":["your name","simple words","mixed characters","pet names"],"answer":"mixed characters","grade":7,"subject":"computer"},
+  {"topic":"MS Word","chapter":"Editing","question":"Shortcut for copying text is __.","options":["Ctrl+X","Ctrl+C","Ctrl+V","Ctrl+P"],"answer":"Ctrl+C","grade":7,"subject":"computer"},
+  {"topic":"MS Excel","chapter":"Basics","question":"A spreadsheet is made up of __.","options":["cells","slides","pages","videos"],"answer":"cells","grade":7,"subject":"computer"},
+  {"topic":"Programming","chapter":"Logic","question":"IF-THEN is a __ structure.","options":["loop","conditional","string","table"],"answer":"conditional","grade":7,"subject":"computer"},
+  {"topic":"Programming","chapter":"Scratch","question":"The blocks in Scratch are __.","options":["text","icons","colored blocks","3D shapes"],"answer":"colored blocks","grade":7,"subject":"computer"},
+  {"topic":"File Management","chapter":"Files","question":"A group of files stored together is a __.","options":["document","folder","tab","window"],"answer":"folder","grade":7,"subject":"computer"},
+  {"topic":"Input Devices","chapter":"Scanner","question":"OCR converts printed text into __.","options":["images","editable text","videos","links"],"answer":"editable text","grade":7,"subject":"computer"},
+  {"topic":"Output Devices","chapter":"Printer","question":"Laser printers use __ to print.","options":["ink","toner","water","chalk"],"answer":"toner","grade":7,"subject":"computer"},
+  {"topic":"Networking","chapter":"LAN","question":"LAN connects computers in __ area.","options":["large","small","very large","global"],"answer":"small","grade":7,"subject":"computer"},
+  {"topic":"Networking","chapter":"WAN","question":"Internet is a __.","options":["LAN","MAN","WAN","CAN"],"answer":"WAN","grade":7,"subject":"computer"},
+  {"topic":"Email","chapter":"Usage","question":"Attachment icon is usually a __.","options":["star","clip","circle","arrow"],"answer":"clip","grade":7,"subject":"computer"},
+  {"topic":"Security","chapter":"Viruses","question":"A virus spreads through __.","options":["food","pen drives","clothes","seeds"],"answer":"pen drives","grade":7,"subject":"computer"},
+  {"topic":"Security","chapter":"Firewall","question":"A firewall protects against __.","options":["hackers","food poisoning","dust","heat"],"answer":"hackers","grade":7,"subject":"computer"},
+  {"topic":"Multimedia","chapter":"Video","question":"Video files usually have extension __.","options":[".mp3",".mp4",".txt",".exe"],"answer":".mp4","grade":7,"subject":"computer"},
+  {"topic":"Keyboard","chapter":"Keys","question":"Function keys are labeled __.","options":["A–Z","0–9","F1–F12","Ctrl–Alt"],"answer":"F1–F12","grade":7,"subject":"computer"},
+  {"topic":"OS","chapter":"Files","question":"Recycle Bin stores __ files.","options":["opened","existing","deleted","system"],"answer":"deleted","grade":7,"subject":"computer"},
+  {"topic":"Ethics","chapter":"Digital Citizenship","question":"Cyberbullying is __.","options":["fun","acceptable","harmful","normal"],"answer":"harmful","grade":7,"subject":"computer"}
+]

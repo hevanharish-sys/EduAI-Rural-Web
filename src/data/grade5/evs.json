@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Food",
+    "chapter": "Sources",
+    "question": "Which of these is an energy-giving food?",
+    "options": ["Rice", "Milk", "Spinach", "Carrot"],
+    "answer": "Rice",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Food",
+    "chapter": "Preservation",
+    "question": "Pickles are preserved using __.",
+    "options": ["Salt and oil", "Sugar only", "Vinegar only", "Freezing"],
+    "answer": "Salt and oil",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Water",
+    "chapter": "Purification",
+    "question": "Adding alum helps __ water.",
+    "options": ["Color", "Filter", "Settle impurities", "Freeze"],
+    "answer": "Settle impurities",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Water",
+    "chapter": "Conservation",
+    "question": "We can save water by __.",
+    "options": ["Keeping taps open", "Bursting pipes", "Fixing leaks", "Wasting buckets"],
+    "answer": "Fixing leaks",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Shelter",
+    "chapter": "Materials",
+    "question": "Houses in snowy regions have __ roofs.",
+    "options": ["Flat", "Sloping", "Broken", "Metal"],
+    "answer": "Sloping",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Shelter",
+    "chapter": "Construction",
+    "question": "Bricks are made from __.",
+    "options": ["Sand", "Mud", "Clay", "Plastic"],
+    "answer": "Clay",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Environment",
+    "chapter": "Air",
+    "question": "Which gas do plants release during photosynthesis?",
+    "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Helium"],
+    "answer": "Oxygen",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Environment",
+    "chapter": "Pollution",
+    "question": "Burning garbage causes __ pollution.",
+    "options": ["Water", "Air", "Land", "Noise"],
+    "answer": "Air",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Human Body",
+    "chapter": "Teeth",
+    "question": "Humans have __ sets of teeth in their lifetime.",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Human Body",
+    "chapter": "Digestion",
+    "question": "Which organ stores bile?",
+    "options": ["Liver", "Gallbladder", "Stomach", "Intestine"],
+    "answer": "Gallbladder",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Travel",
+    "chapter": "Transport",
+    "question": "The fastest means of transport is __.",
+    "options": ["Car", "Ship", "Aeroplane", "Train"],
+    "answer": "Aeroplane",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Travel",
+    "chapter": "Ancient Travel",
+    "question": "Earlier people traveled by __.",
+    "options": ["Aircraft", "Boats and walking", "Trains", "Cars"],
+    "answer": "Boats and walking",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Community Helpers",
+    "chapter": "Roles",
+    "question": "Who mends shoes?",
+    "options": ["Carpenter", "Cobbler", "Mechanic", "Plumber"],
+    "answer": "Cobbler",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Community Helpers",
+    "chapter": "Roles",
+    "question": "Who fights diseases?",
+    "options": ["Teacher", "Doctor", "Farmer", "Painter"],
+    "answer": "Doctor",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Maps",
+    "chapter": "Directions",
+    "question": "On a map, the top usually represents __.",
+    "options": ["South", "North", "East", "West"],
+    "answer": "North",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Maps",
+    "chapter": "Symbols",
+    "question": "A blue color on maps represents __.",
+    "options": ["Mountains", "Plains", "Water bodies", "Deserts"],
+    "answer": "Water bodies",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Natural Resources",
+    "chapter": "Types",
+    "question": "Which of these is a renewable resource?",
+    "options": ["Petrol", "Coal", "Wind", "Natural gas"],
+    "answer": "Wind",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Natural Resources",
+    "chapter": "Conservation",
+    "question": "Switching off lights saves __.",
+    "options": ["Food", "Water", "Energy", "Heat"],
+    "answer": "Energy",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Weather",
+    "chapter": "Climate",
+    "question": "Which instrument measures temperature?",
+    "options": ["Barometer", "Thermometer", "Hygrometer", "Wind vane"],
+    "answer": "Thermometer",
+    "grade": 5,
+    "subject": "evs"
+  },
+  {
+    "topic": "Weather",
+    "chapter": "Seasons",
+    "question": "The hottest season is __.",
+    "options": ["Winter", "Monsoon", "Summer", "Autumn"],
+    "answer": "Summer",
+    "grade": 5,
+    "subject": "evs"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Family",
+    "chapter": "Types of Families",
+    "question": "A family with parents and children is called a __.",
+    "options": ["Joint family", "Nuclear family", "Pet family", "Village family"],
+    "answer": "Nuclear family",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Family",
+    "chapter": "Relations",
+    "question": "Your mother’s brother is your __.",
+    "options": ["Uncle", "Cousin", "Grandfather", "Brother"],
+    "answer": "Uncle",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Plants",
+    "chapter": "Types of Plants",
+    "question": "Which is a tree?",
+    "options": ["Mango", "Grass", "Rose", "Tulsi"],
+    "answer": "Mango",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Plants",
+    "chapter": "Parts of Plants",
+    "question": "Which part of the plant makes seeds?",
+    "options": ["Root", "Stem", "Flower", "Leaf"],
+    "answer": "Flower",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "Animal Groups",
+    "question": "A group of fish is called a __.",
+    "options": ["School", "Herd", "Pride", "Pack"],
+    "answer": "School",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "Food Habits",
+    "question": "Animals that eat only plants are called __.",
+    "options": ["Carnivores", "Omnivores", "Herbivores", "Insectivores"],
+    "answer": "Herbivores",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Food",
+    "chapter": "Sources of Food",
+    "question": "Pulses come from __.",
+    "options": ["Plants", "Animals", "Soil", "Rain"],
+    "answer": "Plants",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Food",
+    "chapter": "Healthy Food",
+    "question": "Which of these is healthy?",
+    "options": ["Burger", "Salad", "Chips", "Candy"],
+    "answer": "Salad",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Water",
+    "chapter": "Sources of Water",
+    "question": "Rainwater collects in __.",
+    "options": ["Rivers", "Lamps", "Buildings", "Pillows"],
+    "answer": "Rivers",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Water",
+    "chapter": "Uses of Water",
+    "question": "We use water for __.",
+    "options": ["Reading", "Cooking", "Sleeping", "Running"],
+    "answer": "Cooking",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Shelter",
+    "chapter": "Animal Homes",
+    "question": "A dog lives in a __.",
+    "options": ["Burrow", "Nest", "Kennel", "Cave"],
+    "answer": "Kennel",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Shelter",
+    "chapter": "Animal Homes",
+    "question": "A spider lives in a __.",
+    "options": ["Web", "Nest", "Burrow", "Stable"],
+    "answer": "Web",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Transport",
+    "chapter": "Road Transport",
+    "question": "Which of these is a road vehicle?",
+    "options": ["Boat", "Bus", "Ship", "Aeroplane"],
+    "answer": "Bus",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Transport",
+    "chapter": "Water Transport",
+    "question": "Which of these moves on water?",
+    "options": ["Car", "Boat", "Train", "Bike"],
+    "answer": "Boat",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Weather",
+    "chapter": "Seasons",
+    "question": "In which season do we wear woollen clothes?",
+    "options": ["Summer", "Winter", "Rainy", "Spring"],
+    "answer": "Winter",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Weather",
+    "chapter": "Seasons",
+    "question": "In which season do we use fans the most?",
+    "options": ["Winter", "Summer", "Rainy", "Autumn"],
+    "answer": "Summer",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Good Habits",
+    "chapter": "Hygiene",
+    "question": "We should wash our hands before __.",
+    "options": ["Playing", "Eating", "Sleeping", "Running"],
+    "answer": "Eating",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Good Habits",
+    "chapter": "Cleanliness",
+    "question": "We must brush our teeth __.",
+    "options": ["Once a week", "Twice a day", "Never", "Once a month"],
+    "answer": "Twice a day",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Community Helpers",
+    "chapter": "Helpers",
+    "question": "Who teaches us in school?",
+    "options": ["Doctor", "Teacher", "Farmer", "Driver"],
+    "answer": "Teacher",
+    "grade": 3,
+    "subject": "evs"
+  },
+  {
+    "topic": "Community Helpers",
+    "chapter": "Helpers",
+    "question": "Who grows crops?",
+    "options": ["Postman", "Farmer", "Carpenter", "Pilot"],
+    "answer": "Farmer",
+    "grade": 3,
+    "subject": "evs"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Grammar",
+    "chapter": "Nouns",
+    "question": "Which of the following is a common noun?",
+    "options": ["Ravi", "Mumbai", "Girl", "India"],
+    "answer": "Girl",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Grammar",
+    "chapter": "Proper Nouns",
+    "question": "Which of these is a proper noun?",
+    "options": ["City", "Dog", "Delhi", "Boy"],
+    "answer": "Delhi",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Verbs",
+    "chapter": "Action Words",
+    "question": "Which word shows an action?",
+    "options": ["Swim", "Tree", "Table", "Bag"],
+    "answer": "Swim",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Verbs",
+    "chapter": "Action Words",
+    "question": "What is the boy doing? (Picture: boy reading)",
+    "options": ["Running", "Sleeping", "Reading", "Eating"],
+    "answer": "Reading",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Adjectives",
+    "chapter": "Describing Words",
+    "question": "Which word describes a noun?",
+    "options": ["Happy", "Run", "Ball", "Eat"],
+    "answer": "Happy",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Adjectives",
+    "chapter": "Describing Words",
+    "question": "Choose the adjective: The tall man walked.",
+    "options": ["Tall", "Man", "Walked", "The"],
+    "answer": "Tall",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Articles",
+    "chapter": "A / An / The",
+    "question": "Choose the correct article: __ elephant",
+    "options": ["A", "An", "The", "No article"],
+    "answer": "An",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Articles",
+    "chapter": "A / An / The",
+    "question": "Choose the correct article: __ sun rises in the east.",
+    "options": ["A", "An", "The", "No article"],
+    "answer": "The",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Pronouns",
+    "chapter": "He/She/They",
+    "question": "Rita is playing. __ is happy.",
+    "options": ["He", "She", "They", "It"],
+    "answer": "She",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Pronouns",
+    "chapter": "He/She/They",
+    "question": "The cats are hungry. __ are eating.",
+    "options": ["He", "She", "They", "It"],
+    "answer": "They",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Comprehension",
+    "chapter": "Small Passage",
+    "question": "Rohan has 3 books. He reads every day. What does Rohan do daily?",
+    "options": ["Runs", "Sleeps", "Reads", "Sings"],
+    "answer": "Reads",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Comprehension",
+    "chapter": "Small Passage",
+    "question": "Rohan has how many books?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "3",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Vocabulary",
+    "chapter": "Synonyms",
+    "question": "Choose the synonym of ‘big’.",
+    "options": ["Huge", "Small", "Short", "Tiny"],
+    "answer": "Huge",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Vocabulary",
+    "chapter": "Antonyms",
+    "question": "Choose the opposite of ‘cold’.",
+    "options": ["Hot", "Cool", "Warm", "Light"],
+    "answer": "Hot",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Tenses",
+    "chapter": "Simple Present",
+    "question": "Ria __ to school every day.",
+    "options": ["go", "goes", "going", "gone"],
+    "answer": "goes",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Tenses",
+    "chapter": "Simple Past",
+    "question": "He __ a song yesterday.",
+    "options": ["sings", "sing", "sang", "singing"],
+    "answer": "sang",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Punctuation",
+    "chapter": "Full Stop",
+    "question": "Choose the correct sentence.",
+    "options": ["He is playing", "He is playing.", "he is playing.", "He Is playing."],
+    "answer": "He is playing.",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Punctuation",
+    "chapter": "Capital Letters",
+    "question": "Which sentence is correct?",
+    "options": ["the sun is bright.", "The Sun Is bright.", "The sun is bright.", "the Sun is Bright."],
+    "answer": "The sun is bright.",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Stories",
+    "chapter": "Short Stories",
+    "question": "Who helped the lion in the story ‘The Lion and the Mouse’?",
+    "options": ["The fox", "The dog", "The mouse", "The monkey"],
+    "answer": "The mouse",
+    "grade": 3,
+    "subject": "english"
+  },
+  {
+    "topic": "Stories",
+    "chapter": "Short Stories",
+    "question": "Why did the mouse help the lion?",
+    "options": ["Lion was sad", "Lion trapped him", "Lion was trapped", "Lion was hungry"],
+    "answer": "Lion was trapped",
+    "grade": 3,
+    "subject": "english"
+  }
+]

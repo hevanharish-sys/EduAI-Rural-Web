@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Numbers",
+    "chapter": "Place Value",
+    "question": "What is the place value of 6 in 462?",
+    "options": ["600", "60", "6", "400"],
+    "answer": "60",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Numbers",
+    "chapter": "Comparison",
+    "question": "Which number is greater: 345 or 354?",
+    "options": ["345", "354", "Both equal", "Cannot say"],
+    "answer": "354",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Addition",
+    "chapter": "3-digit Addition",
+    "question": "What is 234 + 120?",
+    "options": ["354", "344", "364", "324"],
+    "answer": "354",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Addition",
+    "chapter": "3-digit Addition",
+    "question": "What is 100 + 289?",
+    "options": ["389", "289", "199", "399"],
+    "answer": "389",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Subtraction",
+    "chapter": "3-digit Subtraction",
+    "question": "What is 500 - 245?",
+    "options": ["255", "245", "225", "275"],
+    "answer": "255",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Subtraction",
+    "chapter": "3-digit Subtraction",
+    "question": "What is 900 - 450?",
+    "options": ["450", "400", "350", "500"],
+    "answer": "450",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Multiplication",
+    "chapter": "Tables",
+    "question": "What is 4 × 6?",
+    "options": ["20", "24", "26", "30"],
+    "answer": "24",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Multiplication",
+    "chapter": "Tables",
+    "question": "What is 7 × 5?",
+    "options": ["30", "35", "40", "25"],
+    "answer": "35",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Division",
+    "chapter": "Basics",
+    "question": "What is 12 ÷ 3?",
+    "options": ["3", "4", "6", "2"],
+    "answer": "4",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Division",
+    "chapter": "Basics",
+    "question": "What is 18 ÷ 6?",
+    "options": ["2", "3", "6", "4"],
+    "answer": "3",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Fractions",
+    "chapter": "Basics",
+    "question": "Half of 10 is __.",
+    "options": ["4", "10", "5", "6"],
+    "answer": "5",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Fractions",
+    "chapter": "Basics",
+    "question": "Which is 1/4?",
+    "options": ["0.25", "2", "4", "0.5"],
+    "answer": "0.25",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Geometry",
+    "chapter": "Lines",
+    "question": "A triangle has __ sides.",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Geometry",
+    "chapter": "Shapes",
+    "question": "A rectangle has __ right angles.",
+    "options": ["2", "4", "3", "1"],
+    "answer": "4",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Measurement",
+    "chapter": "Length",
+    "question": "We measure length in __.",
+    "options": ["Meters", "Liters", "Grams", "Celsius"],
+    "answer": "Meters",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Measurement",
+    "chapter": "Weight",
+    "question": "Weight is measured in __.",
+    "options": ["Meters", "Grams", "Liters", "Kilometers"],
+    "answer": "Grams",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Time",
+    "chapter": "Clock",
+    "question": "How many minutes are there in one hour?",
+    "options": ["100", "30", "60", "24"],
+    "answer": "60",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Time",
+    "chapter": "Calendar",
+    "question": "How many months are there in a year?",
+    "options": ["10", "11", "12", "13"],
+    "answer": "12",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Data",
+    "chapter": "Graphs",
+    "question": "A pictograph uses __ to show data.",
+    "options": ["Pictures", "Numbers alone", "Letters", "Maps"],
+    "answer": "Pictures",
+    "grade": 3,
+    "subject": "maths"
+  },
+  {
+    "topic": "Data",
+    "chapter": "Graphs",
+    "question": "Which is the smallest number?",
+    "options": ["125", "152", "251", "215"],
+    "answer": "125",
+    "grade": 3,
+    "subject": "maths"
+  }
+]

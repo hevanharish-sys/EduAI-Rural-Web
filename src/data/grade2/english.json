@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Grammar",
+    "chapter": "Nouns",
+    "question": "Which of these is a naming word (noun)?",
+    "options": ["Run", "Red", "Dog", "Quickly"],
+    "answer": "Dog",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Grammar",
+    "chapter": "Nouns",
+    "question": "Which of these is the name of a place?",
+    "options": ["School", "Jump", "Blue", "Sleep"],
+    "answer": "School",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Verbs",
+    "chapter": "Action Words",
+    "question": "Which word shows an action?",
+    "options": ["Eat", "Table", "Pencil", "Red"],
+    "answer": "Eat",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Verbs",
+    "chapter": "Action Words",
+    "question": "What is the boy doing? (Picture: boy jumping)",
+    "options": ["Sleeping", "Jumping", "Writing", "Sitting"],
+    "answer": "Jumping",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Opposites",
+    "chapter": "Vocabulary",
+    "question": "What is the opposite of ‘hot’?",
+    "options": ["Cold", "Warm", "Tall", "Big"],
+    "answer": "Cold",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Opposites",
+    "chapter": "Vocabulary",
+    "question": "What is the opposite of ‘slow’?",
+    "options": ["Fast", "Small", "Light", "Short"],
+    "answer": "Fast",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Comprehension",
+    "chapter": "Reading",
+    "question": "A cat sits on the mat. Where is the cat?",
+    "options": ["Under the mat", "On the mat", "Behind the mat", "Beside the mat"],
+    "answer": "On the mat",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Comprehension",
+    "chapter": "Reading",
+    "question": "Rita has a red balloon. What color is the balloon?",
+    "options": ["Blue", "Red", "Green", "Yellow"],
+    "answer": "Red",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Sentence",
+    "chapter": "Simple Sentences",
+    "question": "Choose the correct sentence.",
+    "options": ["the boy is happy.", "The boy is happy.", "Boy the happy is.", "Happy boy is the."],
+    "answer": "The boy is happy.",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Sentence",
+    "chapter": "Simple Sentences",
+    "question": "Which sentence is correct?",
+    "options": ["cats three I have.", "I have three cats.", "Three I cats have.", "Have I cats three."],
+    "answer": "I have three cats.",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Vocabulary",
+    "chapter": "Animals",
+    "question": "Which of these is a bird?",
+    "options": ["Cow", "Sparrow", "Dog", "Goat"],
+    "answer": "Sparrow",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Vocabulary",
+    "chapter": "Fruits",
+    "question": "Which fruit is red?",
+    "options": ["Banana", "Apple", "Grapes", "Pear"],
+    "answer": "Apple",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Picture Reading",
+    "chapter": "Scenes",
+    "question": "What is the girl holding? (Picture: girl holding a book)",
+    "options": ["Ball", "Pencil", "Book", "Cup"],
+    "answer": "Book",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Picture Reading",
+    "chapter": "Scenes",
+    "question": "What is the man doing? (Picture: man driving)",
+    "options": ["Cooking", "Driving", "Sleeping", "Running"],
+    "answer": "Driving",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Stories",
+    "chapter": "Short Stories",
+    "question": "Who did the thirsty crow drop stones into?",
+    "options": ["A cup", "A pot", "A river", "A bucket"],
+    "answer": "A pot",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Stories",
+    "chapter": "Short Stories",
+    "question": "What did the fox say the grapes were?",
+    "options": ["Sweet", "Sour", "Big", "Small"],
+    "answer": "Sour",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Articles",
+    "chapter": "A / An",
+    "question": "Choose the correct article: __ apple",
+    "options": ["A", "An", "The", "No article"],
+    "answer": "An",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Articles",
+    "chapter": "A / An",
+    "question": "Choose the correct article: __ cat",
+    "options": ["A", "An", "The", "Some"],
+    "answer": "A",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Pronouns",
+    "chapter": "He / She / It",
+    "question": "Riya is a girl. __ is dancing.",
+    "options": ["He", "She", "It", "They"],
+    "answer": "She",
+    "grade": 2,
+    "subject": "english"
+  },
+  {
+    "topic": "Pronouns",
+    "chapter": "He / She / It",
+    "question": "The dog is barking. __ is loud.",
+    "options": ["He", "She", "It", "They"],
+    "answer": "It",
+    "grade": 2,
+    "subject": "english"
+  }
+]

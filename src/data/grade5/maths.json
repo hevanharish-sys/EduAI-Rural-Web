@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Numbers",
+    "chapter": "Place Value",
+    "question": "What is the place value of 6 in 46,582?",
+    "options": ["6", "60", "600", "6000"],
+    "answer": "6000",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Numbers",
+    "chapter": "Roman Numerals",
+    "question": "What is the Roman numeral for 50?",
+    "options": ["X", "L", "V", "C"],
+    "answer": "L",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Addition",
+    "chapter": "Large Numbers",
+    "question": "What is 12,345 + 8,000?",
+    "options": ["20,345", "19,345", "21,345", "22,345"],
+    "answer": "20,345",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Subtraction",
+    "chapter": "Large Numbers",
+    "question": "What is 15,000 - 4,350?",
+    "options": ["10,650", "11,650", "12,650", "13,650"],
+    "answer": "10,650",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Multiplication",
+    "chapter": "Large Numbers",
+    "question": "What is 125 × 8?",
+    "options": ["800", "900", "1000", "1100"],
+    "answer": "1000",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Division",
+    "chapter": "Large Numbers",
+    "question": "What is 144 ÷ 12?",
+       "options": ["10", "11", "12", "14"],
+    "answer": "12",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Fractions",
+    "chapter": "Basics",
+    "question": "Which of these is an improper fraction?",
+    "options": ["1/2", "3/4", "9/7", "2/5"],
+    "answer": "9/7",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Fractions",
+    "chapter": "Mixed Numbers",
+    "question": "3 1/2 is equal to __.",
+    "options": ["5/2", "7/2", "6/2", "3/7"],
+    "answer": "7/2",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Decimals",
+    "chapter": "Basics",
+    "question": "0.75 is equal to __ fraction.",
+    "options": ["1/2", "3/4", "2/5", "5/8"],
+    "answer": "3/4",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Geometry",
+    "chapter": "Angles",
+    "question": "A straight angle is __ degrees.",
+    "options": ["90", "180", "270", "360"],
+    "answer": "180",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Geometry",
+    "chapter": "Triangles",
+    "question": "A triangle with all equal sides is called __.",
+    "options": ["Scalene", "Isosceles", "Equilateral", "Right"],
+    "answer": "Equilateral",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Measurement",
+    "chapter": "Perimeter",
+    "question": "Perimeter of a square = 4 × __.",
+    "options": ["Length", "Breadth", "Side", "Diameter"],
+    "answer": "Side",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Measurement",
+    "chapter": "Area",
+    "question": "Area of a rectangle = __ × __.",
+    "options": ["Length × Breadth", "Side × Side", "Base × Height", "2 × Length"],
+    "answer": "Length × Breadth",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Time",
+    "chapter": "Clock",
+    "question": "1 hour = __ minutes.",
+    "options": ["30", "45", "60", "90"],
+    "answer": "60",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Money",
+    "chapter": "Calculation",
+    "question": "₹10.50 + ₹5.25 = __.",
+    "options": ["₹15.75", "₹16.00", "₹14.75", "₹20.00"],
+    "answer": "₹15.75",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Data",
+    "chapter": "Bar Graph",
+    "question": "Bar graphs use __ to show data.",
+    "options": ["Bars", "Lines", "Dots", "Pictures"],
+    "answer": "Bars",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Patterns",
+    "chapter": "Sequences",
+    "question": "What comes next? 5, 10, 15, 20, __",
+    "options": ["22", "25", "30", "35"],
+    "answer": "25",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Factor",
+    "chapter": "Maths",
+    "question": "Which of these is a factor of 24?",
+    "options": ["5", "7", "6", "11"],
+    "answer": "6",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Multiples",
+    "chapter": "Maths",
+    "question": "Which of these is a multiple of 9?",
+    "options": ["18", "20", "25", "27"],
+    "answer": "18",
+    "grade": 5,
+    "subject": "maths"
+  },
+  {
+    "topic": "Geometry",
+    "chapter": "Circle",
+    "question": "A circle is measured using __.",
+    "options": ["Scale", "Compass", "Protractor", "Divider"],
+    "answer": "Compass",
+    "grade": 5,
+    "subject": "maths"
+  }
+]

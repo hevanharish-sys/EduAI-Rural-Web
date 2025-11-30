@@ -1,0 +1,22 @@
+[
+  {"topic":"Matter","chapter":"States","question":"Particles of matter are __.","options":["fixed","far apart","in constant motion","not moving"],"answer":"in constant motion","grade":9,"subject":"science"},
+  {"topic":"Matter","chapter":"Diffusion","question":"Diffusion is fastest in __.","options":["solids","liquids","gases","plastics"],"answer":"gases","grade":9,"subject":"science"},
+  {"topic":"Atoms","chapter":"Structure","question":"Electron charge is __.","options":["positive","negative","neutral","none"],"answer":"negative","grade":9,"subject":"science"},
+  {"topic":"Atoms","chapter":"Mass Number","question":"Mass number = __.","options":["protons","neutrons","protons + neutrons","electrons"],"answer":"protons + neutrons","grade":9,"subject":"science"},
+  {"topic":"Cell","chapter":"Organelles","question":"Mitochondria are __.","options":["powerhouse","brain","lungs","skin"],"answer":"powerhouse","grade":9,"subject":"science"},
+  {"topic":"Tissues","chapter":"Plants","question":"Xylem carries __.","options":["food","water","air","waste"],"answer":"water","grade":9,"subject":"science"},
+  {"topic":"Tissues","chapter":"Animals","question":"Blood is __ tissue.","options":["muscular","connective","epithelial","nervous"],"answer":"connective","grade":9,"subject":"science"},
+  {"topic":"Motion","chapter":"Speed","question":"Speed = distance / __.","options":["velocity","time","mass","force"],"answer":"time","grade":9,"subject":"science"},
+  {"topic":"Force","chapter":"Newton","question":"Unit of force is __.","options":["joule","watt","newton","pascal"],"answer":"newton","grade":9,"subject":"science"},
+  {"topic":"Work","chapter":"Energy","question":"1 joule = 1 __.","options":["N/m","kg/m","Nm","W/s"],"answer":"Nm","grade":9,"subject":"science"},
+  {"topic":"Gravitation","chapter":"Basics","question":"G is __.","options":["universal constant","force","variable","mass"],"answer":"universal constant","grade":9,"subject":"science"},
+  {"topic":"Gravitation","chapter":"Buoyancy","question":"Objects float if __.","options":["heavier","denser than liquid","lighter than liquid","none"],"answer":"lighter than liquid","grade":9,"subject":"science"},
+  {"topic":"Sound","chapter":"Propagation","question":"Sound cannot travel through __.","options":["solid","water","air","vacuum"],"answer":"vacuum","grade":9,"subject":"science"},
+  {"topic":"Matter","chapter":"Evaporation","question":"Evaporation causes __.","options":["heating","cooling","expansion","noise"],"answer":"cooling","grade":9,"subject":"science"},
+  {"topic":"Cell","chapter":"Division","question":"Mitosis produces __.","options":["4 cells","identical cells","sex cells","blood cells only"],"answer":"identical cells","grade":9,"subject":"science"},
+  {"topic":"Plant Physiology","chapter":"Photosynthesis","question":"Photosynthesis requires __.","options":["oxygen","nitrogen","sunlight","sand"],"answer":"sunlight","grade":9,"subject":"science"},
+  {"topic":"Motion","chapter":"Velocity","question":"Velocity is speed with __.","options":["mass","direction","time","force"],"answer":"direction","grade":9,"subject":"science"},
+  {"topic":"Tissues","chapter":"Muscular","question":"Muscles help in __.","options":["thinking","movement","breathing","digestion only"],"answer":"movement","grade":9,"subject":"science"},
+  {"topic":"Force","chapter":"Laws","question":"F = ma belongs to __ law.","options":["Newton's 3rd","Newton's 2nd","Newton's 1st","Boyle's"],"answer":"Newton's 2nd","grade":9,"subject":"science"},
+  {"topic":"Cell","chapter":"Membrane","question":"Cell membrane controls __.","options":["movement of substances","shape","genetics","nucleus"],"answer":"movement of substances","grade":9,"subject":"science"}
+]

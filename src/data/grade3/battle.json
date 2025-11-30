@@ -1,0 +1,39 @@
+[
+  {
+    "id": "g3-bt-1",
+    "title": "Times Table Quick",
+    "desc": "2x and 3x quick math",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "3 x 2 = ?", "options": ["5", "6", "7"], "answer": "6" },
+      { "q": "2 x 4 = ?", "options": ["6", "8", "10"], "answer": "8" }
+    ]
+  },
+  {
+    "id": "g3-bt-2",
+    "title": "Grammar Check",
+    "desc": "Choose correct verb",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "She ___ to school every day.", "options": ["goes", "go", "going"], "answer": "goes" }
+    ]
+  },
+  {
+    "id": "g3-bt-3",
+    "title": "Science Facts",
+    "desc": "Basic facts",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "What do plants need to make food?", "options": ["Soil", "Sunlight", "Rocks"], "answer": "Sunlight" }
+    ]
+  },
+  {
+    "id": "g3-bt-4",
+    "title": "GK Quickfire",
+    "desc": "Choose the right answer",
+    "type": "quizbattle",
+    "questions": [
+      { "q": "Which is a mammal?", "options": ["Frog", "Whale", "Crocodile"], "answer": "Whale" }
+    ]
+  }
+]

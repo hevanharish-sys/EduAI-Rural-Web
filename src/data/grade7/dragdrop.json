@@ -1,0 +1,34 @@
+[
+  {
+    "id": "g7-dd-1",
+    "title": "Match Chemical to Use",
+    "desc": "Match the chemical with its everyday example.",
+    "pairs": [
+      { "drag": "Sodium", "target": "salt" }
+    ]
+  },
+  {
+    "id": "g7-dd-2",
+    "title": "Match Economy Term",
+    "desc": "Drag the correct trade term to its icon.",
+    "pairs": [
+      { "drag": "Export", "target": "ship" }
+    ]
+  },
+  {
+    "id": "g7-dd-3",
+    "title": "Match Force Types",
+    "desc": "Match the type of force to the example.",
+    "pairs": [
+      { "drag": "Gravity", "target": "apple" }
+    ]
+  },
+  {
+    "id": "g7-dd-4",
+    "title": "Match Biomes",
+    "desc": "Drag each living thing to the right biome.",
+    "pairs": [
+      { "drag": "Cactus", "target": "desert" }
+    ]
+  }
+]

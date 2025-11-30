@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Basics",
+    "chapter": "Hardware",
+    "question": "Which part of the computer is called the brain?",
+    "options": ["Monitor", "CPU", "Keyboard", "Mouse"],
+    "answer": "CPU",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "Basics",
+    "chapter": "Software",
+    "question": "Windows is an example of __.",
+    "options": ["Application", "Operating System", "Device", "Hardware"],
+    "answer": "Operating System",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "Input Devices",
+    "chapter": "Devices",
+    "question": "Which is an input device?",
+    "options": ["Printer", "Scanner", "Speaker", "Monitor"],
+    "answer": "Scanner",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "Output Devices",
+    "chapter": "Devices",
+    "question": "Which device gives sound output?",
+    "options": ["Keyboard", "Mouse", "Speaker", "Monitor"],
+    "answer": "Speaker",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "Storage",
+    "chapter": "Units",
+    "question": "1 GB = __ MB",
+    "options": ["100", "1000", "1024", "2048"],
+    "answer": "1024",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "Storage",
+    "chapter": "Devices",
+    "question": "Which device stores the most data?",
+    "options": ["CD", "Pen Drive", "Hard Disk", "DVD"],
+    "answer": "Hard Disk",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "Internet",
+    "chapter": "Uses",
+    "question": "Which one is used to browse websites?",
+    "options": ["Paint", "Browser", "Notepad", "Calculator"],
+    "answer": "Browser",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "Internet",
+    "chapter": "Safety",
+    "question": "We should not share our __ online.",
+    "options": ["Hobbies", "Favorite color", "Address", "Books"],
+    "answer": "Address",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "MS Paint",
+    "chapter": "Tools",
+    "question": "Which tool is used to erase?",
+    "options": ["Brush", "Pencil", "Eraser", "Fill"],
+    "answer": "Eraser",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "MS Paint",
+    "chapter": "Tools",
+    "question": "Which tool is used to write text?",
+    "options": ["Eraser", "Text tool", "Brush", "Select tool"],
+    "answer": "Text tool",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "Keyboard",
+    "chapter": "Keys",
+    "question": "Which key deletes characters?",
+    "options": ["Shift", "Ctrl", "Backspace", "Tab"],
+    "answer": "Backspace",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "Keyboard",
+    "chapter": "Keys",
+    "question": "Spacebar is used for __.",
+    "options": ["New line", "Space", "Delete", "Undo"],
+    "answer": "Space",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "Programming",
+    "chapter": "Basics",
+    "question": "A set of instructions given to a computer is called __.",
+    "options": ["File", "Program", "Password", "Network"],
+    "answer": "Program",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "Programming",
+    "chapter": "Logic",
+    "question": "Scratch is used for __.",
+    "options": ["Drawing", "Coding", "Typing", "Browsing"],
+    "answer": "Coding",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "Cyber Safety",
+    "chapter": "Passwords",
+    "question": "A strong password should contain __.",
+    "options": ["Only letters", "Only numbers", "A mix of characters", "Your name"],
+    "answer": "A mix of characters",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "Cyber Safety",
+    "chapter": "Threats",
+    "question": "Malware is a type of __.",
+    "options": ["Music", "Software", "Virus", "Hardware"],
+    "answer": "Virus",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "Hardware",
+    "chapter": "Devices",
+    "question": "Which device shows visual output?",
+    "options": ["Speaker", "Printer", "Monitor", "Mouse"],
+    "answer": "Monitor",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "Hardware",
+    "chapter": "Devices",
+    "question": "Which device prints documents?",
+    "options": ["Scanner", "Printer", "Keyboard", "Mouse"],
+    "answer": "Printer",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "Files",
+    "chapter": "Management",
+    "question": "We store files inside __.",
+    "options": ["CPU", "Folder", "Mouse", "Keyboard"],
+    "answer": "Folder",
+    "grade": 5,
+    "subject": "computer"
+  },
+  {
+    "topic": "Files",
+    "chapter": "Open",
+    "question": "To open a file, you __ it.",
+    "options": ["Delete", "Drag", "Double-click", "Minimize"],
+    "answer": "Double-click",
+    "grade": 5,
+    "subject": "computer"
+  }
+]

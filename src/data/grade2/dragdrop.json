@@ -1,0 +1,39 @@
+[
+  {
+    "id": "g2-dd-1",
+    "title": "Match Animal to Home",
+    "type": "dragdrop",
+    "question": "Match each animal to its home",
+    "pairs": [
+      { "left": "🐦 Bird", "right": "Nest" }
+    ]
+  },
+  {
+    "id": "g2-dd-2",
+    "title": "Match Opposites",
+    "type": "dragdrop",
+    "question": "Match the icon to meaning",
+    "pairs": [
+      { "left": "🔥 Hot", "right": "Hot Box" }
+    ]
+  },
+  {
+    "id": "g2-dd-3",
+    "title": "Match Tools",
+    "type": "dragdrop",
+    "question": "Match the tool to the toolbox",
+    "pairs": [
+      { "left": "🔨 Hammer", "right": "Toolbox" }
+    ]
+  },
+  {
+    "id": "g2-dd-4",
+    "title": "Match Food",
+    "type": "dragdrop",
+    "question": "Match food to the plate",
+    "pairs": [
+      { "left": "🍞 Bread", "right": "Plate" }
+    ]
+  }
+]
+

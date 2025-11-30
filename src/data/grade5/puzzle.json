@@ -1,0 +1,45 @@
+[
+  {
+    "id": "g5-pz-1",
+    "title": "Food Chain",
+    "desc": "Which creature is shown in the picture?",
+    "type": "puzzle",
+    "question": "Which animal is shown?",
+    "image": "https://picsum.photos/id/1062/800/600",
+    "grid": 3,
+    "time": 16
+  },
+  {
+    "id": "g5-pz-2",
+    "title": "Instrument Sound",
+    "desc": "Identify the instrument shown.",
+    "type": "puzzle",
+    "question": "Which instrument is pictured?",
+    "image": "https://picsum.photos/id/1069/800/600",
+    "grid": 3,
+    "time": 18
+  },
+  {
+    "id": "g5-pz-3",
+    "title": "Map Symbol",
+    "desc": "Which map symbol/feature appears?",
+    "type": "puzzle",
+    "question": "What map feature is shown?",
+    "image": "https://picsum.photos/id/1074/800/600",
+    "grid": 3,
+    "time": 20
+  },
+  {
+    "id": "g5-pz-4",
+    "title": "Food Group",
+    "desc": "Identify the food shown.",
+    "type": "puzzle",
+    "question": "Which food item is pictured?",
+    "image": "https://picsum.photos/id/1080/800/600",
+    "grid": 3,
+    "time": 15
+  }
+]
+
+
+

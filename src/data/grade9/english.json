@@ -1,0 +1,22 @@
+[
+  {"topic":"Grammar","chapter":"Tenses","question":"Choose the correct form: She __ the homework by tonight.","options":["will finish","finishes","finished","is finishing"],"answer":"will finish","grade":9,"subject":"english"},
+  {"topic":"Grammar","chapter":"Voice","question":"Passive: They are painting the house.","options":["The house was painted.","The house is being painted.","The house paints.","The house has painted."],"answer":"The house is being painted.","grade":9,"subject":"english"},
+  {"topic":"Grammar","chapter":"Speech","question":"Indirect: He said, 'I am happy.'","options":["He said he is happy.","He said he was happy.","He said I was happy.","He said he has happy."],"answer":"He said he was happy.","grade":9,"subject":"english"},
+  {"topic":"Grammar","chapter":"Clauses","question":"Identify the subordinate clause: I know that she tried.","options":["I know","that she tried","she tried","know"],"answer":"that she tried","grade":9,"subject":"english"},
+  {"topic":"Writing","chapter":"Diary Entry","question":"Diary entry is written in __ person.","options":["first","second","third","fourth"],"answer":"first","grade":9,"subject":"english"},
+  {"topic":"Writing","chapter":"Letter","question":"A formal letter ends with __.","options":["Yours lovingly","Cheers","Bye","Yours sincerely"],"answer":"Yours sincerely","grade":9,"subject":"english"},
+  {"topic":"Reading","chapter":"Comprehension","question":"A factual passage contains __.","options":["opinions","facts","stories","poems"],"answer":"facts","grade":9,"subject":"english"},
+  {"topic":"Literature","chapter":"Poetry","question":"A poem without a regular rhyme scheme is __.","options":["lyric","free verse","ballad","ode"],"answer":"free verse","grade":9,"subject":"english"},
+  {"topic":"Literature","chapter":"Prose","question":"The time and place of a story is its __.","options":["plot","setting","theme","dialogue"],"answer":"setting","grade":9,"subject":"english"},
+  {"topic":"Grammar","chapter":"Modals","question":"You __ obey traffic rules.","options":["might","could","should","would"],"answer":"should","grade":9,"subject":"english"},
+  {"topic":"Vocabulary","chapter":"Synonyms","question":"Synonym of 'honest'.","options":["truthful","greedy","lazy","angry"],"answer":"truthful","grade":9,"subject":"english"},
+  {"topic":"Vocabulary","chapter":"Antonyms","question":"Antonym of 'victory'.","options":["win","battle","defeat","success"],"answer":"defeat","grade":9,"subject":"english"},
+  {"topic":"Writing","chapter":"Story","question":"A story should ALWAYS end with __.","options":["a plot twist","a moral or conclusion","a joke","a question"],"answer":"a moral or conclusion","grade":9,"subject":"english"},
+  {"topic":"Grammar","chapter":"Prepositions","question":"Fill in: The cat sat __ the table.","options":["into","under","towards","between"],"answer":"under","grade":9,"subject":"english"},
+  {"topic":"Grammar","chapter":"Conjunctions","question":"Choose: I stayed home __ I was sick.","options":["but","because","while","or"],"answer":"because","grade":9,"subject":"english"},
+  {"topic":"Grammar","chapter":"Determiners","question":"Choose: __ honesty is important.","options":["A","An","The","No"],"answer":"An","grade":9,"subject":"english"},
+  {"topic":"Writing","chapter":"Report","question":"Reports are written in __ tense.","options":["future","past","present continuous","future perfect"],"answer":"past","grade":9,"subject":"english"},
+  {"topic":"Vocabulary","chapter":"Idioms","question":"Meaning of 'break the ice'.","options":["start speaking","cool something","fight someone","freeze water"],"answer":"start speaking","grade":9,"subject":"english"},
+  {"topic":"Vocabulary","chapter":"Phrasal Verbs","question":"‘Look after’ means __.","options":["search","ignore","take care of","break"],"answer":"take care of","grade":9,"subject":"english"},
+  {"topic":"Reading","chapter":"Inference","question":"If someone keeps looking at the clock, they may be __.","options":["bored","excited","full","sleeping"],"answer":"bored","grade":9,"subject":"english"}
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "g1-dg-1",
+    "title": "Match Animals",
+    "type": "dragdrop",
+    "question": "Drag each baby animal to its mother",
+    "pairs": [
+      { "left": "🐱 Kitten", "right": "Cat" },
+      { "left": "🐶 Puppy", "right": "Dog" },
+      { "left": "🐔 Chick", "right": "Hen" }
+    ]
+  },
+  {
+    "id": "g1-dg-2",
+    "title": "Match Fruits",
+    "type": "dragdrop",
+    "question": "Match the fruit with its color",
+    "pairs": [
+      { "left": "🍌 Banana", "right": "Yellow" },
+      { "left": "🍎 Apple", "right": "Red" },
+      { "left": "🍇 Grapes", "right": "Purple" }
+    ]
+  }
+]
+

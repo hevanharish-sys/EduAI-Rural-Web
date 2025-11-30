@@ -1,0 +1,22 @@
+[
+  {"topic":"Grammar","chapter":"Nouns","question":"Which of the following is a proper noun?","options":["city","river","India","mountain"],"answer":"India","grade":6,"subject":"english"},
+  {"topic":"Grammar","chapter":"Pronouns","question":"Choose the correct pronoun: Ramesh and I went to the market. __ bought apples.","options":["He","They","We","She"],"answer":"We","grade":6,"subject":"english"},
+  {"topic":"Grammar","chapter":"Verbs","question":"Select the correct verb form: She __ to music every evening.","options":["listen","listens","listening","listened"],"answer":"listens","grade":6,"subject":"english"},
+  {"topic":"Grammar","chapter":"Tenses","question":"Choose correct past tense: He __ his homework yesterday.","options":["do","does","did","done"],"answer":"did","grade":6,"subject":"english"},
+  {"topic":"Grammar","chapter":"Adjectives","question":"Pick the adjective: The __ student answered first.","options":["quick","quickly","quickness","quicker"],"answer":"quick","grade":6,"subject":"english"},
+  {"topic":"Vocabulary","chapter":"Synonyms","question":"Choose synonym of 'ancient'.","options":["old","modern","young","new"],"answer":"old","grade":6,"subject":"english"},
+  {"topic":"Vocabulary","chapter":"Antonyms","question":"Choose antonym of 'scarce'.","options":["rare","few","abundant","little"],"answer":"abundant","grade":6,"subject":"english"},
+  {"topic":"Reading","chapter":"Comprehension","question":"If a passage says 'The gardener waters plants daily', question: How often does the gardener water the plants?","options":["Weekly","Daily","Monthly","Never"],"answer":"Daily","grade":6,"subject":"english"},
+  {"topic":"Writing","chapter":"Paragraph","question":"Which sentence is suitable as a topic sentence for a paragraph about 'My School'?","options":["My school has many plants.","The sun is bright.","Dogs are friendly.","I like to sleep."],"answer":"My school has many plants.","grade":6,"subject":"english"},
+  {"topic":"Grammar","chapter":"Prepositions","question":"Choose the correct preposition: The cat hid __ the bed.","options":["on","under","in","between"],"answer":"under","grade":6,"subject":"english"},
+  {"topic":"Grammar","chapter":"Articles","question":"Choose correct article: She is __ honest person.","options":["a","an","the","no article"],"answer":"an","grade":6,"subject":"english"},
+  {"topic":"Usage","chapter":"Direct/Indirect Speech","question":"Change to indirect: He said, 'I am tired.' → He said that __.","options":["I am tired","he is tired","he was tired","he will be tired"],"answer":"he was tired","grade":6,"subject":"english"},
+  {"topic":"Grammar","chapter":"Conjunctions","question":"Choose the conjunction: I wanted to go, __ it rained.","options":["but","and","or","so"],"answer":"but","grade":6,"subject":"english"},
+  {"topic":"Literature","chapter":"Poetry","question":"A poem has lines grouped together called __.","options":["stanzas","chapters","verses","pages"],"answer":"stanzas","grade":6,"subject":"english"},
+  {"topic":"Comprehension","chapter":"Inference","question":"If a boy runs fast and wins, we can infer he is __.","options":["lazy","quick","tall","weak"],"answer":"quick","grade":6,"subject":"english"},
+  {"topic":"Grammar","chapter":"Voice","question":"Choose active voice: 'The teacher praised the student' → Passive is __.","options":["The student praised the teacher","The student was praised by the teacher","The teacher was praised by the student","The student is praised"],"answer":"The student was praised by the teacher","grade":6,"subject":"english"},
+  {"topic":"Vocabulary","chapter":"Phrasal verbs","question":"What does 'give up' mean?","options":["start","stop trying","increase","finish later"],"answer":"stop trying","grade":6,"subject":"english"},
+  {"topic":"Writing","chapter":"Formal Letter","question":"Which is needed in a formal letter?","options":["Salutation","Slang","Emoji","Colloquial words"],"answer":"Salutation","grade":6,"subject":"english"},
+  {"topic":"Grammar","chapter":"Modals","question":"Choose correct modal: You __ finish your homework before playing.","options":["must","might","can","will"],"answer":"must","grade":6,"subject":"english"},
+  {"topic":"Literature","chapter":"Story","question":"A moral story usually teaches __.","options":["a lesson","a joke","an experiment","a recipe"],"answer":"a lesson","grade":6,"subject":"english"}
+]

@@ -1,0 +1,22 @@
+[
+  {"topic":"Rational Numbers","chapter":"Basics","question":"Which is a rational number?","options":["√2","3/4","π","0.333…"],"answer":"3/4","grade":8,"subject":"maths"},
+  {"topic":"Rational Numbers","chapter":"Operations","question":"(-3/5) + (2/5) = ?","options":["1/5","-1/5","-3/10","5/3"],"answer":"-1/5","grade":8,"subject":"maths"},
+  {"topic":"Linear Equations","chapter":"Basics","question":"Solve: 2x + 6 = 18","options":["5","6","10","12"],"answer":"6","grade":8,"subject":"maths"},
+  {"topic":"Linear Equations","chapter":"Applications","question":"If x - 4 = 10, then x = ?","options":["6","14","4","10"],"answer":"14","grade":8,"subject":"maths"},
+  {"topic":"Squares","chapter":"Basics","question":"Square of 13 is __.","options":["169","139","196","136"],"answer":"169","grade":8,"subject":"maths"},
+  {"topic":"Cubes","chapter":"Basics","question":"Cube of 3 is __.","options":["9","18","27","36"],"answer":"27","grade":8,"subject":"maths"},
+  {"topic":"Exponents","chapter":"Laws","question":"2³ × 2² = ?","options":["2⁵","2⁶","2³","2⁴"],"answer":"2⁵","grade":8,"subject":"maths"},
+  {"topic":"Factorization","chapter":"Basics","question":"Factorize: x² - 9","options":["(x+3)(x-3)","x(x-9)","(x-9)(x+9)","None"],"answer":"(x+3)(x-3)","grade":8,"subject":"maths"},
+  {"topic":"Ratio","chapter":"Basics","question":"Ratio of 50 minutes to an hour ?","options":["5:6","6:5","50:60","5:60"],"answer":"5:6","grade":8,"subject":"maths"},
+  {"topic":"Percentage","chapter":"Basics","question":"What is 25% of 200?","options":["25","50","75","100"],"answer":"50","grade":8,"subject":"maths"},
+  {"topic":"Mensuration","chapter":"Perimeter","question":"Perimeter of square of side 6 cm = ?","options":["12","18","24","36"],"answer":"24","grade":8,"subject":"maths"},
+  {"topic":"Mensuration","chapter":"Area","question":"Area of circle = ?","options":["2πr","πr²","2r²","π/2"],"answer":"πr²","grade":8,"subject":"maths"},
+  {"topic":"Geometry","chapter":"Angles","question":"Sum of angles of a quadrilateral = ?","options":["180°","270°","360°","540°"],"answer":"360°","grade":8,"subject":"maths"},
+  {"topic":"Geometry","chapter":"Triangles","question":"Right triangle has how many right angles?","options":["1","2","3","0"],"answer":"1","grade":8,"subject":"maths"},
+  {"topic":"Data Handling","chapter":"Pie Chart","question":"Pie chart shows data in the form of __.","options":["bars","circles","pictures","lines"],"answer":"circles","grade":8,"subject":"maths"},
+  {"topic":"Probability","chapter":"Basics","question":"Probability of getting head in a coin toss is __.","options":["0","1","1/2","2"],"answer":"1/2","grade":8,"subject":"maths"},
+  {"topic":"Simple Interest","chapter":"Basics","question":"SI = (P×R×T)/__","options":["100","10","P","RT"],"answer":"100","grade":8,"subject":"maths"},
+  {"topic":"Exponents","chapter":"Basics","question":"5⁰ equals __.","options":["0","1","5","undefined"],"answer":"1","grade":8,"subject":"maths"},
+  {"topic":"Squares","chapter":"Properties","question":"A perfect square always ends with __.","options":["2 or 3","0,1,4,5,6,9","7 only","8 only"],"answer":"0,1,4,5,6,9","grade":8,"subject":"maths"},
+  {"topic":"Algebra","chapter":"Simplification","question":"Value of 3(x+2) if x=5?","options":["21","18","15","27"],"answer":"21","grade":8,"subject":"maths"}
+]

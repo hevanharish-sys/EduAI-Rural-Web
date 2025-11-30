@@ -1,0 +1,35 @@
+[
+  {
+    "id": "g9-dd-1",
+    "title": "Match Chemical Formula",
+    "desc": "Match each chemical formula to its correct name.",
+    "pairs": [
+      { "drag": "CO2", "target": "carbon-dioxide" }
+    ]
+  },
+  {
+    "id": "g9-dd-2",
+    "title": "Match Historical Figures",
+    "desc": "Match the historical figure to the correct movement.",
+    "pairs": [
+      { "drag": "Leader A", "target": "movement-a" }
+    ]
+  },
+  {
+    "id": "g9-dd-3",
+    "title": "Match Equations to Graphs",
+    "desc": "Drag the equation to its matching graph.",
+    "pairs": [
+      { "drag": "y=2x+1", "target": "linear-graph" }
+    ]
+  },
+  {
+    "id": "g9-dd-4",
+    "title": "Match Planet to Fact",
+    "desc": "Match each planet to the correct fact.",
+    "pairs": [
+      { "drag": "Venus", "target": "hottest" }
+    ]
+  }
+]
+

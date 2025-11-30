@@ -1,0 +1,46 @@
+[
+  {
+    "id": "g7-pz-1",
+    "title": "Chemical Example",
+    "desc": "Which chemical/product is pictured?",
+    "type": "puzzle",
+    "question": "Which chemical/product is shown?",
+    "image": "https://picsum.photos/id/1085/800/600",
+    "grid": 3,
+    "time": 20
+  },
+  {
+    "id": "g7-pz-2",
+    "title": "Economy Item",
+    "desc": "Identify the trade product shown.",
+    "type": "puzzle",
+    "question": "Which trade item is pictured?",
+    "image": "https://picsum.photos/id/1089/800/600",
+    "grid": 3,
+    "time": 20
+  },
+  {
+    "id": "g7-pz-3",
+    "title": "Biome Example",
+    "desc": "Which biome element is pictured?",
+    "type": "puzzle",
+    "question": "Which biome is shown?",
+    "image": "https://picsum.photos/id/109/800/600",
+    "grid": 3,
+    "time": 20
+  },
+  {
+    "id": "g7-pz-4",
+    "title": "Force Illustration",
+    "desc": "Which force is represented?",
+    "type": "puzzle",
+    "question": "Which force is pictured?",
+    "image": "https://picsum.photos/id/110/800/600",
+    "grid": 3,
+    "time": 18
+  }
+]
+
+
+
+

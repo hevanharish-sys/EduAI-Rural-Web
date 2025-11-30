@@ -1,0 +1,22 @@
+[
+  {"topic":"Basics","chapter":"Computer System","question":"Which is NOT an output device?","options":["Monitor","Printer","Speaker","Keyboard"],"answer":"Keyboard","grade":8,"subject":"computer"},
+  {"topic":"Operating System","chapter":"Windows","question":"Recycle Bin stores __.","options":["deleted files","system files","music","temporary RAM"],"answer":"deleted files","grade":8,"subject":"computer"},
+  {"topic":"MS Word","chapter":"Editing","question":"Shortcut for copy is __.","options":["Ctrl+X","Ctrl+C","Ctrl+V","Ctrl+P"],"answer":"Ctrl+C","grade":8,"subject":"computer"},
+  {"topic":"MS Excel","chapter":"Functions","question":"AVERAGE() gives __.","options":["sum","mean","maximum","minimum"],"answer":"mean","grade":8,"subject":"computer"},
+  {"topic":"PowerPoint","chapter":"Slides","question":"PowerPoint files have extension __.","options":[".pptx",".docx",".xlsx",".exe"],"answer":".pptx","grade":8,"subject":"computer"},
+  {"topic":"Internet","chapter":"Network","question":"WAN covers __.","options":["small area","large area","room","building"],"answer":"large area","grade":8,"subject":"computer"},
+  {"topic":"Internet","chapter":"Email","question":"BCC means __.","options":["Blind Carbon Copy","Binary Copy Code","Back Control Channel","Block Copy"],"answer":"Blind Carbon Copy","grade":8,"subject":"computer"},
+  {"topic":"Cyber Safety","chapter":"Security","question":"A strong password should have __.","options":["your name","simple words","mixed characters","birthdate"],"answer":"mixed characters","grade":8,"subject":"computer"},
+  {"topic":"Programming","chapter":"Basics","question":"Flowcharts use __ to show process.","options":["shapes","paragraphs","tables","photos"],"answer":"shapes","grade":8,"subject":"computer"},
+  {"topic":"Programming","chapter":"Scratch","question":"Scratch uses __ programming.","options":["text","block-based","binary","AI"],"answer":"block-based","grade":8,"subject":"computer"},
+  {"topic":"Hardware","chapter":"CPU","question":"ALU is part of __.","options":["CPU","RAM","ROM","SSD"],"answer":"CPU","grade":8,"subject":"computer"},
+  {"topic":"Storage","chapter":"Memory","question":"Permanent memory is __.","options":["RAM","ROM","Cache","Registers"],"answer":"ROM","grade":8,"subject":"computer"},
+  {"topic":"Networking","chapter":"LAN","question":"LAN stands for __.","options":["Local Area Network","Large Area Number","Language And Network","Low Area Net"],"answer":"Local Area Network","grade":8,"subject":"computer"},
+  {"topic":"Email","chapter":"Spam","question":"Unwanted email is called __.","options":["inbox","draft","spam","attachment"],"answer":"spam","grade":8,"subject":"computer"},
+  {"topic":"Cyber Safety","chapter":"Viruses","question":"Viruses spread through __.","options":["typing","sharing USBs","reading","washing"],"answer":"sharing USBs","grade":8,"subject":"computer"},
+  {"topic":"Hardware","chapter":"Motherboard","question":"Motherboard holds __.","options":["CPU","RAM","ROM","all"],"answer":"all","grade":8,"subject":"computer"},
+  {"topic":"Internet","chapter":"Search","question":"Google is a __.","options":["browser","search engine","file system","operating system"],"answer":"search engine","grade":8,"subject":"computer"},
+  {"topic":"Apps","chapter":"Software","question":"Instagram is a __.","options":["utility","application","OS","driver"],"answer":"application","grade":8,"subject":"computer"},
+  {"topic":"Security","chapter":"Firewall","question":"Firewall protects against __.","options":["electricity","viruses","hackers","heat"],"answer":"hackers","grade":8,"subject":"computer"},
+  {"topic":"Storage","chapter":"Devices","question":"1 TB = __ GB.","options":["100","1024","512","2048"],"answer":"1024","grade":8,"subject":"computer"}
+]

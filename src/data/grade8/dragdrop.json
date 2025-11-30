@@ -1,0 +1,35 @@
+[
+  {
+    "id": "g8-dd-1",
+    "title": "Match Ecosystem Terms",
+    "desc": "Drag the item to the correct ecosystem role.",
+    "pairs": [
+      { "drag": "Plant", "target": "producer-slot" }
+    ]
+  },
+  {
+    "id": "g8-dd-2",
+    "title": "Match Electricity Components",
+    "desc": "Match the electrical component to the correct circuit part.",
+    "pairs": [
+      { "drag": "Bulb", "target": "circuit" }
+    ]
+  },
+  {
+    "id": "g8-dd-3",
+    "title": "Match Words to Meanings",
+    "desc": "Drag the word to its correct definition.",
+    "pairs": [
+      { "drag": "Erosion", "target": "meaning-slot" }
+    ]
+  },
+  {
+    "id": "g8-dd-4",
+    "title": "Match Graph to Data",
+    "desc": "Match the graph type to the correct dataset.",
+    "pairs": [
+      { "drag": "Bar Chart", "target": "bar-slot" }
+    ]
+  }
+]
+

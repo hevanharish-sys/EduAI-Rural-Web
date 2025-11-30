@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Plants",
+    "chapter": "Photosynthesis",
+    "question": "Plants make food in their __.",
+    "options": ["Roots", "Flowers", "Leaves", "Stem"],
+    "answer": "Leaves",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Plants",
+    "chapter": "Types",
+    "question": "Which of these is a shrub?",
+    "options": ["Rose", "Mango", "Money Plant", "Bamboo"],
+    "answer": "Rose",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "Adaptation",
+    "question": "Camels store fat in their __.",
+    "options": ["Legs", "Hump", "Neck", "Tail"],
+    "answer": "Hump",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "Breathing",
+    "question": "Fish breathe through __.",
+    "options": ["Lungs", "Skin", "Gills", "Nose"],
+    "answer": "Gills",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Human Body",
+    "chapter": "Digestive System",
+    "question": "Digestion begins in the __.",
+    "options": ["Stomach", "Mouth", "Liver", "Intestine"],
+    "answer": "Mouth",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Human Body",
+    "chapter": "Circulation",
+    "question": "The heart pumps __.",
+    "options": ["Water", "Air", "Blood", "Sweat"],
+    "answer": "Blood",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Matter",
+    "chapter": "States",
+    "question": "Ice changes to water on __.",
+    "options": ["Freezing", "Melting", "Evaporating", "Condensing"],
+    "answer": "Melting",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Matter",
+    "chapter": "States",
+    "question": "Water changes to gas on __.",
+    "options": ["Melting", "Evaporation", "Freezing", "Condensation"],
+    "answer": "Evaporation",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Force",
+    "chapter": "Motion",
+    "question": "A push or pull is called __.",
+    "options": ["Heat", "Force", "Light", "Sound"],
+    "answer": "Force",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Force",
+    "chapter": "Friction",
+    "question": "Friction is a __ force.",
+    "options": ["Pushing", "Opposing", "Helping", "Pulling"],
+    "answer": "Opposing",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Energy",
+    "chapter": "Sources",
+    "question": "Sun is the primary source of __.",
+    "options": ["Water", "Energy", "Metal", "Wind"],
+    "answer": "Energy",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Energy",
+    "chapter": "Forms",
+    "question": "Burning fuels produce __ energy.",
+    "options": ["Wind", "Solar", "Heat", "Light"],
+    "answer": "Heat",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Light",
+    "chapter": "Shadows",
+    "question": "Shadows are formed when light is __.",
+    "options": ["Absorbed", "Blocked", "Created", "Bounced"],
+    "answer": "Blocked",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Light",
+    "chapter": "Sources",
+    "question": "Which is a natural source of light?",
+    "options": ["Bulb", "Candle", "Sun", "Torch"],
+    "answer": "Sun",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Sound",
+    "chapter": "Vibrations",
+    "question": "Sound is produced by __.",
+    "options": ["Heat", "Vibrations", "Light", "Cold"],
+    "answer": "Vibrations",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Weather",
+    "chapter": "Climate",
+    "question": "Weather changes from day to __.",
+    "options": ["Month", "Year", "Day", "Century"],
+    "answer": "Day",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Soil",
+    "chapter": "Erosion",
+    "question": "Soil erosion is caused by __.",
+    "options": ["Wind and water", "Books", "Lights", "Noise"],
+    "answer": "Wind and water",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Pollution",
+    "chapter": "Air Pollution",
+    "question": "Smoke from vehicles causes __ pollution.",
+    "options": ["Water", "Air", "Land", "Noise"],
+    "answer": "Air",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Safety",
+    "chapter": "Rules",
+    "question": "We should cross the road at the __.",
+    "options": ["Intersection", "Footpath", "Zebra crossing", "Parking"],
+    "answer": "Zebra crossing",
+    "grade": 4,
+    "subject": "science"
+  },
+  {
+    "topic": "Safety",
+    "chapter": "First Aid",
+    "question": "In case of small cuts, we should use a __.",
+    "options": ["Bandage", "Spoon", "Pen", "Brush"],
+    "answer": "Bandage",
+    "grade": 4,
+    "subject": "science"
+  }
+]

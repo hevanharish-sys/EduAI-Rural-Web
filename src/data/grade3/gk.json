@@ -1,0 +1,183 @@
+[
+  {
+    "topic": "India",
+    "chapter": "Symbols",
+    "question": "Who is the Father of the Nation of India?",
+    "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "APJ Abdul Kalam", "Subhash Chandra Bose"],
+    "answer": "Mahatma Gandhi",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "India",
+    "chapter": "General",
+    "question": "Which city is known as the Pink City?",
+    "options": ["Delhi", "Mumbai", "Jaipur", "Chennai"],
+    "answer": "Jaipur",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "World",
+    "chapter": "Geography",
+    "question": "Which is the smallest continent?",
+    "options": ["Asia", "Australia", "Europe", "Africa"],
+    "answer": "Australia",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "World",
+    "chapter": "General",
+    "question": "Which planet is called the Blue Planet?",
+    "options": ["Mars", "Earth", "Jupiter", "Venus"],
+    "answer": "Earth",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "General",
+    "question": "Which is the tallest animal?",
+    "options": ["Elephant", "Giraffe", "Tiger", "Horse"],
+    "answer": "Giraffe",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "General",
+    "question": "Which bird cannot fly?",
+    "options": ["Parrot", "Penguin", "Crow", "Sparrow"],
+    "answer": "Penguin",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "Sports",
+    "chapter": "Olympics",
+    "question": "How many rings are there in the Olympic logo?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "Sports",
+    "chapter": "General",
+    "question": "Which game uses a racket?",
+    "options": ["Cricket", "Football", "Badminton", "Hockey"],
+    "answer": "Badminton",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "Festivals",
+    "chapter": "India",
+    "question": "Which festival is known as the festival of lights?",
+    "options": ["Holi", "Diwali", "Eid", "Christmas"],
+    "answer": "Diwali",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "Festivals",
+    "chapter": "India",
+    "question": "Eid is celebrated after the month of __.",
+    "options": ["Holi", "Ramadan", "Diwali", "Vaisakhi"],
+    "answer": "Ramadan",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "Inventions",
+    "chapter": "Technology",
+    "question": "Who invented the telephone?",
+    "options": ["Newton", "Edison", "Alexander Graham Bell", "Wright Brothers"],
+    "answer": "Alexander Graham Bell",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "Inventions",
+    "chapter": "Technology",
+    "question": "What does a thermometer measure?",
+    "options": ["Length", "Temperature", "Weight", "Speed"],
+    "answer": "Temperature",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "Nature",
+    "chapter": "Environment",
+    "question": "Which gas do plants give us?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "Nature",
+    "chapter": "Environment",
+    "question": "Which one is a natural resource?",
+    "options": ["Plastic", "Coal", "Glass", "Iron rod"],
+    "answer": "Coal",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "Transport",
+    "chapter": "Vehicles",
+    "question": "Which vehicle travels on rails?",
+    "options": ["Bus", "Car", "Train", "Scooter"],
+    "answer": "Train",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "Transport",
+    "chapter": "Air Transport",
+    "question": "Which vehicle flies?",
+    "options": ["Aeroplane", "Car", "Truck", "Scooter"],
+    "answer": "Aeroplane",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "World Leaders",
+    "chapter": "General",
+    "question": "Who is known as the Missile Man of India?",
+    "options": ["APJ Abdul Kalam", "Nehru", "Ambedkar", "Gandhi"],
+    "answer": "APJ Abdul Kalam",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "World Leaders",
+    "chapter": "General",
+    "question": "Who invented the electric bulb?",
+    "options": ["Edison", "Newton", "Einstein", "Galileo"],
+    "answer": "Edison",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "Human Body",
+    "chapter": "Organs",
+    "question": "Which organ is used for thinking?",
+    "options": ["Heart", "Brain", "Lungs", "Skin"],
+    "answer": "Brain",
+    "grade": 3,
+    "subject": "gk"
+  },
+  {
+    "topic": "Human Body",
+    "chapter": "Organs",
+    "question": "Which organ helps us breathe?",
+    "options": ["Brain", "Lungs", "Stomach", "Heart"],
+    "answer": "Lungs",
+    "grade": 3,
+    "subject": "gk"
+  }
+]
+

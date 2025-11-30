@@ -1,0 +1,189 @@
+[
+  {
+    "topic": "Family",
+    "chapter": "My Family",
+    "question": "Who cooks food at home?",
+    "options": ["Teacher", "Pilot", "Family members", "Driver"],
+    "answer": "Family members",
+    "grade": 1,
+    "subject": "evs"
+  },
+  {
+    "topic": "Family",
+    "chapter": "Relations",
+    "question": "Your mother’s mother is called?",
+    "options": ["Sister", "Grandmother", "Aunt", "Cousin"],
+    "answer": "Grandmother",
+    "grade": 1,
+    "subject": "evs"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "Pet Animals",
+    "question": "Which animal lives in our home?",
+    "options": ["Lion", "Dog", "Elephant", "Tiger"],
+    "answer": "Dog",
+    "grade": 1,
+    "subject": "evs"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "Wild Animals",
+    "question": "Which of these is a wild animal?",
+    "options": ["Cow", "Goat", "Lion", "Cat"],
+    "answer": "Lion",
+    "grade": 1,
+    "subject": "evs"
+  },
+
+  {
+    "topic": "Plants",
+    "chapter": "Parts of Plants",
+    "question": "Which part of the plant is green?",
+    "options": ["Leaf", "Root", "Stem", "Seed"],
+    "answer": "Leaf",
+    "grade": 1,
+    "subject": "evs"
+  },
+
+  {
+    "topic": "Plants",
+    "chapter": "Trees & Shrubs",
+    "question": "Which one is a tree?",
+    "options": ["Rose", "Neem", "Grass", "Money plant"],
+    "answer": "Neem",
+    "grade": 1,
+    "subject": "evs"
+  },
+
+  {
+    "topic": "My Body",
+    "chapter": "Body Parts",
+    "question": "We use our legs to ___.",
+    "options": ["See", "Hear", "Walk", "Taste"],
+    "answer": "Walk",
+    "grade": 1,
+    "subject": "evs"
+  },
+  {
+    "topic": "My Body",
+    "chapter": "Body Parts",
+    "question": "We smell with our ___.",
+    "options": ["Eyes", "Nose", "Hands", "Ears"],
+    "answer": "Nose",
+    "grade": 1,
+    "subject": "evs"
+  },
+
+  {
+    "topic": "Food",
+    "chapter": "Healthy Food",
+    "question": "Which is a healthy food?",
+    "options": ["Chips", "Apple", "Chocolate", "Soda"],
+    "answer": "Apple",
+    "grade": 1,
+    "subject": "evs"
+  },
+
+  {
+    "topic": "Food",
+    "chapter": "Sources of Food",
+    "question": "Milk comes from?",
+    "options": ["Cow", "Lion", "Goat", "Both cow & goat"],
+    "answer": "Both cow & goat",
+    "grade": 1,
+    "subject": "evs"
+  },
+
+  {
+    "topic": "Water",
+    "chapter": "Uses of Water",
+    "question": "We use water for ___.",
+    "options": ["Sleeping", "Drinking", "Running", "Talking"],
+    "answer": "Drinking",
+    "grade": 1,
+    "subject": "evs"
+  },
+
+  {
+    "topic": "Transport",
+    "chapter": "Vehicles",
+    "question": "Which vehicle flies in the sky?",
+    "options": ["Car", "Bus", "Aeroplane", "Bicycle"],
+    "answer": "Aeroplane",
+    "grade": 1,
+    "subject": "evs"
+  },
+
+  {
+    "topic": "Transport",
+    "chapter": "Vehicles",
+    "question": "Which vehicle moves on water?",
+    "options": ["Car", "Ship", "Train", "Bike"],
+    "answer": "Ship",
+    "grade": 1,
+    "subject": "evs"
+  },
+
+  {
+    "topic": "Safety",
+    "chapter": "Safety Rules",
+    "question": "We cross the road at the ___.",
+    "options": ["Playground", "Bus stop", "Zebra crossing", "Market"],
+    "answer": "Zebra crossing",
+    "grade": 1,
+    "subject": "evs"
+  },
+
+  {
+    "topic": "Safety",
+    "chapter": "Safety Rules",
+    "question": "What light means ‘stop’?",
+    "options": ["Green", "Yellow", "Red", "Blue"],
+    "answer": "Red",
+    "grade": 1,
+    "subject": "evs"
+  },
+
+  {
+    "topic": "Seasons",
+    "chapter": "Weather",
+    "question": "In which season do we wear woollen clothes?",
+    "options": ["Summer", "Winter", "Rainy", "Spring"],
+    "answer": "Winter",
+    "grade": 1,
+    "subject": "evs"
+  },
+
+  {
+    "topic": "Seasons",
+    "chapter": "Weather",
+    "question": "In which season does it rain?",
+    "options": ["Summer", "Winter", "Rainy", "Autumn"],
+    "answer": "Rainy",
+    "grade": 1,
+    "subject": "evs"
+  },
+
+  {
+    "topic": "Good Habits",
+    "chapter": "Daily Habits",
+    "question": "We brush our teeth ___.",
+    "options": ["Once a week", "Every day", "Once a month", "Never"],
+    "answer": "Every day",
+    "grade": 1,
+    "subject": "evs"
+  },
+
+  {
+    "topic": "Good Habits",
+    "chapter": "Cleanliness",
+    "question": "We should wash our hands before __.",
+    "options": ["Playing", "Sleeping", "Eating", "Running"],
+    "answer": "Eating",
+    "grade": 1,
+    "subject": "evs"
+  }
+]
+
+

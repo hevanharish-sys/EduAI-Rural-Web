@@ -1,0 +1,187 @@
+[
+  {
+    "topic": "Grammar",
+    "chapter": "Nouns",
+    "question": "Which of the following is an abstract noun?",
+    "options": ["Beauty", "Book", "Tiger", "River"],
+    "answer": "Beauty",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Grammar",
+    "chapter": "Nouns",
+    "question": "Choose the collective noun.",
+    "options": ["Bunch", "Chair", "Flower", "School"],
+    "answer": "Bunch",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Pronouns",
+    "chapter": "Usage",
+    "question": "The boys enjoyed __ at the park.",
+    "options": ["himself", "herself", "themselves", "itself"],
+    "answer": "themselves",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Pronouns",
+    "chapter": "Usage",
+    "question": "Sita lost her pen. This pen belongs to __.",
+    "options": ["her", "him", "them", "it"],
+    "answer": "her",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Tenses",
+    "chapter": "Verb Forms",
+    "question": "Choose the past tense: They __ the match.",
+    "options": ["win", "wins", "won", "winning"],
+    "answer": "won",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Tenses",
+    "chapter": "Future",
+    "question": "Choose the future tense: She __ come tomorrow.",
+    "options": ["came", "comes", "will come", "coming"],
+    "answer": "will come",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Adverbs",
+    "chapter": "Usage",
+    "question": "She speaks __.",
+    "options": ["loud", "loudly", "louder", "loudest"],
+    "answer": "loudly",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Adjectives",
+    "chapter": "Comparison",
+    "question": "Choose the comparative degree: This bag is __ than that one.",
+    "options": ["heavy", "heavier", "heaviest", "most heavy"],
+    "answer": "heavier",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Punctuation",
+    "chapter": "Comma",
+    "question": "Which sentence is punctuated correctly?",
+    "options": [
+      "We ate apples bananas and grapes.",
+      "We ate apples, bananas and grapes.",
+      "We ate, apples bananas, and grapes.",
+      "We, ate apples bananas and grapes."
+    ],
+    "answer": "We ate apples, bananas and grapes.",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Punctuation",
+    "chapter": "Exclamation",
+    "question": "Choose the exclamatory sentence:",
+    "options": ["Open the door.", "Where is my book?", "What a beautiful view!", "She is dancing."],
+    "answer": "What a beautiful view!",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Comprehension",
+    "chapter": "Story",
+    "question": "Who helped the little bird in the story?",
+    "options": ["The tree", "The cat", "The boy", "The wind"],
+    "answer": "The boy",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Comprehension",
+    "chapter": "Story",
+    "question": "What did the bird lose?",
+    "options": ["Feather", "Nest", "Seed", "Friend"],
+    "answer": "Feather",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Vocabulary",
+    "chapter": "Synonyms",
+    "question": "Choose the synonym of 'brilliant'.",
+    "options": ["Dull", "Smart", "Slow", "Weak"],
+    "answer": "Smart",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Vocabulary",
+    "chapter": "Antonyms",
+    "question": "Choose the antonym of 'polite'.",
+    "options": ["Rude", "Kind", "Calm", "Gentle"],
+    "answer": "Rude",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Articles",
+    "chapter": "A/An/The",
+    "question": "She is reading __ interesting book.",
+    "options": ["a", "an", "the", "no article"],
+    "answer": "an",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Articles",
+    "chapter": "A/An/The",
+    "question": "__ Pacific Ocean is the largest ocean.",
+    "options": ["A", "An", "The", "No article"],
+    "answer": "The",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Prepositions",
+    "chapter": "Place",
+    "question": "The cat jumped __ the wall.",
+    "options": ["in", "on", "over", "into"],
+    "answer": "over",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Prepositions",
+    "chapter": "Time",
+    "question": "We will meet __ Monday.",
+    "options": ["in", "on", "at", "from"],
+    "answer": "on",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Story",
+    "chapter": "Moral Stories",
+    "question": "In the tale 'The Honest Woodcutter', who returned the axes?",
+    "options": ["Fairy", "God", "Angel", "King"],
+    "answer": "Fairy",
+    "grade": 5,
+    "subject": "english"
+  },
+  {
+    "topic": "Story",
+    "chapter": "Moral Stories",
+    "question": "What is the moral of the story?",
+    "options": ["Honesty is the best policy", "Always lie", "Steal things", "Be rude"],
+    "answer": "Honesty is the best policy",
+    "grade": 5,
+    "subject": "english"
+  }
+]

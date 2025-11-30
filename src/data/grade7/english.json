@@ -1,0 +1,22 @@
+[
+  {"topic":"Grammar","chapter":"Nouns","question":"Choose the abstract noun.","options":["Child","Childhood","Children","Chair"],"answer":"Childhood","grade":7,"subject":"english"},
+  {"topic":"Grammar","chapter":"Tenses","question":"Select past perfect tense:","options":["He finished his work.","He had finished his work.","He finishes his work.","He will finish his work."],"answer":"He had finished his work.","grade":7,"subject":"english"},
+  {"topic":"Grammar","chapter":"Adverbs","question":"Choose the adverb: She sings beautifully.","options":["She","sings","beautifully","None"],"answer":"beautifully","grade":7,"subject":"english"},
+  {"topic":"Grammar","chapter":"Clauses","question":"Identify the subordinate clause: I ate because I was hungry.","options":["I ate","because I was hungry","I was hungry","ate because"],"answer":"because I was hungry","grade":7,"subject":"english"},
+  {"topic":"Vocabulary","chapter":"Synonyms","question":"Synonym of 'generous'?","options":["selfish","kind","rude","angry"],"answer":"kind","grade":7,"subject":"english"},
+  {"topic":"Vocabulary","chapter":"Antonyms","question":"Antonym of 'rapid'?","options":["quick","slow","fast","swift"],"answer":"slow","grade":7,"subject":"english"},
+  {"topic":"Reading","chapter":"Inference","question":"If a character is shivering, we can infer they feel __.","options":["hungry","cold","happy","bored"],"answer":"cold","grade":7,"subject":"english"},
+  {"topic":"Grammar","chapter":"Prepositions","question":"Choose the correct preposition: He sat __ the tree.","options":["on","in","under","into"],"answer":"under","grade":7,"subject":"english"},
+  {"topic":"Grammar","chapter":"Active/Passive","question":"Change to passive: He wrote a letter.","options":["A letter is written by him.","A letter was written by him.","A letter has been written.","He was writing a letter."],"answer":"A letter was written by him.","grade":7,"subject":"english"},
+  {"topic":"Grammar","chapter":"Direct/Indirect","question":"Indirect: She said, “I am busy.”","options":["She said that she is busy.","She said that she was busy.","She said she will be busy.","She said she be busy."],"answer":"She said that she was busy.","grade":7,"subject":"english"},
+  {"topic":"Literature","chapter":"Poetry","question":"A poem expressing grief is called __.","options":["ode","elegy","lyric","sonnet"],"answer":"elegy","grade":7,"subject":"english"},
+  {"topic":"Literature","chapter":"Prose","question":"Prose is written in __.","options":["lines","rhymes","paragraphs","verses"],"answer":"paragraphs","grade":7,"subject":"english"},
+  {"topic":"Vocabulary","chapter":"Phrasal Verbs","question":"Meaning of 'look after'?","options":["search","care for","look at","ignore"],"answer":"care for","grade":7,"subject":"english"},
+  {"topic":"Grammar","chapter":"Determiners","question":"Choose the determiner: __ of the boys were late.","options":["Many","Much","Often","Quick"],"answer":"Many","grade":7,"subject":"english"},
+  {"topic":"Writing","chapter":"Notice","question":"A notice must include __.","options":["dialogues","date","letters","poems"],"answer":"date","grade":7,"subject":"english"},
+  {"topic":"Writing","chapter":"Letter","question":"A formal letter uses __ tone.","options":["emotional","casual","polite","angry"],"answer":"polite","grade":7,"subject":"english"},
+  {"topic":"Grammar","chapter":"Conjunctions","question":"Choose conjunction: I ran fast __ I missed the bus.","options":["but","so","and","if"],"answer":"but","grade":7,"subject":"english"},
+  {"topic":"Reading","chapter":"Theme","question":"Theme of a story refers to __.","options":["characters","main message","title","length"],"answer":"main message","grade":7,"subject":"english"},
+  {"topic":"Vocabulary","chapter":"Idioms","question":"Meaning of 'break the ice'?","options":["fall down","start a conversation","break something","freeze water"],"answer":"start a conversation","grade":7,"subject":"english"},
+  {"topic":"Grammar","chapter":"Modals","question":"Choose correct modal: You __ finish the exam in time.","options":["can","must","may","might"],"answer":"must","grade":7,"subject":"english"}
+]

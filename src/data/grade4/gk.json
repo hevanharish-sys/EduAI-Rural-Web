@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "India",
+    "chapter": "General",
+    "question": "Which is the national flower of India?",
+    "options": ["Rose", "Sunflower", "Lotus", "Lily"],
+    "answer": "Lotus",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "India",
+    "chapter": "States",
+    "question": "Which state is known as the 'Land of Five Rivers'?",
+    "options": ["Punjab", "Kerala", "Gujarat", "Assam"],
+    "answer": "Punjab",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "World",
+    "chapter": "Geography",
+    "question": "Which is the largest desert in the world?",
+    "options": ["Gobi", "Thar", "Sahara", "Kalahari"],
+    "answer": "Sahara",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "World",
+    "chapter": "General",
+    "question": "Which is the tallest mountain?",
+    "options": ["Mount Everest", "K2", "Kangchenjunga", "Nanda Devi"],
+    "answer": "Mount Everest",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "General",
+    "question": "Which animal is known as the 'Ship of the Desert'?",
+    "options": ["Horse", "Camel", "Elephant", "Donkey"],
+    "answer": "Camel",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "Animals",
+    "chapter": "General",
+    "question": "Which bird lays the largest eggs?",
+    "options": ["Hen", "Duck", "Ostrich", "Sparrow"],
+    "answer": "Ostrich",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "Sports",
+    "chapter": "Olympics",
+    "question": "How many players are there in a hockey team?",
+    "options": ["9", "10", "11", "12"],
+    "answer": "11",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "Sports",
+    "chapter": "India",
+    "question": "Which sport is PV Sindhu associated with?",
+    "options": ["Cricket", "Tennis", "Badminton", "Football"],
+    "answer": "Badminton",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "Festivals",
+    "chapter": "India",
+    "question": "Which festival marks the victory of good over evil?",
+    "options": ["Christmas", "Holi", "Dussehra", "Eid"],
+    "answer": "Dussehra",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "Festivals",
+    "chapter": "India",
+    "question": "Which festival celebrates the harvest season?",
+    "options": ["Diwali", "Pongal", "Holi", "Raksha Bandhan"],
+    "answer": "Pongal",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "Inventions",
+    "chapter": "General",
+    "question": "Who invented the airplane?",
+    "options": ["Wright Brothers", "Edison", "Newton", "Galileo"],
+    "answer": "Wright Brothers",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "Inventions",
+    "chapter": "General",
+    "question": "Which device measures temperature?",
+    "options": ["Barometer", "Thermometer", "Speedometer", "Periscope"],
+    "answer": "Thermometer",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "Nature",
+    "chapter": "Environment",
+    "question": "Which gas is essential for breathing?",
+    "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Helium"],
+    "answer": "Oxygen",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "Nature",
+    "chapter": "Environment",
+    "question": "Which is the largest land animal?",
+    "options": ["Lion", "Tiger", "Elephant", "Giraffe"],
+    "answer": "Elephant",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "Transport",
+    "chapter": "General",
+    "question": "Which vehicle runs on tracks?",
+    "options": ["Car", "Train", "Bus", "Truck"],
+    "answer": "Train",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "Transport",
+    "chapter": "Air",
+    "question": "Which vehicle flies in the sky?",
+    "options": ["Car", "Bicycle", "Boat", "Aeroplane"],
+    "answer": "Aeroplane",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "Famous People",
+    "chapter": "India",
+    "question": "Who is known as the 'Iron Man of India'?",
+    "options": ["Gandhi", "Patel", "Nehru", "Ambedkar"],
+    "answer": "Patel",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "Famous People",
+    "chapter": "World",
+    "question": "Who discovered gravity?",
+    "options": ["Newton", "Einstein", "Galileo", "Tesla"],
+    "answer": "Newton",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "Human Body",
+    "chapter": "Organs",
+    "question": "Which organ helps us to breathe?",
+    "options": ["Brain", "Heart", "Lungs", "Eyes"],
+    "answer": "Lungs",
+    "grade": 4,
+    "subject": "gk"
+  },
+  {
+    "topic": "Human Body",
+    "chapter": "Organs",
+    "question": "Which organ pumps blood?",
+    "options": ["Lungs", "Heart", "Kidneys", "Stomach"],
+    "answer": "Heart",
+    "grade": 4,
+    "subject": "gk"
+  }
+]
